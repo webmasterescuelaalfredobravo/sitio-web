@@ -60,7 +60,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/og-image.jpg`}
+          content={`${withPrefix('/')}img/og-image.png`}
         />
         <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="" />
         <script src={`${withPrefix('/')}onesignal-bootstrap.js`} async="" />
