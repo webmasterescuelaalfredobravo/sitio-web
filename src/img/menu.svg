@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="26" viewBox="0 0 33 26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="33" height="26" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repetição_de_grade_7" data-name="Repetição de grade 7" clip-path="url(#clip-path)">
+    <g transform="translate(-314 -14)">
+      <line id="Linha_3" data-name="Linha 3" x2="29" transform="translate(316 16)" fill="none" stroke="#000" stroke-width="4"/>
+    </g>
+    <g transform="translate(-314 -4)">
+      <line id="Linha_3-2" data-name="Linha 3" x2="29" transform="translate(316 16)" fill="none" stroke="#000" stroke-width="4"/>
+    </g>
+    <g transform="translate(-314 6)">
+      <line id="Linha_3-3" data-name="Linha 3" x2="29" transform="translate(316 16)" fill="none" stroke="#000" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

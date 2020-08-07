@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="800"
+   width="1280"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="fondo-naranja_1280x800.svg"
+   xml:space="preserve"
+   viewBox="0 0 1280 800.00002"
+   y="0px"
+   x="0px"
+   id="Camada_1"
+   version="1.1"><metadata
+   id="metadata10"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs8" /><sodipodi:namedview
+   inkscape:current-layer="Camada_1"
+   inkscape:window-maximized="0"
+   inkscape:window-y="0"
+   inkscape:window-x="0"
+   inkscape:cy="249.39999"
+   inkscape:cx="698.75"
+   inkscape:zoom="0.86440072"
+   showgrid="false"
+   id="namedview6"
+   inkscape:window-height="767"
+   inkscape:window-width="1897"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style2"
+   type="text/css">
+	.st0{fill:#F49725;}
+</style>
+<path
+   style="stroke-width:1.21263"
+   d="M 83.623612,797.11018 C 125.38962,801.60545 155.98139,783.46377 200.1288,787.63796 241.52844,791.49107 282.19534,800 324.14454,800 c 100.56815,0 200.58675,-14.93077 301.15491,-14.77023 91.40894,0.16055 182.90948,-4.81636 274.68479,-4.97691 70.89231,-0.16055 140.77706,12.36202 211.48626,17.33895 43.4146,0 86.005,-6.58238 125.756,-5.61911 33.3395,1.92655 42.7735,2.40819 42.7735,2.40819 V 0 H 0 v 788.28014 c 0,0 42.040786,4.49529 83.623612,8.83004 z"
+   class="st0"
+   id="Caminho_214" />
+</svg>

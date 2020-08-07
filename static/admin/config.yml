@@ -1,0 +1,42 @@
+backend:
+  name: git-gateway
+  branch: master
+  commit_messages:
+    create: 'Create {{collection}} “{{slug}}”'
+    update: 'Update {{collection}} “{{slug}}”'
+    delete: 'Delete {{collection}} “{{slug}}”'
+    uploadMedia: '[skip ci] Upload “{{path}}”'
+    deleteMedia: '[skip ci] Delete “{{path}}”'
+
+media_folder: static/img
+public_folder: /img
+locale: 'es'
+collections:
+  - name: "pages"
+    label: "Páginas"
+    files:
+      - file: "src/pages/index.md"
+        label: "Página de inicio"
+        name: "index"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
+          - {label: "Slide Principal", name: slideppal, widget: list, fields: [{label: Texto, name: texto, widget: string,required: false},{label: "Imagen de Fondo", name: imagenfondo, widget: image}, {label: link, name: link, widget: string,required: false},{label: "Ubicación del texto", name: "alineado",widget: "select", options: ["izquierda","derecha"]}]}
+          - {label: "Nota corta", name: notacorta, widget: list, fields: [{label: "Título", name: titulo,required: false, widget: string}, {label: "Texto", name: texto, widget: text}, {label: link, name: link, widget: string,required: false}]}
+
+      - file: "src/pages/administracion.md"
+        label: "Administración"
+        name: "administracion"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "administracion-page"}
+          - {label: "Archivo con Códigos de pago", name: csvcodpago, widget: file}
+          - {label: "Medios de Pago", name: mediospago, widget: list, fields: [{label: "Título", name: titulo, widget: string}, {label: "Texto", name: texto, widget: text},{label: "Imagen de Fondo", name: imagen, widget: image}]}
+          - {label: "Slide de Administración", name: slide, widget: list, fields: [{label: Texto, name: texto, widget: string,required: false},{label: "Imagen de Fondo", name: imagenfondo, widget: image}, {label: link, name: link, widget: string,required: false},{label: "Alineado", name: "alineado",widget: "select", options: [ "izquierda","derecha"]}]}
+
+      - file: "src/pages/escuela.md"
+        label: "La Escuela"
+        name: "escuela"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "escuela-page"}
+          - {label: "Slide de la Escuela", name: slide, widget: list, fields: [{label: Texto, name: texto, widget: string,required: false},{label: "Imagen de Fondo", name: imagenfondo, widget: image}, {label: link, name: link, widget: string,required: false},{label: "Alineado", name: "alineado",widget: "select", options: [ "izquierda","derecha"]}]}
+          - {label: "Nota", name: nota, widget: list, fields: [{label: "Título", name: titulo, widget: string}, {label: "Texto", name: texto, widget: text},{label: "Imagen", name: imagen, widget: image},{label: "Alineado", name: "alineado",widget: "select", options: ["centro", "izquierda","derecha"]}]}
+

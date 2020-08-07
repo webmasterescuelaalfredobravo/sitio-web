@@ -1,0 +1,37 @@
+.pagina-contacto .mapa-ubicacion .leaflet-container {
+  height: 445px;
+}
+.codigo-pago.estado-0 .icono-status {
+  display: none;
+}
+
+.codigo-pago.estado-1 .icono-status.ok {
+  display: none;
+}
+.codigo-pago.estado-2 .icono-status.error {
+  display: none;
+}
+.codigo-pago.estado-1 .boton-ok {
+  border: none;
+}
+.codigo-pago.estado-2 .icono-status.error {
+  display: none;
+}
+.codigo-pago.estado-2 #codigo-de-pago-input {
+  background-color: transparent;
+  border: solid 1px green;
+}
+.codigo-pago.estado-2 .boton-submitir input {
+  display: none;
+}
+@media screen and (max-width: 768px) {
+  .codigo-pago .mensaje {
+    font-size: 0.8rem;
+  }
+}
+.navegador-slides:focus, .navegador-slides:focus-within, .navegador-slides:hover, .navegador-slides.is-active  {
+  border: inherit;
+}
+button, input {
+  outline: none;
+}

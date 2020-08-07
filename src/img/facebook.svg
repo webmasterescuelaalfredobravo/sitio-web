@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_3" data-name="Caminho 3" d="M0,4.639H8V-12.694H0Z" transform="translate(0 12.694)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_181" data-name="Grupo 181" transform="translate(-202 -2048)">
+    <g id="Grupo_179" data-name="Grupo 179">
+      <circle id="Elipse_3" data-name="Elipse 3" cx="20" cy="20" r="20" transform="translate(202 2048)" fill="#4b8ed2"/>
+    </g>
+    <g id="Grupo_14" data-name="Grupo 14" transform="translate(218 2071.694)">
+      <g id="Grupo_13" data-name="Grupo 13" transform="translate(0 -12.694)" clip-path="url(#clip-path)">
+        <g id="Grupo_12" data-name="Grupo 12" transform="translate(-0.001)">
+          <path id="Caminho_2" data-name="Caminho 2" d="M.486,4.639H3.977V-4.1H6.411l.261-2.927H3.977V-8.693c0-.691.137-.963.8-.963h1.89v-3.038H4.255c-2.6,0-3.769,1.144-3.769,3.334v2.332H-1.33v2.963H.486Z" transform="translate(1.33 12.694)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
