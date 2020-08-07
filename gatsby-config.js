@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Bravo: Gatsby + Netlify CMS Starter',
+    title: 'Escuela Maestro Alfredo Bravo',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Proyecto cooperativo de Enseñanza Media. Río Ceballos, Córdoba, Argentina',
   },
   plugins: [
     {
