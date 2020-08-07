@@ -3,7 +3,7 @@ if (!window.isOneSignalInitialized) {
   console.log("bootstrapping la libreria de oneSignal");
   OneSignal.push(function () {
     OneSignal.init({
-      appId: "d9e36125-6844-43b2-b781-37f54b44ea1b",
+      appId: "62970e93-f203-4bfe-b1e2-ccee13c577da",
       notifyButton: {
         enable: true, /* Required to use the Subscription Bell */
         size: 'medium', /* One of 'small', 'medium', or 'large' */
