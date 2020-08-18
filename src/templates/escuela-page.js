@@ -26,8 +26,8 @@ export const EscuelaPageTemplate = ({
         <div name="novedades" id="novedades"  >
           <SlideInterno slides={slide} />
         </div>
-        <div name="notas"  id="notas">
-        <Nota notas={notas} />
+        <div name="notas" id="notas">
+          <Nota notas={notas} />
         </div>
       </div>
     </div>
@@ -42,12 +42,14 @@ const EscuelaPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
 
   return (
-    <Layout>
-      <EscuelaPageTemplate
-        slide={frontmatter.slide}
-        notas={frontmatter.notas}
-      />
-    </Layout>
+    <div className="pag-escuela">
+      <Layout>
+        <EscuelaPageTemplate
+          slide={frontmatter.slide}
+          notas={frontmatter.notas}
+        />
+      </Layout>
+    </div>
   );
 };
 

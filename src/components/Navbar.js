@@ -58,7 +58,7 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-end has-text-centered">
-              <Link className="navbar-item" to="/escuela" className={"navbar-item " + (typeof window !== 'undefined' && window.location.pathname === "/escuela" ? "activa" : "")}>
+              <Link className="navbar-item" to="/escuela/" className={"navbar-item " } activeClassName={"activa"} partiallyActive={true}>
                 La Escuela
               </Link>
               <Link className="navbar-item" to="/escuela#novedades" className={"navbar-item nivel-2"}>
@@ -67,7 +67,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/escuela#notas" className={"navbar-item nivel-2"}>
                 Nuestro Proyecto
               </Link>
-              <Link className="navbar-item" to="/administracion" className={"navbar-item " + (typeof window !== 'undefined' && window.location.pathname === "/administracion" ? "activa" : "")}>
+              <Link className="navbar-item" to="/administracion/" className={"navbar-item "}  activeClassName={"activa"} partiallyActive={true}>
                 Administración
               </Link>
               <Link className="navbar-item" to="/administracion#medios-de-pago" className={"navbar-item nivel-2"}>
@@ -79,7 +79,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/administracion#novedades" className={"navbar-item nivel-2"}>
                 Novedades
               </Link>
-              <Link className="navbar-item" to="/contact" className={"navbar-item " + (typeof window !== 'undefined' && window.location.pathname === "/contact" ? "activa" : "")}>
+              <Link className="navbar-item" to="/contact/" className={"navbar-item "}  activeClassName={"activa"} partiallyActive={true}>
                 Contacto
               </Link>
             </div>

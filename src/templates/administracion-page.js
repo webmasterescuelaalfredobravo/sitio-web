@@ -22,9 +22,9 @@ export const AdministracionPageTemplate = ({
             <img src={fondoTablet} alt="x" className={'fondo-tablet'} />
             <img src={fondoMobile} alt="x" className={'fondo-mobile'} />
             <img src={fondoDesktop} alt="x" className={'fondo-desktop'} />
-             
+
             <div className="tituloh2">Administración</div>
-             
+
           </div>
         </div>
         <div name="codigo-de-pago" id="codigo-de-pago">
@@ -50,13 +50,15 @@ const AdministracionPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
 
   return (
-    <Layout>
-      <AdministracionPageTemplate
-        slide={frontmatter.slide}
-        csvcodpago={frontmatter.csvcodpago}
-        mediospago={frontmatter.mediospago}
-      />
-    </Layout>
+    <div className="pag-administracion">
+      <Layout className="pag-administracion">
+        <AdministracionPageTemplate
+          slide={frontmatter.slide}
+          csvcodpago={frontmatter.csvcodpago}
+          mediospago={frontmatter.mediospago}
+        />
+      </Layout>
+    </div>
   );
 };
 

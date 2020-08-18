@@ -375,6 +375,7 @@ button.carousel__dot--selected
     padding-left: 10%
     padding-right: 10%  
 
+
 footer.footer-bravo
     background-color: $body-background-color
     height: $bravo-footer-height 
@@ -386,7 +387,8 @@ footer.footer-bravo
       border-top: solid 2px black 
     +desktop
       border-top: solid 2px black
-
+.pag-inicial footer.footer-bravo
+  border: none
 footer
   .content.is-vcentered  
     display: flex
@@ -521,6 +523,7 @@ footer
 .nota-corta
   font-size: 1rem
   position: relative
+  padding: 0
   .fondo-desktop
     +mobile
       display: none     
@@ -553,36 +556,22 @@ footer
     +desktop
       display: none        
   .titulo
-    position: absolute
     text-align: center
     width: 100%
     z-index: 500
     font-size: 2rem
-    height: 0
-    +mobile
-      top: -20%
-      padding-top: calc(60.25%)  // en modo mobile el menú se abre arriba y no debe solaparse
-    +tablet
-      top: 27% 
-    +desktop
-      top: 30%     
+    padding-top: 5%
+    background-color: #f49725       
   .texto    
+    background-color: #f49725
     font-size: 1rem 
-    position: absolute 
-    height: 0
-    top: 0
     z-index: 500
-    +mobile
-      padding-top: calc(60.25%) 
-    +tablet
-      padding-top: calc(20%)     
-    +desktop
-      padding-top: calc(20%)   
+    padding-bottom: 5%
 
   .nota-wrapper
     position: relative
   .texto-wrapper
-    padding: 10%  
+    padding: 5%  
   .leer-mas
     z-index: 500
     background-color: transparent
@@ -859,5 +848,21 @@ footer
     .encabezado-wrapper
       +mobile
         position: absolute
+.navbar-burger 
+  &.is-active
+    span:nth-child(1)
+      transform: translateY(30px) rotate(45deg) scaleX(1.5)
+    span:nth-child(3)
+      transform: translateY(6px) rotate(-45deg) scaleX(1.5)
+  span 
+    height: 4px
+    left: 0
+    width: 30px
+  span:nth-child(1) 
+    top: calc(50% - 12px) 
+  span:nth-child(2) 
+    top: calc(50% - 0px)
+  span:nth-child(3)
+    top: calc(50% + 12px)
 /* purgecss end ignore */
 

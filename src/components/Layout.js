@@ -1,30 +1,18 @@
-import React,{useEffect,useState} from 'react'
-import { Helmet } from 'react-helmet'
-import Footer from '../components/Footer'
-import Navbar from '../components/Navbar'
-import './bravo.css'
-import './all.sass'
-import useSiteMetadata from './SiteMetadata'
-import { withPrefix } from 'gatsby'
+import React, { useEffect, useState } from 'react';
+import { Helmet } from 'react-helmet';
+import Footer from '../components/Footer';
+import Navbar from '../components/Navbar';
+import './bravo.css';
+import './all.sass';
+import useSiteMetadata from './SiteMetadata';
+import { withPrefix } from 'gatsby';
 
 const TemplateWrapper = ({ children }) => {
-  const { title, description } = useSiteMetadata()
-  const [ classPathName, setClassPathName] = useState("");
-  useEffect( () => {
-    const cc = typeof window !== 'undefined' ? makeSafeId(window.location.pathname,"pag-") : '';
-    setClassPathName(cc);
-    console.log(`use effect: ${cc}`);
-  });
+   
+  const { title, description } = useSiteMetadata();
 
-                  // sanitize string to use as class name
-                // taken from https://stackoverflow.com/questions/7627000/javascript-convert-string-to-safe-class-name-for-css
-                var makeSafeId = function (name, prefix) {
-                  name = name.replace(/[!\"\s#$%&'\(\)\*\+,\.\/:;<=>\?\@\[\\\]\^`\{\|\}~]/g, '');
-                  return prefix + name;
-              };
-              const cpn = typeof window !== 'undefined' ? makeSafeId(window.location.pathname,"pag-") : '';
   return (
-    <div className={`el-bravo ${classPathName} gg ${cpn}`} >
+    <div className={`el-bravo`} >
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
@@ -69,7 +57,7 @@ const TemplateWrapper = ({ children }) => {
       <div >{children}</div>
       <Footer />
     </div>
-  )
-}
+  );
+};
 
-export default TemplateWrapper
+export default TemplateWrapper;

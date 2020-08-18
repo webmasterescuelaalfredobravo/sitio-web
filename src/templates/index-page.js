@@ -27,12 +27,14 @@ const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
 
   return (
-    <Layout>
-      <IndexPageTemplate
-        slideppal={frontmatter.slideppal}
-        notacorta={frontmatter.notacorta}
-      />
-    </Layout>
+    <div className="pag-inicial">
+      <Layout>
+        <IndexPageTemplate
+          slideppal={frontmatter.slideppal}
+          notacorta={frontmatter.notacorta}
+        />
+      </Layout>
+    </div>
   );
 };
 
