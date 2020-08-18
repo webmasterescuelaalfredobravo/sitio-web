@@ -88,7 +88,7 @@ const CodigoDePago = ({ csv }) => {
     return (
         <section className={"codigo-pago section estado-" + estado}>
             <div className="titulo">Genera aquí tu código de pago</div>
-            <p>El código de Pago Electrónico es único para cada estudiante. Es anual, es decir, será el mismo todo el año. Lo podrá utilizar para abonar en los distintos medios de pago.</p>
+            <p>El código de Pago Electrónico es único para cada estudiante. Es anual, es decir, será el mismo todo el año. Lo podrás utilizar para abonar en los distintos medios de pago.</p>
             <form onSubmit={manejarSubmitForm} className="columns" >
                 <div className="column campo-entrada">
                     <input id="codigo-de-pago-input" type="text" name="codigo-de-pago-input" placeholder="Ingrese aquí el DNI del estudiante"

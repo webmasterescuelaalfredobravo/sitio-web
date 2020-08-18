@@ -5,7 +5,7 @@ import up from '../img/up.svg';
 import down from '../img/down.svg';
 
 const MediosPago = ({ medios }) => {
-    const [indexAbierto, setIndexAbierto] = useState(-1);
+    const [indexAbierto, setIndexAbierto] = useState(0);
 
     return <section className="medios-pago section">
         <div className="tituloh1">Medios de Pago</div>

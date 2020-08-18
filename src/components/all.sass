@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap')
 $family-sans-serif: 'Poppins', sans-serif
 
-$beigecito: #ece3d4
+$beigecito: #f1eee9
 $body-background-color: $beigecito
 $background: $beigecito
 // Disable the widescreen breakpoint @see: https://bulma.io/documentation/overview/responsiveness/
@@ -147,10 +147,10 @@ $menu-label-color: $white-ter
   .navbar-brand
     .navbar-item
       font-weight: bold
-      font-size: 0.63rem  // 10px
+      font-size: 0.75rem  // 12px
       width: 14em
       margin-left: 17px
-
+      color: #000
 .slide-principal
   position: relative
   text-align: center
@@ -169,7 +169,9 @@ $menu-label-color: $white-ter
     border: 0
     padding: 20px 20px
     color: black
-
+    &:hover
+      background-image: url(/img/boton-over.svg)
+      color: $beigecito
   .navegador-slides
     text-decoration: none
     z-index: 1001
@@ -277,7 +279,9 @@ $menu-label-color: $white-ter
     border: 0
     padding: 20px 20px
     color: black
-
+    &:hover
+      background-image: url(/img/boton-over.svg)
+      color: $beigecito
        
   .navegador-slides
     text-decoration: none
@@ -374,13 +378,15 @@ button.carousel__dot--selected
 footer.footer-bravo
     background-color: $body-background-color
     height: $bravo-footer-height 
+    .text-wrapper
+      padding-left: calc(50% - 5em)
     +mobile
       border: none
     +tablet
       border-top: solid 2px black 
     +desktop
       border-top: solid 2px black
- 
+
 footer
   .content.is-vcentered  
     display: flex
@@ -434,8 +440,8 @@ footer
     padding-left: 12rem
     padding-right: 12rem
   +desktop 
-    padding-left: 20rem
-    padding-right: 20rem
+    padding-left: 18rem
+    padding-right: 18rem
   form
     &.columns
       margin-top: 1rem
@@ -462,12 +468,23 @@ footer
     border: solid 1px
     border-radius: 25px
     &.boton-ok
-      padding-left: 50px
-      padding-right: 50px
+      background-color: transparent
+      background-image: url(/img/boton-inactivo.svg)
+      background-size: 100% 100%
+      border: 0
+      padding: 1.5rem 0
+      width: 120px
+      color: black
+      &:hover
+        background-image: url(/img/boton-over.svg)
+        color: $beigecito
   #codigo-de-pago-input
     background-color: #efcc3e
     border: none
     width: 100%
+    font-size: 0.75rem
+    &:focus
+      background-color: #fff
   .icono-status
     width: 24px
     float: left
@@ -498,7 +515,8 @@ footer
   .mensaje
     +mobile
       font-size: 0.8rem
-
+  .boton-submitir
+    padding: 0
 
 .nota-corta
   font-size: 1rem
@@ -572,7 +590,10 @@ footer
     background-size: 100% 100%
     border: 0
     padding: 20px 20px
-    color: black    
+    color: black  
+    &:hover
+      background-image: url(/img/boton-over.svg)  
+      color: $beigecito
   .link-wrapper
     text-align: center
 /* purgecss end ignore */
@@ -592,9 +613,13 @@ footer
         position: absolute
         transition: opacity 0.1s ease-in
     .titulo
-      padding-top: 0.3em
+        display: flex
+        flex-wrap: nowrap
+        align-content: center
+        align-items: center
+ 
   .vermasmenos
-    float: left;
+    float: left 
     border-radius: 50%
     border: 1px solid
     padding: 0.7em
@@ -678,12 +703,17 @@ footer
     +mobile
       background-color: #F49725
 
-a.navbar-item
-  &:focus, &:focus-within, &:hover, &.is-active  
-    +mobile
-      background-color: inherit
-      color: #000
-
+.navbar-menu 
+  a.navbar-item
+    color: #000
+    &:focus, &:focus-within, &:hover, &.is-active  
+      +mobile
+        background-color: inherit
+        color: #000
+    &:hover
+      text-decoration: underline
+      text-decoration: underline solid 2px
+      text-underline-offset: 4px
 .pag-administracion
   .navbar, .navbar-menu   
     background-color: #83c8e8
@@ -713,6 +743,12 @@ a.navbar-item
 .encabezado
   .encabezado-wrapper
     width: 100%
+    +tablet 
+      position: relative
+      text-align: center
+    +desktop 
+      position: relative
+      text-align: center
   .fondo
     position: relative
     height: auto
@@ -753,18 +789,22 @@ a.navbar-item
       display: none      
   .tituloh2
     position: absolute
-    text-align: center
-    width: 100%
     z-index: 500
     font-size: 2rem
+    width: 100%
+    text-align: center
     +mobile
       //top: 25%
       top: -30vh
       position: relative // en modo mobile el menú se abre arriba y no debe solaparse
-    +tablet
-      top: 27% 
-    +desktop
-      top: 30% 
+
+    +tablet             // el calculo se basa en: https://www.w3schools.com/howto/howto_css_image_text.asp
+      position: absolute
+      top: calc(50% - 2.5rem) 
+      left: 0           // calc(50% - 12rem)
+      transform: translate(0, calc(50% - 2.5rem) )
+      font-size: 3rem
+
   .domicilio
     position: absolute
     width: 100%
@@ -774,9 +814,9 @@ a.navbar-item
       position: absolute  // encabezado-wrapper debe ser absoluto también para que esto funcione (acordarse que el menú mobile tapa todo y se debe desplazar)
 
     +tablet
-      top: 41% 
+      top: 66% 
     +desktop
-      top: 45% 
+      top: 74% 
   .titulop3
     text-align: center
     font-size: 1rem
@@ -792,9 +832,9 @@ a.navbar-item
       top: 30vh
       position: absolute // encabezado-wrapper debe ser absoluto también para que esto funcione (acordarse que el menú mobile tapa todo y se debe desplazar)
     +tablet
-      top: 34%
+      top: 54%
     +desktop
-      top: 34%
+      top: 54%
 .pagina-contacto
   .encabezado
     .tituloh2
@@ -803,8 +843,9 @@ a.navbar-item
         //position: relative
         top: 13vh
         position: absolute  // encabezado-wrapper debe ser absoluto también para que esto funcione (acordarse que el menú mobile tapa todo y se debe desplazar)
-      +tablet
-        top: 25.5%
+      +tablet             // el calculo se basa en: https://www.w3schools.com/howto/howto_css_image_text.asp
+        top: calc(50% - 3.5rem) 
+        transform: translate(0, calc(50% - 3.5rem) )
   .select.destinatario
     width: 100%
   .separador
@@ -820,4 +861,3 @@ a.navbar-item
         position: absolute
 /* purgecss end ignore */
 
-  

@@ -1587,6 +1587,30 @@
     prop-types "^15.6.1"
     react-lifecycles-compat "^3.0.4"
 
+"@sendgrid/client@^7.2.3":
+  version "7.2.3"
+  resolved "https://registry.yarnpkg.com/@sendgrid/client/-/client-7.2.3.tgz#6cbd0648711eedd36d96507c46caf707c9dde4c1"
+  integrity sha512-HGU/vipv5i/j4Nm/HAXCrFi7gwEuaUukfqlF8SZ4A6jtyKJfa7emV2H4dMvMO/vzqcH4E7Gl+5sDdIi9v8j88g==
+  dependencies:
+    "@sendgrid/helpers" "^7.2.3"
+    axios "^0.19.2"
+
+"@sendgrid/helpers@^7.2.3":
+  version "7.2.3"
+  resolved "https://registry.yarnpkg.com/@sendgrid/helpers/-/helpers-7.2.3.tgz#0a6b803a2df81208f28505adb35e229d2a064e2d"
+  integrity sha512-MMi7AtCs0uMzoYeKkyKOoONRjGDWbEYFF05d7OAohKglWFfbphE1dULHazHRQ/AnHcJFXMzb5rWL/PaDjeZwxg==
+  dependencies:
+    chalk "^2.0.1"
+    deepmerge "^4.2.2"
+
+"@sendgrid/mail@^7.2.3":
+  version "7.2.3"
+  resolved "https://registry.yarnpkg.com/@sendgrid/mail/-/mail-7.2.3.tgz#e76b9b64a11030d7d0898c0dd0c8519bcfa519c0"
+  integrity sha512-ZuVYzXI+3M02w6Qsu562aJXzwhoymMJ589is0yaL+Y+VMMMdM/cFlgwLcNFbmuvsRw9qBrjy5S2HpdeB5E8vtA==
+  dependencies:
+    "@sendgrid/client" "^7.2.3"
+    "@sendgrid/helpers" "^7.2.3"
+
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
@@ -4683,7 +4707,7 @@ deepmerge@^2.2.1:
   resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-2.2.1.tgz#5d3ff22a01c00f645405a2fbc17d0778a1801170"
   integrity sha512-R9hc1Xa/NOBi9WRVUWg19rl1UB7Tt4kuPd+thNJgFZoxXsTz7ncaPaeIm+40oSGuP33DfMb4sZt1QIGiJzC4EA==
 
-deepmerge@^4.0.0:
+deepmerge@^4.0.0, deepmerge@^4.2.2:
   version "4.2.2"
   resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.2.2.tgz#44d2ea3679b8f4d4ffba33f03d865fc1e7bf4955"
   integrity sha512-FJ3UgI4gIl+PHZm53knsuSFpE+nESMr7M4v9QcgB7S63Kj/6WqMiFQJpBBYz1Pt+66bZpP3Q7Lye0Oo9MPKEdg==

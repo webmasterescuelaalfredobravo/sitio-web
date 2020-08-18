@@ -35,7 +35,7 @@ const SlideInterno = ({ slides }) => {
                                     <div className="textodet-slide">
                                         {unSlide.texto && <div className="texto">{unSlide.texto}</div>}
                                         {unSlide.link && <a className="leer-mas" href={unSlide.link} >
-                                            Leer Más</a>}
+                                        Leer más</a>}
                                     </div>
 
                                 </div>

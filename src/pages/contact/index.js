@@ -3,7 +3,7 @@ import Layout from '../../components/Layout';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import MapaUbicacion from '../../components/MapaUbicacion';
-import fondoTablet from '../../img/fondo-amarillo_1024x768.svg';
+import fondoTablet from '../../img/fondo-amarillo_1024x385.svg';
 import fondoDesktop from '../../img/fondo-amarillo_1280x800.svg';
 import fondoMobile from '../../img/fondo-amarillo_360x740.svg';
 import iconoPointer from '../../img/icono-contacto.svg';

@@ -4,13 +4,14 @@
 // netlify functions:invoke  busqueda-codigo-pago --no-identity --querystring "documento=44204799&url=http://localhost:8000/img/alumnos.csv"
 const Parser = require('./lib/parser');
 exports.handler = async (event, context) => {
+  // To enable CORS
+  const headers = {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Headers': 'Content-Type, Accept',
+    'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE'
+  };
   try {
-          // To enable CORS
-          const headers = {
-            'Access-Control-Allow-Origin': '*',
-            'Access-Control-Allow-Headers': 'Content-Type, Accept',
-            'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE'
-          };
+
     if (event.httpMethod === 'OPTIONS') {
 
       return {
@@ -40,7 +41,7 @@ exports.handler = async (event, context) => {
         return {
           statusCode: 200,
           headers,
-          body: JSON.stringify( {codigo: result[0]['CODIGO ELECTRONICO']}),
+          body: JSON.stringify({ codigo: result[0]['CODIGO ELECTRONICO'] }),
           // // more keys you can return:
           // headers: { "headerName": "headerValue", ... },
           // isBase64Encoded: true,
@@ -50,6 +51,6 @@ exports.handler = async (event, context) => {
       }
     }
   } catch (err) {
-    return { statusCode: 500,headers,  body: err.toString() };
+    return { statusCode: 500, headers, body: err.toString() };
   }
 };

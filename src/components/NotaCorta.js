@@ -18,7 +18,7 @@ const NotaCorta = ({ notas }) => (
                     </div>
                     {unaNota.link &&
                         <div className="link-wrapper">
-                            <a className="leer-mas" href={unaNota.link} >Leer Más</a>
+                            <a className="leer-mas" href={unaNota.link} >Leer más</a>
                         </div>}
 
                 </div>

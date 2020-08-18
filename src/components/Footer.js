@@ -10,8 +10,8 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer-bravo  ">
         <div className="columns is-reverse-mobile">
-          <div className="column is-vcentered has-text-centered institucional">
-            <div className="content is-vcentered has-text-centered">
+          <div className="column is-vcentered institucional">
+            <div className="content is-vcentered text-wrapper">
               <div className="linea-texto has-text-weight-bold txt-p6">Instituto Técnico</div>
               <div className="linea-texto has-text-weight-bold txt-p6">Maestro Alfredo Bravo</div>
               <div className="linea-texto txt-p6">Cooperativa de Trabajo</div>

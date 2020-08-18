@@ -35,3 +35,6 @@
 button, input {
   outline: none;
 }
+.slide-principal .leer-mas:hover, .slide-interno  .leer-mas:hover, .boton-ok:hover, .leer-mas.dummy-tag {
+  background-image: url(/img/boton-over.svg);
+}

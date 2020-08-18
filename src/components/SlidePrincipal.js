@@ -13,7 +13,7 @@ const SlidePrincipal = ({ slides }) => {
                     <div>
                         {unSlide.texto && <div className="texto">{unSlide.texto} </div>}
                         {unSlide.link && <a className="leer-mas" href={unSlide.link} >
-                            Leer Más</a>}
+                        Leer más</a>}
                     </div>
                 </div>
                 <div className={"column imagen is-two-thirds"}>
@@ -29,7 +29,7 @@ const SlidePrincipal = ({ slides }) => {
                     <span>
                         {unSlide.texto && <div className="texto">{unSlide.texto} </div>}
                         {unSlide.link && <a className="leer-mas" href={unSlide.link} >
-                            Leer Más</a>}
+                        Leer más</a>}
                     </span>
                 </div>
             </div>
