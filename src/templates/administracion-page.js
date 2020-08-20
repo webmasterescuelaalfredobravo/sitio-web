@@ -33,6 +33,9 @@ export const AdministracionPageTemplate = ({
         <div name="medios-de-pago" id="medios-de-pago">
           <MediosPago medios={mediospago} />
         </div>
+        <div className="separador-medios-pago-novedades"  >
+          <div className="sep"  ></div>
+        </div>
         <div name="novedades" id="novedades">
           <SlideInterno slides={slide} />
         </div>

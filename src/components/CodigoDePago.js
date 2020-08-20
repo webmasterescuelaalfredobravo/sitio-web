@@ -73,24 +73,14 @@ const CodigoDePago = ({ csv }) => {
         dummy.select();
         document.execCommand("copy");
         document.body.removeChild(dummy);
-        /*
-        var codigoACopiar = document.getElementById('codigo-de-pago-input');
-        var seleccion = document.createRange();
-        seleccion.selectNodeContents(codigoACopiar);
-        window.getSelection().removeAllRanges();
-        window.getSelection().addRange(seleccion);
-        document.execCommand('copy');
-        window.getSelection().removeRange(seleccion);
-        console.log("copiado al portapapeles!");
-        */
     };
 
     return (
         <section className={"codigo-pago section estado-" + estado}>
-            <div className="titulo">Genera aquí tu código de pago</div>
+            <div className="titulo">Generá aquí tu código de pago.</div>
             <p>El código de Pago Electrónico es único para cada estudiante. Es anual, es decir, será el mismo todo el año. Lo podrás utilizar para abonar en los distintos medios de pago.</p>
             <form onSubmit={manejarSubmitForm} className="columns" >
-                <div className="column campo-entrada">
+                <div className="column campo-entrada is-8">
                     <input id="codigo-de-pago-input" type="text" name="codigo-de-pago-input" placeholder="Ingrese aquí el DNI del estudiante"
                         value={documentoEstudiante}
                         onChange={manejarChangeEnInput}

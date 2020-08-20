@@ -46,8 +46,8 @@ const SlideInterno = ({ slides }) => {
                     ))}
                 </Slider>
                 <DotGroup className="puntos" />
-                <ButtonBack className="navegador-slides slide-anterior">&lt;</ButtonBack>
-                <ButtonNext className="navegador-slides slide-siguiente">&gt;</ButtonNext>
+                <ButtonBack className="navegador-slides slide-anterior"> </ButtonBack>
+                <ButtonNext className="navegador-slides slide-siguiente"></ButtonNext>
             </CarouselProvider>
 
 

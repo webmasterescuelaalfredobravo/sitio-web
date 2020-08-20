@@ -142,6 +142,7 @@ $menu-label-color: $white-ter
     margin: 0 0 1em;
 
 .navbar
+  z-index: 500
   border-bottom: 1px solid black
   background-color: $body-background-color
   .navbar-brand
@@ -151,6 +152,14 @@ $menu-label-color: $white-ter
       width: 14em
       margin-left: 17px
       color: #000
+  &.fijo-arriba
+    +tablet
+      z-index: 500
+      top: 0
+      left: 0
+      position: fixed
+      right: 0
+
 .slide-principal
   position: relative
   text-align: center
@@ -196,10 +205,20 @@ $menu-label-color: $white-ter
     position: absolute 
     top: 50% 
     left: 1% 
+    z-index: 500
+    background-color: transparent
+    background-image: url(/img/boton-atras.svg)
+    background-size: 100% 100%
+    border: 0
   .slide-siguiente
     position: absolute 
     top: 50% 
     right: 1% 
+    z-index: 500
+    background-color: transparent
+    background-image: url(/img/boton-adelante.svg)
+    background-size: 100% 100%
+    border: 0
   .puntos
     button
       border-radius: 50%  
@@ -243,23 +262,32 @@ $menu-label-color: $white-ter
 .titulo
   text-align: left
   font-weight: bold
-  font-size: 16pt
+  font-size: 1rem
 .tituloh1
   font-weight: bold
   font-size: 34px    
 .tituloh2
   font-weight: bold
-  font-size: 20px
+  font-size: 1.25rem
+  +mobile 
+    font-size: 1rem
 .titulop3
   font-size: 0.63rem  // 10px
 
+.codigo-pago
+  .titulo
+    +mobile
+      text-align: center
+      margin-bottom: 2rem 
 // ---------------------------------------------------------------------------------------
 .slide-interno
   position: relative
   text-align: center
   padding-left: 0
   padding-right: 0
-
+  +mobile 
+    padding-left: 5%
+    padding-right: 5%
   .centrado
     position: absolute
     top: 50%
@@ -268,9 +296,9 @@ $menu-label-color: $white-ter
 
   .fecha
     text-align: left 
-    font-size: 16pt
+    font-size: 1rem
   .texto
-    font-size: 16pt
+    font-size: 1rem
     text-align: left 
   .leer-mas
     background-color: transparent
@@ -304,17 +332,26 @@ $menu-label-color: $white-ter
   .slide-anterior
     position: absolute 
     top: 50% 
-    left: 2% 
+    left: 5% 
+    z-index: 500
+    background-color: transparent
+    background-image: url(/img/boton-atras.svg)
+    background-size: 100% 100%
+    border: 0
     +mobile
       top: 0
-      left: 3.5%
   .slide-siguiente
     position: absolute 
     top: 50% 
-    right: 2% 
+    right: 5% 
+    z-index: 500
+    background-color: transparent
+    background-image: url(/img/boton-adelante.svg)
+    background-size: 100% 100%
+    border: 0    
     +mobile
       top: 0
-      left: 18%
+      left: 20%
       right: inherit
   .puntos
     button
@@ -325,9 +362,7 @@ $menu-label-color: $white-ter
       background-color: $body-background-color
       margin: 2px
       border: 1px solid black
-  img
-    width: 336px
-    height: 339px
+ 
 
 /* purgecss start ignore */
 .solo-mobile 
@@ -366,27 +401,32 @@ button.carousel__dot--selected
 /* purgecss ignore */
 .slide-wrapper
   +mobile
-    padding-left: 17px
-    padding-right: 17px
+    padding-left: 4%
+    padding-right: 4%
+    padding-top: 2rem  // separa el titulo de las flechas
   +tablet
     padding-left: 31px
     padding-right: 31px
   +desktop
     padding-left: 10%
     padding-right: 10%  
-
+  .column
+    padding-left: 0
+    padding-right: 0
 
 footer.footer-bravo
     background-color: $body-background-color
     height: $bravo-footer-height 
+    border-top: solid 2px black
+    +mobile 
+      padding-top: 40px
     .text-wrapper
-      padding-left: calc(50% - 5em)
-    +mobile
-      border: none
+      +mobile
+        text-align: center
     +tablet
-      border-top: solid 2px black 
-    +desktop
-      border-top: solid 2px black
+      padding-left: 5%
+      padding-right: 5%
+       
 .pag-inicial footer.footer-bravo
   border: none
 footer
@@ -400,6 +440,13 @@ footer
     +desktop
       height: $bravo-footer-height 
   .social
+    position: relative
+    .redes
+      +mobile 
+        margin: auto
+      +tablet
+        position: absolute
+        right: 0.75rem  // coincide con el padding de column
     a
       width: 40px
       height: 40px
@@ -439,11 +486,8 @@ footer
   font-size: 1rem
   border-bottom: solid 2px lightgray
   +tablet 
-    padding-left: 12rem
-    padding-right: 12rem
-  +desktop 
-    padding-left: 18rem
-    padding-right: 18rem
+    padding-left: 25%
+    padding-right: 25%
   form
     &.columns
       margin-top: 1rem
@@ -588,10 +632,20 @@ footer
 /* purgecss end ignore */
 
 .medios-pago
+  &.section
+    +mobile 
+      padding-left: 5%
+      padding-right: 5%
+    +tablet
+      padding-left: 25%
+      padding-right: 25%
+  .tituloh1
+    text-align: center
   .un-medio-pago
     padding-top: 2rem
     padding-bottom: 2rem
-    border-bottom: 2px solid lightgray
+    &:not(.ultima)
+      border-bottom: 2px solid lightgray
     .texto
       opacity: 1
       position: inherit
@@ -601,6 +655,7 @@ footer
         opacity: 0
         position: absolute
         transition: opacity 0.1s ease-in
+        display: none
     .titulo
         display: flex
         flex-wrap: nowrap
@@ -626,6 +681,10 @@ footer
 
 
 .notas
+  &.section
+    +tablet
+      padding-left: 10%
+      padding-right: 10%
   img
     width: 360px
   .texto
@@ -634,14 +693,24 @@ footer
     padding-top: 3rem
     padding-bottom: 3rem
     border-bottom: 1px solid lightgray
+    &.primera
+      border-top: 1px solid lightgray
     &.ultima
       border-bottom: none
-//     .izquierda
-//       img
-//         float: left 
-//     .derecha 
-//       img
-//         float: right 
+    &.izquierda
+      .columns
+        .col-img
+          text-align: right  // la imagen va pegada a la calle central
+        .col-txt
+          +tablet
+            padding-right: 5%    
+    &.derecha
+      .columns
+        .col-img
+          text-align: left  // la imagen va pegada a la calle central
+        .col-txt
+          +tablet
+            padding-left: 5%        
 .contacto
   input,   textarea,   select
     border-radius: 10px
@@ -674,9 +743,14 @@ footer
       background-color: inherit
       color: black
     &.activa 
-      +tablet
-        text-decoration: underline solid 2px
-        text-underline-offset: 4px
+      span
+        +tablet
+          text-decoration: none 
+          border-bottom: 2px solid black 
+    span      
+      &:hover
+        text-decoration: none 
+        border-bottom: 2px solid black 
     &.nivel-2
       display: none  
       +mobile                
@@ -699,10 +773,6 @@ footer
       +mobile
         background-color: inherit
         color: #000
-    &:hover
-      text-decoration: underline
-      text-decoration: underline solid 2px
-      text-underline-offset: 4px
 .pag-administracion
   .navbar, .navbar-menu   
     background-color: #83c8e8
@@ -711,6 +781,19 @@ footer
         background-color: #F49725
         .navbar-menu 
           background-color: #F49725
+
+  .separador-medios-pago-novedades
+    +mobile 
+      width: 100%
+      border-top: 1px solid #000
+      margin-bottom: 3rem
+    +tablet 
+      width: 100%
+      padding-left: 10%
+      padding-right: 10%
+    .sep
+      +tablet
+        border-top: 1px solid #000
 .pag-escuela
   .navbar, .navbar-menu   
     background-color: #50a545 
@@ -864,5 +947,22 @@ footer
     top: calc(50% - 0px)
   span:nth-child(3)
     top: calc(50% + 12px)
+.ir-arriba
+  z-index: 500
+  background-color: transparent
+  background-image: url(/img/next-01.svg)
+  background-size: 100% 100%
+  border: 0
+  height: 40px
+  width: 40px
+  display: block
+  margin: 2rem auto
+  &:hover
+    background-image: url(/img/next-over-01.svg)
+    color: $beigecito
+    // el menú fijo arriba se aplica solo a tablet en adelante
+body.tiene-menu-fijo-arriba
+  +tablet
+    padding-top: 3.25rem
 /* purgecss end ignore */
 

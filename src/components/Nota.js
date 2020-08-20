@@ -9,27 +9,27 @@ import PropTypes from 'prop-types';
 const Nota = ({ notas }) => (
     <section className={"notas section"}>
         {notas.map((unaNota, index) => (
-            <div key={index} className={"una-nota " + unaNota.alineado + ((index === notas.length -1) ? " ultima" : "")}>
+            <div key={index} className={"una-nota " + unaNota.alineado + ((index === notas.length -1) ? " ultima" : "")  + ((index === 0) ? " primera" : "")}>
                 <div className="solo-mobile column">
                     {unaNota.titulo && <p className="titulo">{unaNota.titulo} </p>}
                 </div>
                 {unaNota.alineado === "izquierda" &&
                     <div className="columns">
-                        <div className="column">
+                        <div className="column col-img">
                             <img src={unaNota.imagen.publicURL} alt={unaNota.titulo} />
                         </div>
-                        <div className="column">
+                        <div className="column col-txt is-7">
                             {unaNota.titulo && <p className="titulo no-mobile">{unaNota.titulo} </p>}
                             {unaNota.texto && <div className="texto">{unaNota.texto}</div>}
                         </div>
                     </div>}
                 {unaNota.alineado === "derecha" &&
                     <div className="columns is-reverse-mobile ">
-                        <div className="column">
+                        <div className="column col-txt is-7">
                             {unaNota.titulo && <p className="titulo no-mobile">{unaNota.titulo} </p>}
                             {unaNota.texto && <div className="texto">{unaNota.texto}</div>}
                         </div>
-                        <div className="column">
+                        <div className="column col-img">
                             <img src={unaNota.imagen.publicURL} alt={unaNota.titulo} />
                         </div>
                     </div>

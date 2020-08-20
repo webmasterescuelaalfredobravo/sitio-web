@@ -33,8 +33,8 @@ const Footer = class extends React.Component {
 
 
           <div className="column is-one-third-tablet social">
-            <div className="content is-vcentered has-text-centered">
-              <div className="content centrado has-text-weight-bold txt-p6">
+            <div className="content is-vcentered">
+              <div className="content redes has-text-weight-bold txt-p6">
                 Nuestras Redes
               <a title="facebook" href="https://facebook.com">
                   <img

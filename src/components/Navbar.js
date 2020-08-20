@@ -33,7 +33,7 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className={`navbar la-burger-${this.state.navBarActiveClass}`}
+        className={`navbar fijo-arriba la-burger-${this.state.navBarActiveClass}`}
         role="navigation"
         aria-label="main-navigation"
       >
@@ -59,7 +59,7 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-end has-text-centered">
               <Link className="navbar-item" to="/escuela/" className={"navbar-item " } activeClassName={"activa"} partiallyActive={true}>
-                La Escuela
+              <span>La Escuela</span>
               </Link>
               <Link className="navbar-item" to="/escuela#novedades" className={"navbar-item nivel-2"}>
                 Novedades
@@ -68,9 +68,9 @@ const Navbar = class extends React.Component {
                 Nuestro Proyecto
               </Link>
               <Link className="navbar-item" to="/administracion/" className={"navbar-item "}  activeClassName={"activa"} partiallyActive={true}>
-                Administración
+              <span>Administración</span>
               </Link>
-              <Link className="navbar-item" to="/administracion#medios-de-pago" className={"navbar-item nivel-2"}>
+              <Link className="navbar-item" to="/administracion#codigo-de-pago" className={"navbar-item nivel-2"}>
                 Código de Pago
               </Link>
               <Link className="navbar-item" to="/administracion#medios-pago" className={"navbar-item nivel-2"}>
@@ -80,7 +80,7 @@ const Navbar = class extends React.Component {
                 Novedades
               </Link>
               <Link className="navbar-item" to="/contact/" className={"navbar-item "}  activeClassName={"activa"} partiallyActive={true}>
-                Contacto
+              <span>Contacto</span>
               </Link>
             </div>
 

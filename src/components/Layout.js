@@ -50,11 +50,13 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.png`}
         />
+        <body className="tiene-menu-fijo-arriba" />
         <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="" />
         <script src={`${withPrefix('/')}onesignal-bootstrap.js`} async="" />
       </Helmet>
       <Navbar />
-      <div >{children}</div>
+      <div id="top-bravo">{children}</div>
+      <a className="ir-arriba" href="#top-bravo" ></a>
       <Footer />
     </div>
   );

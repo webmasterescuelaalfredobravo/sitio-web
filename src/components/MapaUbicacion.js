@@ -7,7 +7,7 @@ export default class MapaUbicacion extends Component {
         if (typeof window !== 'undefined') {
             return (
                 <div className="mapa-ubicacion">
-                    <Map center={position} zoom={13}>
+                    <Map center={position} zoom={12}>
                         <TileLayer
                             attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
                             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"

@@ -1,8 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import fondoTablet from '../img/fondo-naranja_1024x768.svg';
 import fondoDesktop from '../img/fondo-naranja_1280x50.svg';
-import fondoMobile from '../img/fondo-naranja_360x740.svg';
+
 
 const NotaCorta = ({ notas }) => (
     <section className="nota-corta section">
