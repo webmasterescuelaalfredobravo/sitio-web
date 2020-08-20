@@ -12,7 +12,7 @@ const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
 
   return (
-    <div className={`el-bravo`} >
+    <div id={`top-bravo`} >
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
@@ -55,7 +55,7 @@ const TemplateWrapper = ({ children }) => {
         <script src={`${withPrefix('/')}onesignal-bootstrap.js`} async="" />
       </Helmet>
       <Navbar />
-      <div id="top-bravo">{children}</div>
+      <div >{children}</div>
       <a className="ir-arriba" href="#top-bravo" ></a>
       <Footer />
     </div>

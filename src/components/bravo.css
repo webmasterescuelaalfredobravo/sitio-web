@@ -38,3 +38,7 @@ button, input {
 .slide-principal .leer-mas:hover, .slide-interno  .leer-mas:hover, .boton-ok:hover, .leer-mas.dummy-tag {
   background-image: url(/img/boton-over.svg);
 }
+@media screen and (max-width: 768px) {
+  .navbar.la-burger-is-active {
+    background-color: #F49725; } 
+}
