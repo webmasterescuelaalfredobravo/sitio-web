@@ -3,16 +3,16 @@ if (!window.isOneSignalInitialized) {
   console.log("bootstrapping la libreria de oneSignal");
   OneSignal.push(function () {
     OneSignal.init({
-      appId: "62970e93-f203-4bfe-b1e2-ccee13c577da",
+      appId: "b39bd077-f1d2-4a10-9c43-2e73e01fce90",
       notifyButton: {
         enable: true, /* Required to use the Subscription Bell */
         size: 'medium', /* One of 'small', 'medium', or 'large' */
         theme: 'default', /* One of 'default' (red-white) or 'inverse" (white-red) */
         position: 'bottom-right', /* Either 'bottom-left' or 'bottom-right' */
         offset: {
-          bottom: '0px',
+          bottom: '50px',
           left: '0px', /* Only applied if bottom-left */
-          right: '0px' /* Only applied if bottom-right */
+          right: '50px' /* Only applied if bottom-right */
         },
         prenotify: true, /* Show an icon with 1 unread message for first-time site visitors */
         showCredit: false, /* Hide the OneSignal logo */
