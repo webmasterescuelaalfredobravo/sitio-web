@@ -42,8 +42,8 @@ const SlidePrincipal = ({ slides }) => {
         <section className="slide-principal column section is-full">
             <CarouselProvider
                 className={"no-mobile"}
-                naturalSlideWidth={1256}
-                naturalSlideHeight={495}
+                naturalSlideWidth={1000}
+                naturalSlideHeight={468}
                 totalSlides={slides.length}
                 dots="true" infinite="true"
             >

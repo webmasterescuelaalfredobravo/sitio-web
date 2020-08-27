@@ -23,12 +23,12 @@ const SlideInterno = ({ slides }) => {
                                     {unSlide.titulo && <p className="titulo">{unSlide.titulo} </p>}
                                     {unSlide.fecha && <p className="fecha">{unSlide.fecha}</p>}
                                 </div>
-                                <div className="column">
+                                <div className="column col-img">
 
                                     <Img fixed={unSlide.imagenfondo.childImageSharp.fixed} />
 
                                 </div>
-                                <div className="column">
+                                <div className="column col-txt is-7">
 
                                     {unSlide.titulo && <p className="titulo no-mobile">{unSlide.titulo} </p>}
                                     {unSlide.fecha && <p className="fecha no-mobile">{unSlide.fecha}</p>}

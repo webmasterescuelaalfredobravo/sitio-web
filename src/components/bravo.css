@@ -42,3 +42,20 @@ button, input {
   .navbar.la-burger-is-active {
     background-color: #F49725; } 
 }
+@media screen and (min-width: 769px) {
+  .navbar > .container .navbar-brand{
+    margin-left: 0px;
+  }
+}
+.slide-siguiente {
+  background-image: url(/img/siguiente.svg);
+}
+.slide-siguiente:hover {
+  background-image: url(/img/siguiente-over.svg);
+}
+.slide-anterior {
+  background-image: url(/img/anterior.svg);
+}
+.slide-anterior:hover {
+  background-image: url(/img/anterior-over.svg);
+}
