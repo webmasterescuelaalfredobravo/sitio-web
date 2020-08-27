@@ -18,7 +18,7 @@ slide:
     imagenfondo: /img/img_home3-1100x840.png
     alineado: derecha
     link: https://www.youtube.com/watch?v=Q0ODOCMF8p0
-  - imagenfondo: /img/fondo-naranja.svg
+  - imagenfondo: /img/img_home3-1100x840.png
     alineado: derecha
     texto: "Iniciadores:  Alejandro Battaino, Horacio Bianciotto, Griselda Gallo,
       María Rosa Jáuregui, Ana Celia Pousa y César Quinteros  Consejos electos
@@ -67,5 +67,4 @@ notas:
     imagen: /img/imagen-novedades-admin.svg
     titulo: Quincha y comunidad en nuestra escuela
     alineado: izquierda
-nota: []
 ---

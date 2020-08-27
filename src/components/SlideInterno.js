@@ -20,22 +20,20 @@ const SlideInterno = ({ slides }) => {
                         <Slide key={index}>
                             <div className={"columns slide-wrapper "}>
                                 <div className="solo-mobile column">
-                                    {unSlide.titulo && <p className="titulo">{unSlide.titulo} </p>}
+                                    {unSlide.titulo && <p className="titulo">{unSlide.titulo}</p>}
                                     {unSlide.fecha && <p className="fecha">{unSlide.fecha}</p>}
                                 </div>
                                 <div className="column col-img">
-
-                                    <Img fixed={unSlide.imagenfondo.childImageSharp.fixed} />
-
+                                    <img src={unSlide.imagenfondo.publicURL}  alt={unSlide.titulo} />
                                 </div>
                                 <div className="column col-txt is-7">
 
-                                    {unSlide.titulo && <p className="titulo no-mobile">{unSlide.titulo} </p>}
+                                    {unSlide.titulo && <p className="titulo no-mobile">{unSlide.titulo}</p>}
                                     {unSlide.fecha && <p className="fecha no-mobile">{unSlide.fecha}</p>}
                                     <div className="textodet-slide">
                                         {unSlide.texto && <div className="texto">{unSlide.texto}</div>}
                                         {unSlide.link && <a className="leer-mas" href={unSlide.link} >
-                                        Leer más</a>}
+                                            Leer más</a>}
                                     </div>
 
                                 </div>
