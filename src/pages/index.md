@@ -14,7 +14,8 @@ slideppal:
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: "Nuestra escuela secundaria propone un camino a partir del tres ejes
-      fundamentales:  el cooperativismo, la mediación y la educación técnica. Te
+      fundamentales:  el cooperativismo, la mediación y la articulación entre
+      los mundos de la escuela y el trabajo que la educación técnica supone. Te
       invitamos a conocer nuestra propuesta educativa."
     link: /escuela
 ---
