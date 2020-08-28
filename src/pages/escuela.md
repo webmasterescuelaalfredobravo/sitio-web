@@ -23,8 +23,7 @@ slide:
       ciudad que sólo contaba con dos secundarios en ese momento.  Para ello
       nuestra organización es una Cooperativa de Trabajo ya que creemos en la
       dimensión social y solidaria de nuestro sueño que pone todos los recursos
-      al servicio de los estudiantes, las familias y los docentes.desafiantes
-      para las instituciones educativas
+      al servicio de los estudiantes, las familias y los docentes.
     imagenfondo: /img/ilustracion-home-03.svg
     alineado: derecha
 notas:
