@@ -17,8 +17,4 @@ notacorta:
       fundamentales:  el cooperativismo, la mediación y la educación técnica. Te
       invitamos a conocer nuestra propuesta educativa."
     link: /escuela
-  - titulo: Pre  Inscripciones Ciclo Lectivo 2021
-    texto: Está abiertas las pre-inscipciones para el ingreso 2021. Para ello te
-      invitamos a completar el siguiente formulario.
-    link: https://docs.google.com/forms/d/e/1FAIpQLSca7NqJkFl5y2rPSoSxMrPSD--57uBjpjUODdP4rXmy3Z_pKQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7757
 ---
