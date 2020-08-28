@@ -3,19 +3,20 @@ templateKey: escuela-page
 path: /escuela
 title: La Escuela
 slide:
-  - texto: Pre matriculaciones abiertas
+  - texto: "PRE MATRICULACIONES ABIERTAS.  Para quienes estén interesados, se
+      encuentran abiertas la pre matriculaciones de primero a séptimo año. Con
+      el fin de contarles sobre nuestra escuela, realizaremos un encuentro
+      virtual  en el que se expondrán las características de nuestro proyecto,
+      las orientaciones técnicas que se ofrecen desde cuarto año (Construcciones
+      e Industria de procesos) y las particularidades del cursado (turnos,
+      horarios, etc.). Dicho encuentro se realizará el día 10 de setiembre a las
+      18 horas por la plataforma Meet. Para poder participar de ella, les
+      invitamos a completar el
+      formulario.                                                                 \
+      "
     imagenfondo: /img/image_slide_home3.svg
     alineado: derecha
     link: https://docs.google.com/forms/d/e/1FAIpQLSca7NqJkFl5y2rPSoSxMrPSD--57uBjpjUODdP4rXmy3Z_pKQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7757
-  - texto: "Para quienes esté interesados en sumarse como estudiantes de nuestra
-      escuela en el ciclo lectivo 2021, pueden completar el siguiente formulario
-      virtual. En la última semana de setiembre se confirmará la disponibiilidad
-      del
-      banco.                                                                                             \
-      "
-    imagenfondo: /img/img-laescuela-arbol.svg
-    link: ""
-    alineado: izquierda
 notas:
   - texto: >-
       
