@@ -36,18 +36,18 @@ notas:
     titulo: Nuestra propuesta
     alineado: izquierda
   - texto: >
-      Nuestra Cooperativa se conformó el 16 de noviembre de 2003, cuando los
-      iniciadores  celebraron la primera asamblea. Desde 2004, cumpliendo su
-      objeto social -educación-, le damos vida al Instituto Técnico Maestro
-      Alfredo Bravo, nuestra escuela técnica de nivel medio. Sucesivamente
-      elegidas y elegidos democráticamente y cumpliendo su tarea ad honorem,
-      asociadas y asociados conformaron los consejos de administración,
-      responsables de la gestión de la cooperativa. Ella transformó la realidad
-      inicial del Instituto -que comenzara en un edificio alquilado con dos
-      cursos y un puñado de docentes ad honorem-  en una institución con
-      edificio propio que alberga en 14 cursos y dos especialidades técnicas, a
-      400 estudiantes y es fuente de trabajo de 70 asociados cooperativistas.
+      El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004
+      ofreciendo una propuesta formativa técnica para adolescentes de nuestra
+      ciudad que sólo contaba con dos secundarios en ese momento. Fue fruto de
+      la visión de los asociado y asociadas que a fines de 2003 conformaron
+      nuestra Cooperativa de Trabajo Maestro Alfredo Bravo Ltda. Los esfuerzos
+      de los y las cooperativistas y el acompañamiento y apoyo constante de la
+      nuestra comunidad educativa, convirtieron esa propuesta educativa que
+      comenzó hace dieciséis años en un edificio alquilado con dos cursos y un
+      puñado de docentes ad honorem, en una institución con edificio propio que
+      alberga en 14 cursos y dos especialidades técnicas, a 400 estudiantes y es
+      fuente de trabajo de 70 asociados cooperativistas.
     imagen: /img/ilustracion-home-03.svg
-    titulo: Somos una cooperativa de trabajo
+    titulo: SOMOS DEL MISMO BARRO TODOS
     alineado: derecha
 ---
