@@ -21,7 +21,7 @@ slide:
       la educación, nuestra escuela lanza su sitio web, como un nuevo espacio de
       contacto y de encuentro, una nueva herramienta para continuar haciendo
       escuela. desafiantes para las instituciones educativas
-    imagenfondo: /img/ilustracion-home-01.svg
+    imagenfondo: /img/ilustracion-home-03.svg
     alineado: derecha
 notas:
   - texto: >-
