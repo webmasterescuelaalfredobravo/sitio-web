@@ -33,7 +33,7 @@ notas:
 
       En ambas orientaciones se promueve gradualmente el estudio independiente que contribuye al trabajo autogestivo como también se favorecen las prácticas colaborativas, cooperativas y solidarias. Se pone especial énfasis en la correspondencia y articulación teórico-práctica en aras al desarrollo y adquisición de capacidades específicas para el futuro desempeño del técnico
     imagen: /img/img-laescuela-arbol.svg
-    titulo: Nuestra propuesta
+    titulo: NUESTRA PROPUESTA
     alineado: izquierda
   - texto: >
       El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004
