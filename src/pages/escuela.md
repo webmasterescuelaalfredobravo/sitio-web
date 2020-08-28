@@ -20,7 +20,7 @@ slide:
   - texto: SOMOS DEL MISMO BARRO TODOS… El Instituto Técnico Maestro Alfredo Bravo
       fue fundado en el año 2004 por un grupo de ciudadanos de Río Ceballos para
       ofrecer una propuesta formativa técnica a los adolescentes de nuestra
-      ciudad que sólo contaba con dos secundarios en ese momento.  Para ello
+      ciudad que sólo contaba con dos secundarios en ese momento.  Por ello
       nuestra organización es una Cooperativa de Trabajo ya que creemos en la
       dimensión social y solidaria de nuestro sueño que pone todos los recursos
       al servicio de los estudiantes, las familias y los docentes.
