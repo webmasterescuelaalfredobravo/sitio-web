@@ -19,6 +19,7 @@ slideppal:
       herramienta para el encuentro en el trabajo de enseñar y aprender
     imagenfondo: /img/imagen-novedades-laescuela.svg
     alineado: derecha
+    link: /escuela
 notacorta:
   - titulo: ¿Quiénes somos?
     texto: "Nuestra escuela secundaria propone un camino a partir del tres ejes
