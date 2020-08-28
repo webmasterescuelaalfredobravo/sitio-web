@@ -9,7 +9,7 @@ slideppal:
       nuestra escuela te invitamos a completar el siguiente formulario.
     imagenfondo: /img/imagen-novedades-admin.svg
     link: https://docs.google.com/forms/d/e/1FAIpQLSca7NqJkFl5y2rPSoSxMrPSD--57uBjpjUODdP4rXmy3Z_pKQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7757
-    alineado: izquierda
+    alineado: derecha
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: "Nuestra escuela secundaria propone un camino a partir del tres ejes
