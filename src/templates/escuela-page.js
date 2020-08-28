@@ -71,6 +71,7 @@ export const pageQuery = graphql`
           titulo
           texto
           fecha
+          link
           imagenfondo {
             childImageSharp {
               fixed(width: 336, height: 336) {
