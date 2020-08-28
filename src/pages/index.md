@@ -5,11 +5,16 @@ slideppal:
     imagenfondo: /img/5prancheta-1.png
     link: /escuela
     alineado: izquierda
-  - texto: Pre-Inscripciones Ciclo Lectivo 2021. Si estás interesado en nuestra
-      propuesta educativa puedes contactarte con nosotros para el ingreso de
-      estudiantes de primer a cuarto año.
+  - texto: PRE MATRICULACIONES 2021. Si estás interesado en nuestra propuesta
+      educativa, se encuentran abiertas las pre-matriculaciones del ciclo
+      lectivo 2021.
     imagenfondo: /img/imagen-novedades-admin.svg
     link: /escuela
+    alineado: derecha
+  - texto: UN NUEVO ESPACIO PARA HACER ESCUELA. En el contexto de la pandemia que
+      condiciona la re-invención de la tarea pedagógica, sumamos hoy esta nueva
+      herramienta para el encuentro en el trabajo de enseñar y aprender
+    imagenfondo: /img/imagen-novedades-laescuela.svg
     alineado: derecha
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
