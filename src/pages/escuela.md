@@ -17,10 +17,14 @@ slide:
     imagenfondo: /img/image_slide_home3.svg
     alineado: izquierda
     link: https://docs.google.com/forms/d/e/1FAIpQLSca7NqJkFl5y2rPSoSxMrPSD--57uBjpjUODdP4rXmy3Z_pKQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7757
-  - texto: UN NUEVO ESPACIO DE ENCUENTRO. En un tiempo que implica un desafío para
-      la educación, nuestra escuela lanza su sitio web, como un nuevo espacio de
-      contacto y de encuentro, una nueva herramienta para continuar haciendo
-      escuela. desafiantes para las instituciones educativas
+  - texto: SOMOS DEL MISMO BARRO TODOS… El Instituto Técnico Maestro Alfredo Bravo
+      fue fundado en el año 2004 por un grupo de ciudadanos de Río Ceballos para
+      ofrecer una propuesta formativa técnica a los adolescentes de nuestra
+      ciudad que sólo contaba con dos secundarios en ese momento.  Para ello
+      nuestra organización es una Cooperativa de Trabajo ya que creemos en la
+      dimensión social y solidaria de nuestro sueño que pone todos los recursos
+      al servicio de los estudiantes, las familias y los docentes.desafiantes
+      para las instituciones educativas
     imagenfondo: /img/ilustracion-home-03.svg
     alineado: derecha
 notas:
