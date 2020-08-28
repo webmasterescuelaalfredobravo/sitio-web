@@ -20,7 +20,7 @@ slideppal:
     imagenfondo: /img/imagen-novedades-laescuela.svg
     alineado: derecha
 notacorta:
-  - titulo: Instituto Técnico Maestro Alfredo Bravo
+  - titulo: ¿Quiénes somos?
     texto: "Nuestra escuela secundaria propone un camino a partir del tres ejes
       fundamentales:  el cooperativismo, la mediación y la articulación entre
       los mundos de la escuela y el trabajo que la educación técnica supone. Te
