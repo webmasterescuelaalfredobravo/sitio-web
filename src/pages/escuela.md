@@ -17,6 +17,12 @@ slide:
     imagenfondo: /img/image_slide_home3.svg
     alineado: izquierda
     link: https://docs.google.com/forms/d/e/1FAIpQLSca7NqJkFl5y2rPSoSxMrPSD--57uBjpjUODdP4rXmy3Z_pKQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7757
+  - texto: UN NUEVO ESPACIO DE ENCUENTRO. En un tiempo que implica un desafío para
+      la educación, nuestra escuela lanza su sitio web, como un nuevo espacio de
+      contacto y de encuentro, una nueva herramienta para continuar haciendo
+      escuela. desafiantes para las instituciones educativas
+    imagenfondo: /img/ilustracion-home-01.svg
+    alineado: derecha
 notas:
   - texto: >-
       
