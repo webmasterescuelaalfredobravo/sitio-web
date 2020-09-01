@@ -5,7 +5,7 @@ slideppal:
       Alfredo Bravo, Instituto Educativo Secundario Adscripto a la Enseñanza
       Oficial de la Provincia de Córdoba, propiedad de la Cooperativa de Trabajo
       Maestro Alfredo Bravo Ltda..
-    imagenfondo: /img/ilustracion-home-04-01.svg
+    imagenfondo: /img/5prancheta-1.png
     link: /escuela
     alineado: izquierda
   - texto: PRE MATRICULACIONES 2021. Si estás interesado en nuestra propuesta
