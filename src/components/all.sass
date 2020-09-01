@@ -177,16 +177,6 @@ $menu-label-color: $white-ter
   .texto
     padding-bottom: 20px
     font-weight: bold
-  .leer-mas
-    background-color: transparent
-    background-image: url(/img/boton-inactivo.svg)
-    background-size: 100% 100%
-    border: 0
-    padding: 20px 20px
-    color: black
-    &:hover
-      background-image: url(/img/boton-over.svg)
-      color: $beigecito
   .navegador-slides
     text-decoration: none
     z-index: 1001
@@ -313,17 +303,6 @@ $menu-label-color: $white-ter
   .texto
     font-size: 1rem
     text-align: left 
-  .leer-mas
-    display: block
-    background-color: transparent
-    background-image: url(/img/boton-inactivo.svg)
-    background-size: 100% 100%
-    border: 0
-    padding: 20px 20px
-    color: black
-    &:hover
-      background-image: url(/img/boton-over.svg)
-      color: $beigecito
        
   .navegador-slides
     text-decoration: none
@@ -382,7 +361,18 @@ $menu-label-color: $white-ter
     .col-txt
       +tablet
         padding-right: 5%  
-
+.leer-mas
+  display: block
+  background-color: transparent
+  background-image: url(/img/boton-inactivo.svg)
+  background-size: 100% 100%
+  border: 0
+  padding: 20px 20px
+  color: black
+  text-align: center
+  &:hover
+    background-image: url(/img/boton-over.svg)
+    color: $beigecito
 /* purgecss start ignore */
 .solo-mobile 
   display: none
@@ -634,17 +624,6 @@ footer
     position: relative
   .texto-wrapper
     padding: 5%  
-  .leer-mas
-    z-index: 500
-    background-color: transparent
-    background-image: url(/img/boton-inactivo.svg)
-    background-size: 100% 100%
-    border: 0
-    padding: 20px 20px
-    color: black  
-    &:hover
-      background-image: url(/img/boton-over.svg)  
-      color: $beigecito
   .link-wrapper
     text-align: center
 /* purgecss end ignore */

@@ -9,7 +9,7 @@ import PropTypes from 'prop-types';
 const Nota = ({ notas }) => (
     <section className={"notas section"}>
         {notas.map((unaNota, index) => (
-            <div key={index} className={"una-nota " + unaNota.alineado + ((index === notas.length -1) ? " ultima" : "")  + ((index === 0) ? " primera" : "")}>
+            <div key={index} className={"una-nota " + unaNota.alineado + ((index === notas.length - 1) ? " ultima" : "") + ((index === 0) ? " primera" : "")}>
                 <div className="solo-mobile column">
                     {unaNota.titulo && <p className="titulo">{unaNota.titulo} </p>}
                 </div>
@@ -21,6 +21,8 @@ const Nota = ({ notas }) => (
                         <div className="column col-txt is-7">
                             {unaNota.titulo && <p className="titulo no-mobile">{unaNota.titulo} </p>}
                             {unaNota.texto && <div className="texto">{unaNota.texto}</div>}
+                            {unaNota.link && <a className="leer-mas" href={unaNota.link} > 
+                        Leer más</a>}
                         </div>
                     </div>}
                 {unaNota.alineado === "derecha" &&
@@ -28,6 +30,8 @@ const Nota = ({ notas }) => (
                         <div className="column col-txt is-7">
                             {unaNota.titulo && <p className="titulo no-mobile">{unaNota.titulo} </p>}
                             {unaNota.texto && <div className="texto">{unaNota.texto}</div>}
+                            {unaNota.link && <a className="leer-mas" href={unaNota.link} > 
+                        Leer más</a>}
                         </div>
                         <div className="column col-img">
                             <img src={unaNota.imagen.publicURL} alt={unaNota.titulo} />
@@ -46,6 +50,7 @@ Nota.propTypes = {
             texto: PropTypes.string,
             titulo: PropTypes.string,
             alineado: PropTypes.string,
+            link: PropTypes.string,
         })
     ),
 };
