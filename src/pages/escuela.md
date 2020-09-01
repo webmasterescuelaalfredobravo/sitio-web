@@ -3,27 +3,15 @@ templateKey: escuela-page
 path: /escuela
 title: La Escuela
 slide:
-  - texto: "PRE MATRICULACIONES ABIERTAS.  Se encuentran abiertas la pre
-      matriculaciones de primero a séptimo año para el ciclo lectivo 2021. Con
-      el fin de contarles sobre nuestra las características de nuestra escuela,
-      realizaremos un encuentro virtual  en el que se expondrán las
-      particularidades de nuestro proyecto educativo, las orientaciones técnicas
-      que se ofrecen desde cuarto año (Construcciones e Industria de procesos) y
-      los horarios del cursado (turnos, horarios, etc.). Dicho encuentro se
-      realizará el día 10 de setiembre a las 18 horas por la plataforma Meet.
-      Para poder participar de ella, les invitamos a completar el
-      formulario.                                                               \
-      "
+  - texto: UN NUEVO ESPACIO DE ENCUENTRO PARA ENSEÑAR Y APRENDER. En el contexto de
+      las particulares condiciones que el sistema educativo atraviesa, desde "el
+      bravo" lanzamos nuestro sitio web como una herramienta para facilitar la
+      tarea pedagógica,  permitiendo nuevos espacios de encuentro para nuestra
+      comunidad educativa, y de la comunidad toda con nuestro proyecto.
     imagenfondo: /img/image_slide_home3.svg
     alineado: izquierda
-    link: https://docs.google.com/forms/d/e/1FAIpQLSca7NqJkFl5y2rPSoSxMrPSD--57uBjpjUODdP4rXmy3Z_pKQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7757
-  - texto: SOMOS DEL MISMO BARRO TODOS… El Instituto Técnico Maestro Alfredo Bravo
-      fue fundado en el año 2004 por un grupo de ciudadanos de Río Ceballos para
-      ofrecer una propuesta formativa técnica a los adolescentes de nuestra
-      ciudad que sólo contaba con dos secundarios en ese momento.  Por ello
-      nuestra organización es una Cooperativa de Trabajo ya que creemos en la
-      dimensión social y solidaria de nuestro sueño que pone todos los recursos
-      al servicio de los estudiantes, las familias y los docentes.
+    link: ""
+  - texto: para el ciclo lectivo 2021.
     imagenfondo: /img/ilustracion-home-03.svg
     alineado: derecha
 notas:
