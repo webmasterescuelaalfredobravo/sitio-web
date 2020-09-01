@@ -36,15 +36,25 @@ mediospago:
     imagen: /img/pagofacil.png
     titulo: Pago sin factura - Efectivo
 slide:
-  - texto: At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
-      praesentium voluptatum deleniti atque corrupti quos dolores et quas
-      molestias excepturi sint occaecati
-    imagenfondo: /img/coffee.png
+  - texto: Matriculación 2021. Atendiendo a la difícil situación actual, la
+      Cooperativa ha decidido mantener el mismo valor que tuviera la matrícula
+      2020.  El valor de la matriculación de 1ero a 7mo año del ciclo 2021, será
+      de 7750, siempre y cuando la misma se concrete hasta el 18 de diciembre de
+      2020. El año próximo tendrá una variación que se establecerá
+      oportunamente, y quedará, como ya se dijo, sujeta a la disponibilidad de
+      vacantes.
+    imagenfondo: /img/imagen-novedades-admin.svg
     titulo: titulillo 1
     fecha: hoy
     alineado: izquierda
-  - texto: Matrícula Ciclo Lectivo 2021
-    imagenfondo: /img/dsc04791.jpg
+  - texto: Matriculación 2021. Atendiendo a la difícil situación actual, la
+      Cooperativa ha decidido mantener el mismo valor que tuviera la matrícula
+      2020.  El valor de la matriculación de 1ero a 7mo año del ciclo 2021, será
+      de 7750, siempre y cuando la misma se concrete hasta el 18 de diciembre de
+      2020. El año próximo tendrá una variación que se establecerá
+      oportunamente, y quedará, como ya se dijo, sujeta a la disponibilidad de
+      vacantes.
+    imagenfondo: /img/imagen-novedades-laescuela.svg
     titulo: Presentación de Libros
     fecha: 21 de Julio 2020
     alineado: izquierda
