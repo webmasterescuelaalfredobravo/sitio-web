@@ -11,13 +11,13 @@ slideppal:
   - texto: PRE MATRICULACIONES 2021. Si estás interesado en nuestra propuesta
       educativa, se encuentran abiertas las pre-matriculaciones del ciclo
       lectivo 2021.
-    imagenfondo: /img/imagen-novedades-admin.svg
+    imagenfondo: /img/ilustracion-home-02.svg
     link: /escuela
     alineado: derecha
   - texto: UN NUEVO ESPACIO PARA HACER ESCUELA. En el contexto de la pandemia que
       condiciona la re-invención de la tarea pedagógica, sumamos hoy esta nueva
       herramienta para el encuentro en el trabajo de enseñar y aprender.
-    imagenfondo: /img/imagen-novedades-laescuela.svg
+    imagenfondo: /img/ilustracion-home-03.svg
     alineado: derecha
     link: /escuela
 notacorta:
