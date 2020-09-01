@@ -8,14 +8,14 @@ slide:
       bravo" lanzamos nuestro sitio web como una herramienta para facilitar la
       tarea pedagógica,  permitiendo nuevos espacios de encuentro para nuestra
       comunidad educativa, y de la comunidad toda con nuestro proyecto.
-    imagenfondo: /img/image_slide_home3.svg
+    imagenfondo: /img/imagen-novedades-admin.svg
     alineado: izquierda
     link: ""
   - texto: PRE MATRICULACIÓN CICLO 2021. Se encuentran abiertas las pre
       matriculaciones para el ciclo lectivo 2021. Si estás interesado en sumarte
       a nuestra comunidad educativa, te invitamos a completar el siguiente
       formulario. Nos comunicaremos a la brevedad una vez que lo hayas enviado.
-    imagenfondo: /img/ilustracion-home-03.svg
+    imagenfondo: /img/imagen-novedades-laescuela.svg
     alineado: derecha
     link: https://docs.google.com/forms/d/e/1FAIpQLSca7NqJkFl5y2rPSoSxMrPSD--57uBjpjUODdP4rXmy3Z_pKQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7757
 notas:
@@ -39,8 +39,8 @@ notas:
       puñado de docentes ad honorem, en una institución con edificio propio que
       alberga en 14 cursos y dos especialidades técnicas, a 400 estudiantes y es
       fuente de trabajo de 70 asociados cooperativistas.
-    imagen: /img/ilustracion-home-03.svg
-    titulo: 'EL "BRAVO": AYER, HOY'
+    imagen: /img/ilustracion-home-02.svg
+    titulo: "El Bravo: somos del mismo barro"
     alineado: derecha
   - titulo: SOMOS UNA COOPERATIVA DE TRABAJO
     texto: >-
@@ -52,7 +52,7 @@ notas:
       Las cooperativas elegimos democráticamente, en la asamblea de asociados, el órgano máximo de decisión de nuestra organización, un consejo de administración que se ocupa de la gestión de la Cooperativa y de las decisiones cotidianas que la llevan adelante. Las cooperativas están regidas por los valores cooperativos: ayuda mutua, igualdad, equidad, responsabilidad, democracia y solidaridad. Fue a través de ellos que nuestra Cooperativa logró en estos casi dieciséis años de vida, concretar su proyecto educativo de una escuela técnica de nivel medio y del edificio propio. Hoy seguimos proyectando nuevas ideas con el fin de ofrecerle a la comunidad nuevos espacios educativos y de formación técnica.
     alineado: izquierda
     imagen: /img/5prancheta-1.png
-  - titulo: NOMBRES QUE HICIERON HISTORIA
+  - titulo: Una historia cooperativa
     texto: >+
       Las cooperativas estamos conformadas por asociados y asociadas que
       apostamos a la construcción cooperativa. Desde los comienzos, hubo quienes
