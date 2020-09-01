@@ -52,7 +52,7 @@ notas:
       Las cooperativas elegimos democráticamente, en la asamblea de asociados, el órgano máximo de decisión de nuestra organización, un consejo de administración que se ocupa de la gestión de la Cooperativa y de las decisiones cotidianas que la llevan adelante. Las cooperativas están regidas por los valores cooperativos: ayuda mutua, igualdad, equidad, responsabilidad, democracia y solidaridad. Fue a través de ellos que nuestra Cooperativa logró en estos casi dieciséis años de vida, concretar su proyecto educativo de una escuela técnica de nivel medio y del edificio propio. Hoy seguimos proyectando nuevas ideas con el fin de ofrecerle a la comunidad nuevos espacios educativos y de formación técnica.
     alineado: izquierda
     imagen: /img/5prancheta-1.png
-  - titulo: Nombres de la historia del Bravo
+  - titulo: NOMBRES QUE HICIERON HISTORIA
     texto: >+
       Las cooperativas estamos conformadas por asociados y asociadas que
       apostamos a la construcción cooperativa. Desde los comienzos, hubo quienes
