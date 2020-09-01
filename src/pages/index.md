@@ -16,15 +16,15 @@ slideppal:
     alineado: derecha
   - texto: UN NUEVO ESPACIO PARA HACER ESCUELA. En el contexto de la pandemia que
       condiciona la re-invención de la tarea pedagógica, sumamos hoy esta nueva
-      herramienta para el encuentro en el trabajo de enseñar y aprender
+      herramienta para el encuentro en el trabajo de enseñar y aprender.
     imagenfondo: /img/imagen-novedades-laescuela.svg
     alineado: derecha
     link: /escuela
 notacorta:
-  - titulo: ¿Quiénes somos?
+  - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: "Nuestra escuela secundaria propone un camino a partir del tres ejes
-      fundamentales:  el cooperativismo, la mediación y la articulación entre
-      los mundos de la escuela y el trabajo que la educación técnica supone. Te
-      invitamos a conocer nuestra propuesta educativa."
+      fundamentales:  educación cooperativa, mediación y la articulación entre
+      los mundos de la escuela y el trabajo a través de  la enseñanza técnica.
+      Te invitamos a conocer nuestra propuesta educativa."
     link: /escuela
 ---
