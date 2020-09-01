@@ -85,6 +85,6 @@ notas:
 
       Marzo 2018 (y continúan): Emiliano Cárdenas (Presidente), Andrea Guevara (Secretaria), César Quinteros (Tesorero) y Guillermo Bernabé (Síndico).
 
-    alineado: centro
+    alineado: derecha
     imagen: /img/image_slide_home1.svg
 ---
