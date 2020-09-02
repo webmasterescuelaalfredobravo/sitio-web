@@ -40,7 +40,7 @@ notas:
       alberga en 14 cursos y dos especialidades técnicas, a 400 estudiantes y es
       fuente de trabajo de 70 asociados cooperativistas.
     imagen: /img/ilustracion-home-02.svg
-    titulo: "El Bravo: somos del mismo barro"
+    titulo: EL BRAVO, DE SUS INICIOS AL PRESENTE
     alineado: derecha
     link: ""
   - titulo: SOMOS UNA COOPERATIVA DE TRABAJO
@@ -54,8 +54,8 @@ notas:
     alineado: izquierda
     imagen: /img/5prancheta-1.png
     link: ""
-  - titulo: Una historia cooperativa
-    texto: >+
+  - titulo: UN PROYECTO, MUCHAS MANOS COOPERATIVAS
+    texto: >
       Las cooperativas estamos conformadas por asociados y asociadas que
       apostamos a la construcción cooperativa. Desde los comienzos, hubo quienes
       asumieron roles destacados, de promoción del proyecto de una cooperativa y
@@ -64,29 +64,6 @@ notas:
       llevaron adelante la responsabilidad cotidiana de gestionarla. Estos son
       los nombres de las asociadas y asociados que pusieron ese plus de
       compromiso, contribuyendo en hacer realidad nuestro sueño.
-
-
-      Iniciadores: 
-
-      Alejandro Battaino, Horacio Bianciotto, Griselda Gallo, María Rosa Jáuregui, Ana Celia Pousa y César Quinteros
-
-
-      Consejos electos de la Cooperativa: 
-
-      Noviembre de 2003- noviembre de 2007: Horacio Bianciotto (Presidente), César Quinteros (Secretario), María Rosa Jáuregui (Tesorera) y Alejandro Battaino (Síndico)
-
-      Noviembre de 2007 a diciembre de 2009: Paula González (Presidenta), Guillermo Pizarro (Secretario), Alejandro Battaino (Tesorero) y Ana Echenique (Síndica).
-
-      Diciembre de 2009 a diciembre de 2011: Daniela Talmón (Presidenta), César Quinteros (Secretario), Lorena Benavídez (Tesorera) y Lula Fernández (Síndico).
-
-      Diciembre de 2011 a diciembre de 2013: Alfredo Guanuco (Presidente), Laura Maero (Secretaria), Verónica Vélez (Tesorera) y Mariela Torres (Síndica)
-
-      Diciembre de 2013 a noviembre de 2015: José Andréis (Presidente), Valeria Restelli (Secretaria), Paula González (Tesorera) y Gabriel Martínez (Síndico)
-
-      Noviembre de 2015 a marzo de 2018: Emiliano Cárdenas (Presidente), César Quinteros (Secretario), Raquel Cabral (Tesorera) y Joaquín Battaino (Síndico)
-
-      Marzo 2018 (y continúan): Emiliano Cárdenas (Presidente), Andrea Guevara (Secretaria), César Quinteros (Tesorero) y Guillermo Bernabé (Síndico).
-
     alineado: derecha
     imagen: /img/image_slide_home1.svg
     link: ""
