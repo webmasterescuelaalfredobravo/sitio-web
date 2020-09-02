@@ -3,20 +3,22 @@ templateKey: escuela-page
 path: /escuela
 title: La Escuela
 slide:
-  - texto: UN NUEVO ESPACIO DE ENCUENTRO PARA ENSEÑAR Y APRENDER. En el contexto de
+  - titulo: UN NUEVO ESPACIO DE ENCUENTRO PARA ENSEÑAR Y APRENDER.
+    fecha: Setiembre 2020
+    texto:  En el contexto de
       las particulares condiciones que el sistema educativo atraviesa, desde "el
       bravo" lanzamos nuestro sitio web como una herramienta para facilitar la
       tarea pedagógica,  permitiendo nuevos espacios de encuentro para nuestra
       comunidad educativa, y de la comunidad toda con nuestro proyecto.
     imagenfondo: /img/imagen-novedades-admin.svg
-    alineado: izquierda
     link: ""
-  - texto: PRE MATRICULACIÓN CICLO 2021. Se encuentran abiertas las pre
+  - titulo: PRE MATRICULACIÓN CICLO 2021.
+    fecha: Setiembre 2020
+    texto:  Se encuentran abiertas las pre
       matriculaciones para el ciclo lectivo 2021. Si estás interesado en sumarte
       a nuestra comunidad educativa, te invitamos a completar el siguiente
       formulario. Nos comunicaremos a la brevedad una vez que lo hayas enviado.
     imagenfondo: /img/imagen-novedades-laescuela.svg
-    alineado: derecha
     link: https://docs.google.com/forms/d/e/1FAIpQLSca7NqJkFl5y2rPSoSxMrPSD--57uBjpjUODdP4rXmy3Z_pKQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7757
 notas:
   - texto: >

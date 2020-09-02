@@ -60,6 +60,7 @@ SlideInterno.propTypes = {
             texto: PropTypes.string,
             titulo: PropTypes.string,
             fecha: PropTypes.string,
+            link: PropTypes.string,
         })
     ),
 };
