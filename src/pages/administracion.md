@@ -2,7 +2,7 @@
 templateKey: administracion-page
 path: /administracion
 title: Administración
-csvcodpago: /img/alumnos-29-7.csv
+csvcodpago: /img/cod-est-2020.csv
 mediospago:
   - texto: >-
       1. Entrá desde tu navegador a www.onlinesiro.com.ar
@@ -37,17 +37,17 @@ mediospago:
     titulo: Pago sin factura - Efectivo
 slide:
   - titulo: MATRICULA CICLO LECTIVO
-    texto: Atendiendo a la difícil
-      situación actual, la Cooperativa ha decidido mantener el mismo valor que
-      tuviera la matrícula 2020.  El valor de la matriculación de 1ero a 7mo año
-      del ciclo 2021, será de $7750, siempre y cuando la misma se concrete hasta
-      el 18 de diciembre de 2020. El año próximo tendrá una variación que se
-      establecerá oportunamente, y quedará, como ya se dijo, sujeta a la
-      disponibilidad de vacantes.	La matrícula para los estudiantes que cursen
-      de 2do a 7mo en 2021 se podrá abonar en cuatro cuotas de
-      $1937.50  (septiembre, octubre, noviembre y diciembre del corriente) cada
-      una de las tres primeras se abonará en concepto de reserva de banco, y con
-      la última se dará por cancelada la matrícula. Ó en un solo pago de $7750.
+    texto: Atendiendo a la difícil situación actual, la Cooperativa ha decidido
+      mantener el mismo valor que tuviera la matrícula 2020.  El valor de la
+      matriculación de 1ero a 7mo año del ciclo 2021, será de $7750, siempre y
+      cuando la misma se concrete hasta el 18 de diciembre de 2020. El año
+      próximo tendrá una variación que se establecerá oportunamente, y quedará,
+      como ya se dijo, sujeta a la disponibilidad de vacantes.	La matrícula para
+      los estudiantes que cursen de 2do a 7mo en 2021 se podrá abonar en cuatro
+      cuotas de $1937.50  (septiembre, octubre, noviembre y diciembre del
+      corriente) cada una de las tres primeras se abonará en concepto de reserva
+      de banco, y con la última se dará por cancelada la matrícula. Ó en un solo
+      pago de $7750.
     imagenfondo: /img/5prancheta-1.png
     fecha: Setiembre 2020
 ---
