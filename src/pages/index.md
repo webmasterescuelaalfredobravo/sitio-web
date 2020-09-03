@@ -22,9 +22,9 @@ slideppal:
     link: /escuela
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
-    texto: "Nuestra escuela secundaria propone un camino a partir de tres ejes
-      fundamentales:  educación cooperativa, mediación y la articulación entre
-      los mundos de la escuela y el trabajo a través de  la enseñanza técnica.
-      Te invitamos a conocer nuestra propuesta educativa."
+    texto: "Nuestra escuela secundaria propone una experiencia formativa a partir de
+      tres ejes fundamentales:  educación cooperativa, mediación y la
+      articulación entre los mundos de la escuela y el trabajo a través de  la
+      enseñanza técnica. Te invitamos a conocer nuestra propuesta educativa."
     link: /escuela
 ---
