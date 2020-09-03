@@ -29,11 +29,12 @@ exports.handler = async (event, context) => {
       if (!documento && !url) {
         throw (`no 'url' or 'documento' property given`);
       }
-
+console.log("procesando....")
       // EL CSV ORIGINAL TRAE COMO CABECERA EL CAMPO D.N.I. que la libreria no resuelve bien, por eso se reemplazan los puntos por _
       const parser = new Parser();
-      var xxx = await parser.parseEvent({ url: url, options: { delimiter: { field: ';' }, keys: ['Legajo', 'Nombre y Apellido', 'Cur', 'D_N_I_', 'E-Mail', 'CODIGO ELECTRONICO'] } });
+      var xxx = await parser.parseEvent({ url: url, options: { delimiter: { field: ';' , eol: '\r\n' }, keys: ['D_N_I_', 'CODIGO ELECTRONICO'] } });
       const result = xxx.filter(unRegistro => {
+        console.log(unRegistro.D_N_I_);
         return unRegistro.D_N_I_ && String(unRegistro.D_N_I_) === documento;
       });
 
