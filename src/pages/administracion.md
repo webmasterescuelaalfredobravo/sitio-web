@@ -36,8 +36,8 @@ mediospago:
     imagen: /img/pagofacil.png
     titulo: Pago sin factura - Efectivo
 slide:
-  - texto: MATRICULA CICLO LECTIVO
-      2021                                             	Atendiendo a la difícil
+  - titulo: MATRICULA CICLO LECTIVO
+    texto: Atendiendo a la difícil
       situación actual, la Cooperativa ha decidido mantener el mismo valor que
       tuviera la matrícula 2020.  El valor de la matriculación de 1ero a 7mo año
       del ciclo 2021, será de $7750, siempre y cuando la misma se concrete hasta
@@ -49,7 +49,5 @@ slide:
       una de las tres primeras se abonará en concepto de reserva de banco, y con
       la última se dará por cancelada la matrícula. Ó en un solo pago de $7750.
     imagenfondo: /img/5prancheta-1.png
-    titulo: Presentación de Libros
-    fecha: 21 de Julio 2020
-    alineado: izquierda
+    fecha: Setiembre 2020
 ---
