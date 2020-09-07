@@ -10,10 +10,10 @@ const SlidePrincipal = ({ slides }) => {
             <div className={"columns slide-wrapper " + unSlide.alineado + (unSlide.alineado === "izquierda" ? " is-reverse-mobile" : "")}>
 
                 <div className={"column caja-contenido "}>
-                    <div>
-                        {unSlide.texto && <div className="texto">{unSlide.texto} </div>}
+                    <div className="textodet-slide">
+                        {unSlide.texto && <div className="texto">{unSlide.texto}</div>}
                         {unSlide.link && <a className="leer-mas" href={unSlide.link} >
-                        Leer más</a>}
+                            Leer más</a>}
                     </div>
                 </div>
                 <div className={"column imagen is-two-thirds"}>
@@ -29,7 +29,7 @@ const SlidePrincipal = ({ slides }) => {
                     <span>
                         {unSlide.texto && <div className="texto">{unSlide.texto} </div>}
                         {unSlide.link && <a className="leer-mas" href={unSlide.link} >
-                        Leer más</a>}
+                            Leer más</a>}
                     </span>
                 </div>
             </div>
@@ -60,8 +60,8 @@ const SlidePrincipal = ({ slides }) => {
 
             <CarouselProvider
                 className={"solo-mobile"}
-                naturalSlideWidth={1031}
-                naturalSlideHeight={339}
+                naturalSlideWidth={370}
+                naturalSlideHeight={780}
                 totalSlides={slides.length}
                 dots="true" infinite="true"
             >
