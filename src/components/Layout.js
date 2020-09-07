@@ -56,7 +56,7 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navbar />
       <div >{children}</div>
-      <a className="ir-arriba" href="#top-bravo" ></a>
+      
       <Footer />
     </div>
   );

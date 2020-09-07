@@ -10,6 +10,16 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer-bravo  ">
         <div className="columns is-reverse-mobile">
+          <div className="logo  column no-mobile is-2">
+            <div className="content is-vcentered has-text-centered">
+              <img
+                src={logo}
+                alt="Instituto Técnico Maestro Alfredo Bravo"
+                style={{ width: '14em', height: '10em', margin: 'auto' }}
+              />
+            </div>
+          </div>
+
           <div className="column is-vcentered institucional">
             <div className="content is-vcentered text-wrapper">
               <div className="linea-texto has-text-weight-bold txt-p6">Instituto Técnico</div>
@@ -21,7 +31,7 @@ const Footer = class extends React.Component {
           </div>
 
 
-          <div className="logo  column">
+          <div className="logo  column solo-mobile">
             <div className="content is-vcentered has-text-centered">
               <img
                 src={logo}
@@ -32,23 +42,9 @@ const Footer = class extends React.Component {
           </div>
 
 
-          <div className="column is-one-third-tablet social">
-            <div className="content is-vcentered">
-              <div className="content redes has-text-weight-bold txt-p6">
-                Nuestras Redes
-              <a title="facebook" href="https://facebook.com">
-                  <img
-                    src={facebook}
-                    alt="Facebook"
-                  />
-                </a>
-                <a title="instagram" href="https://instagram.com">
-                  <img
-                    src={instagram}
-                    alt="Instagram"
-                  />
-                </a>
-              </div>
+          <div className="column is-one-third-tablet ir-arriba-wrapper is-1">
+            <div className="content is-vcentered  ">
+              <a className="ir-arriba" href="#top-bravo" ></a>
             </div>
           </div>
         </div>

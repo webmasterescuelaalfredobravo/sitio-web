@@ -199,7 +199,7 @@ $menu-label-color: $white-ter
 
   .slide-anterior
     position: absolute 
-    top: 50% 
+    top: calc(50% - 24px) 
     left: 1% 
 
     z-index: 500
@@ -211,7 +211,7 @@ $menu-label-color: $white-ter
       left: 60px  // coincide con el margin de la navbar
   .slide-siguiente
     position: absolute 
-    top: 50% 
+    top: calc(50% - 24px) // busca posicionar en el centro del slide. 24px es la mitad del alto del boton
     right: 1% 
     z-index: 500
     background-color: transparent
@@ -446,7 +446,7 @@ footer
       height: $bravo-footer-height
     +desktop
       height: $bravo-footer-height 
-  .social
+  .ir-arriba-wrapper
     position: relative
     .redes
       +mobile 
@@ -459,8 +459,9 @@ footer
       height: 40px
       background-color: transparent
       margin: .5em 
-      position: relative
-      top: 1em  
+      +mobile
+        margin: auto
+       
 
   .institucional
     .linea-texto
@@ -472,7 +473,9 @@ footer
 
   .txt-p6
     font-size: 0.75rem
-  
+  .logo.column.solo-mobile
+    +mobile 
+      display: block
 
 // truco para invertir el orden de las columnas cuando se visualiza en mobile(el bloque que está mas a la derecha se apila arriba)
 // see https://github.com/jgthms/bulma/issues/1051
@@ -617,15 +620,19 @@ footer
     background-color: #f49725
     font-size: 1rem 
     z-index: 500
-    padding-bottom: 1%
     +mobile 
       padding-bottom: 3%
   .nota-wrapper
     position: relative
   .texto-wrapper
-    padding: 5%  
+    padding: 5% 
+    +desktop
+      padding-left: 22%
+      padding-right: 22% 
   .link-wrapper
     text-align: center
+    +tablet
+      padding-bottom: 28px
 /* purgecss end ignore */
 
 .medios-pago
@@ -954,6 +961,10 @@ footer
   width: 40px
   display: block
   margin: 2rem auto
+  +tablet
+    position: absolute
+    right: 20px
+    margin-right: 0px
   &:hover
     background-image: url(/img/next-over-01.svg)
     color: $beigecito
