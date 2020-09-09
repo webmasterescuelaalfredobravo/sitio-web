@@ -29,7 +29,7 @@ notas:
     imagen: /img/img-laescuela-arbol.svg
     titulo: NUESTRA PROPUESTA EDUCATIVA
     alineado: izquierda
-    fecha: ""
+    fecha: Somos una escuela técnica
   - texto: >
       El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004
       ofreciendo una propuesta formativa técnica para adolescentes de nuestra
@@ -42,12 +42,12 @@ notas:
       puñado de docentes ad honorem, en una institución con edificio propio que
       alberga en 14 cursos y dos especialidades técnicas, a 400 estudiantes y es
       fuente de trabajo de 70 asociados cooperativistas.
-    imagen: /img/ilustracion-home-02.svg
-    titulo: EL BRAVO, DE SUS INICIOS AL PRESENTE
+    imagen: /img/imagen-manos-01.svg
+    titulo: UN PROYECTO, 16 AÑOS
     alineado: derecha
     link: ""
-    fecha: ""
-  - titulo: SOMOS UNA COOPERATIVA DE TRABAJO
+    fecha: El Bravo, desde sus inicios al presente
+  - titulo: ENSEÑANDO DESDE EL COOPERATIVISMO
     texto: >-
       El 10 de noviembre de 2003 se conforma la Cooperativa de Trabajo Maestro
       Alfredo Bravo. Las cooperativas somos organizaciones autogestionadas y
@@ -56,9 +56,9 @@ notas:
 
       Las cooperativas elegimos democráticamente, en la asamblea de asociados, el órgano máximo de decisión de nuestra organización, un consejo de administración que se ocupa de la gestión de la Cooperativa y de las decisiones cotidianas que la llevan adelante. Las cooperativas están regidas por los valores cooperativos: ayuda mutua, igualdad, equidad, responsabilidad, democracia y solidaridad. Fue a través de ellos que nuestra Cooperativa logró en estos casi dieciséis años de vida, concretar su proyecto educativo de una escuela técnica de nivel medio y del edificio propio. Hoy seguimos proyectando nuevas ideas con el fin de ofrecerle a la comunidad nuevos espacios educativos y de formación técnica.
     alineado: izquierda
-    imagen: /img/5prancheta-1.png
+    imagen: /img/imagen-coop-01.svg
     link: ""
-    fecha: ""    
+    fecha: Somos una cooperativa de trabajo
   - titulo: UN PROYECTO, MUCHAS MANOS COOPERATIVAS
     texto: >
       Las cooperativas estamos conformadas por asociados y asociadas que
@@ -70,7 +70,7 @@ notas:
       los nombres de las asociadas y asociados que pusieron ese plus de
       compromiso, contribuyendo en hacer realidad nuestro sueño.
     alineado: derecha
-    imagen: /img/image_slide_home1.svg
+    imagen: /img/imagen-tambor-01.svg
     link: https://drive.google.com/file/d/1DlDMhpzG_1VHUn60asiQ3pUCUtU0pXNR/view?usp=sharing
-    fecha: ""    
+    fecha: Un poco de (nuestra) historia
 ---
