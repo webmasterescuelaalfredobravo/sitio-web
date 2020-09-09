@@ -38,5 +38,5 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "escuela-page"}
           - {label: "Slide de la Escuela", name: slide, widget: list, fields: [{label: "Título", name: titulo, widget: string},{label: Texto, name: texto, widget: string,required: false},{label: "Imagen de Fondo", name: imagenfondo, widget: image}, {label: link, name: link, widget: string,required: false},{label: "Fecha", name: fecha, widget: string}]}
-          - {label: "Nota", name: notas, widget: list, fields: [{label: "Título", name: titulo, widget: string}, {label: "Texto", name: texto, widget: text},{label: "Imagen", name: imagen, widget: image},{label: "Alineado", name: "alineado",widget: "select", options: ["centro", "izquierda","derecha"]}, {label: link, name: link, widget: string,required: false}]}
+          - {label: "Nota", name: notas, widget: list, fields: [{label: "Título", name: titulo, widget: string}, {label: "Texto", name: texto, widget: text},{label: "Imagen", name: imagen, widget: image},{label: "Alineado", name: "alineado",widget: "select", options: ["centro", "izquierda","derecha"]}, {label: link, name: link, widget: string,required: false},{label: "Fecha o subtítulo", name: fecha, widget: string}]}
 

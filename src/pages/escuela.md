@@ -29,6 +29,7 @@ notas:
     imagen: /img/img-laescuela-arbol.svg
     titulo: NUESTRA PROPUESTA EDUCATIVA
     alineado: izquierda
+    fecha: ""
   - texto: >
       El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004
       ofreciendo una propuesta formativa técnica para adolescentes de nuestra
@@ -45,6 +46,7 @@ notas:
     titulo: EL BRAVO, DE SUS INICIOS AL PRESENTE
     alineado: derecha
     link: ""
+    fecha: ""
   - titulo: SOMOS UNA COOPERATIVA DE TRABAJO
     texto: >-
       El 10 de noviembre de 2003 se conforma la Cooperativa de Trabajo Maestro
@@ -56,6 +58,7 @@ notas:
     alineado: izquierda
     imagen: /img/5prancheta-1.png
     link: ""
+    fecha: ""    
   - titulo: UN PROYECTO, MUCHAS MANOS COOPERATIVAS
     texto: >
       Las cooperativas estamos conformadas por asociados y asociadas que
@@ -69,4 +72,5 @@ notas:
     alineado: derecha
     imagen: /img/image_slide_home1.svg
     link: https://drive.google.com/file/d/1DlDMhpzG_1VHUn60asiQ3pUCUtU0pXNR/view?usp=sharing
+    fecha: ""    
 ---

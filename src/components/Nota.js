@@ -20,6 +20,7 @@ const Nota = ({ notas }) => (
                         </div>
                         <div className="column col-txt is-7">
                             {unaNota.titulo && <p className="titulo no-mobile">{unaNota.titulo} </p>}
+                            {unaNota.fecha && <p className="fecha no-mobile">{unaNota.fecha}</p>}
                             {unaNota.texto && <div className="texto">{unaNota.texto}</div>}
                             {unaNota.link && <a className="leer-mas" href={unaNota.link} > 
                         Leer más</a>}
@@ -29,6 +30,7 @@ const Nota = ({ notas }) => (
                     <div className="columns is-reverse-mobile ">
                         <div className="column col-txt is-7">
                             {unaNota.titulo && <p className="titulo no-mobile">{unaNota.titulo} </p>}
+                            {unaNota.fecha && <p className="fecha no-mobile">{unaNota.fecha}</p>}
                             {unaNota.texto && <div className="texto">{unaNota.texto}</div>}
                             {unaNota.link && <a className="leer-mas" href={unaNota.link} > 
                         Leer más</a>}
@@ -51,6 +53,7 @@ Nota.propTypes = {
             titulo: PropTypes.string,
             alineado: PropTypes.string,
             link: PropTypes.string,
+            fecha: PropTypes.string,
         })
     ),
 };

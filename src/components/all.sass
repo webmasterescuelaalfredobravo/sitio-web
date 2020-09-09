@@ -291,11 +291,15 @@ $menu-label-color: $white-ter
 .slide-interno
   position: relative
   text-align: center
-  padding-left: 0
-  padding-right: 0
   +mobile 
     padding-left: 5%
     padding-right: 5%
+  +tablet 
+    padding-left: 10%
+    padding-right: 10%
+  +desktop 
+    padding-left: 20%
+    padding-right: 20%
   .centrado
     position: absolute
     top: 50%
@@ -329,7 +333,7 @@ $menu-label-color: $white-ter
       height: 47px  
   .slide-anterior
     position: absolute 
-    top: 50% 
+    top: 42%
     left: 5% 
     z-index: 500
     background-color: transparent
@@ -338,9 +342,10 @@ $menu-label-color: $white-ter
     border: 0
     +mobile
       top: 0
+      padding-top: inherit
   .slide-siguiente
     position: absolute 
-    top: 50% 
+    top: 42%
     right: 5% 
     z-index: 500
     background-color: transparent
@@ -351,6 +356,7 @@ $menu-label-color: $white-ter
       top: 0
       left: 20%
       right: inherit
+      padding-top: inherit
   .puntos
     button
       border-radius: 50%  
@@ -694,6 +700,9 @@ footer
     +tablet
       padding-left: 10%
       padding-right: 10%
+    +desktop
+      padding-left: 20%
+      padding-right: 20%
   img
     width: 360px
   .texto

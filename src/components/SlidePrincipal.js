@@ -61,7 +61,7 @@ const SlidePrincipal = ({ slides }) => {
             <CarouselProvider
                 className={"solo-mobile"}
                 naturalSlideWidth={370}
-                naturalSlideHeight={780}
+                naturalSlideHeight={850}
                 totalSlides={slides.length}
                 dots="true" infinite="true"
             >
