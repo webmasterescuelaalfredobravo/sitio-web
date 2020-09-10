@@ -12,6 +12,7 @@ const Nota = ({ notas }) => (
             <div key={index} className={"una-nota " + unaNota.alineado + ((index === notas.length - 1) ? " ultima" : "") + ((index === 0) ? " primera" : "")}>
                 <div className="solo-mobile column">
                     {unaNota.titulo && <p className="titulo">{unaNota.titulo} </p>}
+                    {unaNota.fecha && <p className="fecha">{unaNota.fecha}</p>}
                 </div>
                 {unaNota.alineado === "izquierda" &&
                     <div className="columns">
@@ -19,8 +20,8 @@ const Nota = ({ notas }) => (
                             <img src={unaNota.imagen.publicURL} alt={unaNota.titulo} />
                         </div>
                         <div className="column col-txt is-7">
-                            {unaNota.titulo && <p className="titulo ">{unaNota.titulo} </p>}
-                            {unaNota.fecha && <p className="fecha">{unaNota.fecha}</p>}
+                            {unaNota.titulo && <p className="titulo no-mobile">{unaNota.titulo} </p>}
+                            {unaNota.fecha && <p className="fecha no-mobile">{unaNota.fecha}</p>}
                             {unaNota.texto && <div className="texto">{unaNota.texto}</div>}
                             {unaNota.link && <a className="leer-mas" href={unaNota.link} > 
                         Leer más</a>}
@@ -29,8 +30,8 @@ const Nota = ({ notas }) => (
                 {unaNota.alineado === "derecha" &&
                     <div className="columns is-reverse-mobile ">
                         <div className="column col-txt is-7">
-                            {unaNota.titulo && <p className="titulo ">{unaNota.titulo} </p>}
-                            {unaNota.fecha && <p className="fecha ">{unaNota.fecha}</p>}
+                            {unaNota.titulo && <p className="titulo no-mobile">{unaNota.titulo} </p>}
+                            {unaNota.fecha && <p className="fecha no-mobile">{unaNota.fecha}</p>}
                             {unaNota.texto && <div className="texto">{unaNota.texto}</div>}
                             {unaNota.link && <a className="leer-mas" href={unaNota.link} > 
                         Leer más</a>}
