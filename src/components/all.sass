@@ -681,12 +681,23 @@ footer
  
   .vermasmenos
     float: left 
-    border-radius: 50%
-    border: 1px solid
-    padding: 0.7em
     width: 45px
     height: 45px
     margin-right: 1em
+    
+    background-size: 100% 100%
+    border: 0
+    &.arriba
+      background-image: url(/img/up-01.svg)
+      &:hover
+        background-image: url(/img/over-up-01.svg)
+        color: $beigecito 
+    &.abajo
+      background-image: url(/img/down-01.svg)
+      &:hover
+        background-image: url(/img/over-down-01.svg)
+        color: $beigecito
+
   .titulo-seccion
     text-align: center
     font-weight: bold
