@@ -73,4 +73,18 @@ notas:
     imagen: /img/imagen-tambor-01.svg
     link: https://drive.google.com/file/d/1DlDMhpzG_1VHUn60asiQ3pUCUtU0pXNR/view?usp=sharing
     fecha: Un poco de (nuestra) historia
+  - titulo: "NUESTRAS ORIENTACIONES TÉCNICAS:  Maestro Mayor de Obras (MMO) y
+      Técnico en Industrias de Procesos (IP)"
+    texto: >-
+      Nuestras orientaciones técnicas de Maestro Mayor de Obras (MMO) y de
+      Industrias de Procesos (IP) acompañan a nuestros estudiantes en la
+      construcción de un perfil profesional que de alguna manera pone en
+      evidencia sus capacidades para la resolución de situaciones problemáticas
+      de cualquier fase del proceso de la construcción (MMO) o industrial (IP)
+      en contextos sociales y regionales particulares.
+
+      Por ello resulta clave tener en claro cuál es el perfil técnico que pretendemos en cada una de las orientaciones de nuestro Instituto pero también tener en cuenta los diversos espacios curriculares y su correspondiente distribución de carga horaria.
+    imagen: /img/img-laescuela-arbol.svg
+    alineado: centro
+    fecha: El perfil profesional y la carga horaria
 ---
