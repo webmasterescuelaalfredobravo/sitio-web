@@ -95,4 +95,25 @@ notas:
     fecha: El perfil profesional y la carga horaria
     link: https://drive.google.com/file/d/1UqrNu67vDuIE78lGV9t5C2hlgvJTP8aD/view?usp=sharing
       https://docs.google.com/document/d/1bocNsOlJngSrJVAzSzNEbWzTesL6rwf8XLZD9exk-Cg/edit?usp=sharing
+  - titulo: "NUESTRAS ORIENTACIONES TÉCNICAS:  Técnico en Industrias de Proceso"
+    texto: >-
+      El Técnico en Industrias de Procesos tiene un amplio campo de
+      empleabilidad. Se desempeña en empresas de distinto tamaño, productoras de
+      commodities y productos diferenciados, con tecnología de punta, intermedia
+      o elemental.
+
+      Se desenvuelve tanto en empresas industriales, en empresas contratistas que brindan servicios en el área industrial, como en emprendimientos generados por el técnico o por pequeños equipos de profesionales.
+
+      Su formación le permite una gran movilidad interna (distintos sectores) y externa (distintos tipos de empresa); en el mercado de trabajo y lo prepara para trabajar interdisciplinariamente y en equipo para adaptarse y aprender nuevos roles y continuar su formación a lo largo de toda su vida profesional.
+
+      Los roles del técnico podrán ser, en distintas etapas de su carrera, desde fuertemente específicos, hasta marcadamente globales y gestionales; variando con el tamaño, contenido tecnológico y tipo de proceso y producto de la empresa en la que se desempeñe. En empresas de mayor tamaño, participa desde sus tareas específicas dentro del “equipo de producción” (trabajo en grupos, en células, etc.), incrementándose la participación en aspectos más estratégicos del negocio y en la toma de decisiones a medida que el tamaño de la empresa disminuye. Estos aspectos asumen una importancia central en la gestión de auto emprendimientos y en las empresas de servicios tercerizados. 
+
+      Nuestra propuesta educativa acompaña a nuestros estudiantes en la construcción de un perfil profesional que de alguna manera pone en evidencia sus capacidades para la resolución de situaciones problemáticas de cualquier fase del proceso industrial (IP).
+
+      Por ello resulta clave tener en claro cuál es el perfil técnico que pretendemos en cada una de las orientaciones de nuestro Instituto pero también tener en cuenta los diversos espacios curriculares y su correspondiente distribución de carga horaria.
+    imagen: /img/imagen-ip-color-bravo-01.svg
+    alineado: centro
+    link: https://drive.google.com/file/d/1pExImjdYgcH9HJTZw9DaO4v70WFBXEt1/view?usp=sharing
+      https://drive.google.com/file/d/1TP_m4NWd4uWv0pZewbpkWNmCP16iGPd7/view?usp=sharing
+    fecha: El perfil profesional y la carga horaria
 ---
