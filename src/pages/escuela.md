@@ -94,5 +94,5 @@ notas:
     alineado: centro
     fecha: El perfil profesional y la carga horaria
     link: https://drive.google.com/file/d/1UqrNu67vDuIE78lGV9t5C2hlgvJTP8aD/view?usp=sharing
-      https://drive.google.com/file/d/1UqrNu67vDuIE78lGV9t5C2hlgvJTP8aD/view?usp=sharing
+      https://docs.google.com/document/d/1bocNsOlJngSrJVAzSzNEbWzTesL6rwf8XLZD9exk-Cg/edit?usp=sharing
 ---
