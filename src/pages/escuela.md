@@ -73,18 +73,26 @@ notas:
     imagen: /img/imagen-tambor-01.svg
     link: https://drive.google.com/file/d/1DlDMhpzG_1VHUn60asiQ3pUCUtU0pXNR/view?usp=sharing
     fecha: Un poco de (nuestra) historia
-  - titulo: "NUESTRAS ORIENTACIONES TÉCNICAS:  Maestro Mayor de Obras (MMO) y
-      Técnico en Industrias de Procesos (IP)"
+  - titulo: "NUESTRAS ORIENTACIONES TÉCNICAS:  Maestro Mayor de Obras (MMO) "
     texto: >-
-      Nuestras orientaciones técnicas de Maestro Mayor de Obras (MMO) y de
-      Industrias de Procesos (IP) acompañan a nuestros estudiantes en la
-      construcción de un perfil profesional que de alguna manera pone en
-      evidencia sus capacidades para la resolución de situaciones problemáticas
-      de cualquier fase del proceso de la construcción (MMO) o industrial (IP)
-      en contextos sociales y regionales particulares.
+      Las capacidades que el Maestro Mayor de Obras desarrolla en el marco de
+      las funciones profesionales del campo de la construcción, le permiten
+      desempeñarse en los ámbitos de producción: oficinas técnicas, obras de
+      construcción edilicias, empresas de productos o servicios relacionados con
+      el ámbito de la construcción actuando en forma independiente en las áreas
+      ocupacionales de: proyecto, dirección, planificación, control, gestión,
+      administración y comercialización en la industria de la construcción.
+
+      Actúa interdisciplinariamente con expertos en otras áreas, eventualmente involucrados en su actividad (equipamiento e instalaciones electromecánicas, otras especialidades de construcciones, mecánica, producción agropecuaria, informática, etc.).
+
+      Interpreta las necesidades del comitente, las definiciones surgidas de los estamentos técnicos y jerárquicos correspondientes, gestiona sus actividades específicas, controla la totalidad de las actividades requeridas hasta su efectiva concreción, teniendo en cuenta los criterios de seguridad, impacto ambiental, relaciones humanas, calidad, productividad y costos.
+
+      Nuestra propuesta educativa acompaña a nuestros estudiantes en la construcción de un perfil profesional que de alguna manera pone en evidencia sus capacidades para la resolución de situaciones problemáticas de cualquier fase del proceso de la construcción (MMO).
 
       Por ello resulta clave tener en claro cuál es el perfil técnico que pretendemos en cada una de las orientaciones de nuestro Instituto pero también tener en cuenta los diversos espacios curriculares y su correspondiente distribución de carga horaria.
-    imagen: /img/img-laescuela-arbol.svg
+    imagen: /img/imagen-mmo-color-bravo-01.svg
     alineado: centro
     fecha: El perfil profesional y la carga horaria
+    link: https://drive.google.com/file/d/1UqrNu67vDuIE78lGV9t5C2hlgvJTP8aD/view?usp=sharing
+      https://drive.google.com/file/d/1UqrNu67vDuIE78lGV9t5C2hlgvJTP8aD/view?usp=sharing
 ---
