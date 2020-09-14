@@ -91,7 +91,7 @@ notas:
 
       Por ello resulta clave tener en claro cuál es el perfil técnico que pretendemos en cada una de las orientaciones de nuestro Instituto pero también tener en cuenta los diversos espacios curriculares y su correspondiente distribución de carga horaria.
     imagen: /img/imagen-mmo-color-bravo-01.svg
-    alineado: centro
+    alineado: izquierda
     fecha: El perfil profesional y la carga horaria
     link: https://drive.google.com/file/d/1UqrNu67vDuIE78lGV9t5C2hlgvJTP8aD/view?usp=sharing
       https://docs.google.com/document/d/1bocNsOlJngSrJVAzSzNEbWzTesL6rwf8XLZD9exk-Cg/edit?usp=sharing
@@ -112,7 +112,7 @@ notas:
 
       Por ello resulta clave tener en claro cuál es el perfil técnico que pretendemos en cada una de las orientaciones de nuestro Instituto pero también tener en cuenta los diversos espacios curriculares y su correspondiente distribución de carga horaria.
     imagen: /img/imagen-ip-color-bravo-01.svg
-    alineado: centro
+    alineado: derecha
     link: https://drive.google.com/file/d/1pExImjdYgcH9HJTZw9DaO4v70WFBXEt1/view?usp=sharing
       https://drive.google.com/file/d/1TP_m4NWd4uWv0pZewbpkWNmCP16iGPd7/view?usp=sharing
     fecha: El perfil profesional y la carga horaria
