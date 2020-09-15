@@ -48,31 +48,25 @@ notas:
     link: ""
     fecha: El Bravo, desde sus inicios al presente
   - titulo: ENSEÑANDO DESDE EL COOPERATIVISMO
-    texto: >-
-      El 10 de noviembre de 2003 se conforma la Cooperativa de Trabajo Maestro
-      Alfredo Bravo. Las cooperativas somos organizaciones autogestionadas y
-      autónomas, conformadas por asociados, en nuestro caso, como cooperativa de
-      trabajo, constituida por quienes trabajamos en "el Bravo".
-
-      Las cooperativas elegimos democráticamente, en la asamblea de asociados, el órgano máximo de decisión de nuestra organización, un consejo de administración que se ocupa de la gestión de la Cooperativa y de las decisiones cotidianas que la llevan adelante. Las cooperativas están regidas por los valores cooperativos: ayuda mutua, igualdad, equidad, responsabilidad, democracia y solidaridad. Fue a través de ellos que nuestra Cooperativa logró en estos casi dieciséis años de vida, concretar su proyecto educativo de una escuela técnica de nivel medio y del edificio propio. Hoy seguimos proyectando nuevas ideas con el fin de ofrecerle a la comunidad nuevos espacios educativos y de formación técnica.
+    texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
+      Maestro Alfredo Bravo. Las cooperativas somos organizaciones
+      autogestionadas y autónomas, conformadas por personas que nos unimos
+      voluntariamente para satisfacer nuestras necesidades y aspiraciones por
+      medio de una empresa de propiedad conjunta, democráticamente gestionada.
+      En nuestro caso, como cooperativa de trabajo, formamos la Cooperativa
+      quienes trabajamos en "el Bravo". Las cooperativas elegimos en la Asamblea
+      de asociados, que  es el órgano máximo de gobierno, un consejo de
+      administración que se ocupa de la gestión de la Cooperativa y de las
+      decisiones cotidianas que la llevan adelante. También elegimos a quién
+      tiene la responsabilidad de ocupar el órgano de fiscalización: la
+      sindicatura. Las cooperativas estamos regidas por los valores que guían
+      nuestras acciones: ayuda mutua, igualdad, equidad, responsabilidad,
+      democracia y solidaridad. Fue a través de ellos que "el Bravo" logró en
+      estos dieciséis años convertir su sueño en realidad.'
     alineado: izquierda
     imagen: /img/imagen-coop-01.svg
-    link: ""
+    link: https://drive.google.com/file/d/1IqwOq_Cyk9wqdEbdDwyry1oYEW-wx-kQ/view?usp=sharing
     fecha: Somos una cooperativa de trabajo
-  - titulo: UN PROYECTO, MUCHAS MANOS COOPERATIVAS
-    texto: >
-      Las cooperativas estamos conformadas por asociados y asociadas que
-      apostamos a la construcción cooperativa. Desde los comienzos, hubo quienes
-      asumieron roles destacados, de promoción del proyecto de una cooperativa y
-      de su iniciación, y luego, conformando los distintos consejos de
-      administración que, elegidos en asamblea y cumpliendo su tarea ad honorem,
-      llevaron adelante la responsabilidad cotidiana de gestionarla. Estos son
-      los nombres de las asociadas y asociados que pusieron ese plus de
-      compromiso, contribuyendo en hacer realidad nuestro sueño.
-    alineado: derecha
-    imagen: /img/imagen-tambor-01.svg
-    link: https://drive.google.com/file/d/1DlDMhpzG_1VHUn60asiQ3pUCUtU0pXNR/view?usp=sharing
-    fecha: Un poco de (nuestra) historia
   - titulo: "NUESTRAS ORIENTACIONES TÉCNICAS:  Maestro Mayor de Obras (MMO) "
     texto: >-
       Las capacidades que el Maestro Mayor de Obras desarrolla en el marco de
