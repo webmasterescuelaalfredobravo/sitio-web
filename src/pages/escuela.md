@@ -42,7 +42,7 @@ notas:
       puñado de docentes ad honorem, en una institución con edificio propio que
       alberga en 14 cursos y dos especialidades técnicas, a 400 estudiantes y es
       fuente de trabajo de 70 asociados cooperativistas.
-    imagen: /img/imagen-manos-01.svg
+    imagen: /img/bravo-img-011.jpg
     titulo: UN PROYECTO, 16 AÑOS
     alineado: derecha
     link: ""
