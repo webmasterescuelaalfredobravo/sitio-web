@@ -49,16 +49,15 @@ notas:
     fecha: El Bravo, desde sus inicios al presente
   - titulo: ENSEÑANDO DESDE EL COOPERATIVISMO
     texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
-      Maestro Alfredo Bravo. Las cooperativas somos organizaciones
-      autogestionadas y autónomas, conformadas por personas que nos unimos
-      voluntariamente para satisfacer nuestras necesidades y aspiraciones por
-      medio de una empresa de propiedad conjunta, democráticamente gestionada.
-      En nuestro caso, como cooperativa de trabajo, formamos la Cooperativa
-      quienes trabajamos en "el Bravo". Las cooperativas elegimos en la Asamblea
-      de asociados, que  es el órgano máximo de gobierno, un consejo de
-      administración que se ocupa de la gestión de la Cooperativa y de las
-      decisiones cotidianas que la llevan adelante. También elegimos a quién
-      tiene la responsabilidad de ocupar el órgano de fiscalización: la
+      Maestro Alfredo Bravo. Las cooperativas somos asociaciones autónomas de
+      personas que nos unimos voluntariamente para satisfacer nuestras
+      necesidades y aspiraciones por medio de una empresa de propiedad conjunta,
+      democráticamente gestionada. En nuestro caso, como cooperativa de trabajo,
+      formamos la Cooperativa quienes trabajamos en "el Bravo". Las cooperativas
+      elegimos en la Asamblea de asociados, que es el órgano máximo de gobierno,
+      un consejo de administración que se ocupa de la gestión de la Cooperativa
+      y de las decisiones cotidianas que la llevan adelante. También elegimos a
+      quienes tienen la responsabilidad de ocupar el órgano de fiscalización: la
       sindicatura. Las cooperativas estamos regidas por los valores que guían
       nuestras acciones: ayuda mutua, igualdad, equidad, responsabilidad,
       democracia y solidaridad. Fue a través de ellos que "el Bravo" logró en
