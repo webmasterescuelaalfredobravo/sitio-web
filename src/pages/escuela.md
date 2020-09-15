@@ -10,7 +10,7 @@ slide:
       herramienta para facilitar la tarea pedagógica,  permitiendo nuevos
       espacios de encuentro para nuestra comunidad educativa, y de la comunidad
       toda con nuestro proyecto.
-    imagenfondo: /img/imagen-novedades-admin.svg
+    imagenfondo: /img/imagen-tambor-01.svg
     link: ""
   - titulo: PRE MATRICULACIÓN CICLO 2021.
     fecha: Setiembre 2020
@@ -19,7 +19,7 @@ slide:
       invitamos a completar el siguiente formulario. Nos comunicaremos a la
       brevedad una vez que lo hayas enviado.
     imagenfondo: /img/imagen-novedades-laescuela.svg
-    link: https://docs.google.com/forms/d/e/1FAIpQLSca7NqJkFl5y2rPSoSxMrPSD--57uBjpjUODdP4rXmy3Z_pKQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7757
+    link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
 notas:
   - texto: >
       
@@ -42,37 +42,30 @@ notas:
       puñado de docentes ad honorem, en una institución con edificio propio que
       alberga en 14 cursos y dos especialidades técnicas, a 400 estudiantes y es
       fuente de trabajo de 70 asociados cooperativistas.
-    imagen: /img/imagen-manos-01.svg
+    imagen: /img/bravo-img-011.jpg
     titulo: UN PROYECTO, 16 AÑOS
     alineado: derecha
     link: ""
     fecha: El Bravo, desde sus inicios al presente
   - titulo: ENSEÑANDO DESDE EL COOPERATIVISMO
-    texto: >-
-      El 10 de noviembre de 2003 se conforma la Cooperativa de Trabajo Maestro
-      Alfredo Bravo. Las cooperativas somos organizaciones autogestionadas y
-      autónomas, conformadas por asociados, en nuestro caso, como cooperativa de
-      trabajo, constituida por quienes trabajamos en "el Bravo".
-
-      Las cooperativas elegimos democráticamente, en la asamblea de asociados, el órgano máximo de decisión de nuestra organización, un consejo de administración que se ocupa de la gestión de la Cooperativa y de las decisiones cotidianas que la llevan adelante. Las cooperativas están regidas por los valores cooperativos: ayuda mutua, igualdad, equidad, responsabilidad, democracia y solidaridad. Fue a través de ellos que nuestra Cooperativa logró en estos casi dieciséis años de vida, concretar su proyecto educativo de una escuela técnica de nivel medio y del edificio propio. Hoy seguimos proyectando nuevas ideas con el fin de ofrecerle a la comunidad nuevos espacios educativos y de formación técnica.
+    texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
+      Maestro Alfredo Bravo. Las cooperativas somos asociaciones autónomas de
+      personas que nos unimos voluntariamente para satisfacer nuestras
+      necesidades y aspiraciones por medio de una empresa de propiedad conjunta,
+      democráticamente gestionada. En nuestro caso, como cooperativa de trabajo,
+      formamos la Cooperativa quienes trabajamos en "el Bravo". Las cooperativas
+      elegimos en la Asamblea de asociados, que es el órgano máximo de gobierno,
+      un consejo de administración que se ocupa de la gestión de la Cooperativa
+      y de las decisiones cotidianas que la llevan adelante. También elegimos a
+      quienes tienen la responsabilidad de ocupar el órgano de fiscalización: la
+      sindicatura. Las cooperativas estamos regidas por los valores que guían
+      nuestras acciones: ayuda mutua, igualdad, equidad, responsabilidad,
+      democracia y solidaridad. Fue a través de ellos que "el Bravo" logró en
+      estos dieciséis años convertir su sueño en realidad.'
     alineado: izquierda
     imagen: /img/imagen-coop-01.svg
-    link: ""
+    link: https://drive.google.com/file/d/1IqwOq_Cyk9wqdEbdDwyry1oYEW-wx-kQ/view?usp=sharing
     fecha: Somos una cooperativa de trabajo
-  - titulo: UN PROYECTO, MUCHAS MANOS COOPERATIVAS
-    texto: >
-      Las cooperativas estamos conformadas por asociados y asociadas que
-      apostamos a la construcción cooperativa. Desde los comienzos, hubo quienes
-      asumieron roles destacados, de promoción del proyecto de una cooperativa y
-      de su iniciación, y luego, conformando los distintos consejos de
-      administración que, elegidos en asamblea y cumpliendo su tarea ad honorem,
-      llevaron adelante la responsabilidad cotidiana de gestionarla. Estos son
-      los nombres de las asociadas y asociados que pusieron ese plus de
-      compromiso, contribuyendo en hacer realidad nuestro sueño.
-    alineado: derecha
-    imagen: /img/imagen-tambor-01.svg
-    link: https://drive.google.com/file/d/1DlDMhpzG_1VHUn60asiQ3pUCUtU0pXNR/view?usp=sharing
-    fecha: Un poco de (nuestra) historia
   - titulo: "NUESTRAS ORIENTACIONES TÉCNICAS:  Maestro Mayor de Obras (MMO) "
     texto: >-
       Las capacidades que el Maestro Mayor de Obras desarrolla en el marco de

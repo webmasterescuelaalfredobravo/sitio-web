@@ -14,7 +14,7 @@ mediospago:
       4. Seleccioná la cuota que deseas abonar.
 
       5. Elegí la opción de pago con la tarjeta de tu preferencia y completá con los datos.  
-    imagen: /img/logo-siro.jpg
+    imagen: /img/01_siro_v02.png
     titulo: Tarjeta de Débito y Crédito
   - texto: |-
       1. Entrar en tu homebanking.
@@ -22,18 +22,18 @@ mediospago:
       3.  Buscar rubro ADMINISTRACIONES/ ADMINISTRACIONES Y CONSORCIOS.
       4. Buscar la opción BANCO ROELA SIRO.
       5. Ingresar el código Link de pago electrónico (de 19 dígitos).
-    imagen: /img/pagos_link.png
+    imagen: /img/01_pagos_link_v02.png
     titulo: Redes Bancarias - Homebanking
   - texto: >2
        Descargá la Aplicación de MERCADO PAGO en tu celular y escanea el código de barras del cupón de pago (los cupones se envían automáticamente por mail a principio de mes).
-    imagen: /img/mercadopago-electronico.png
+    imagen: /img/01_mercadopago-electronico_v02.png
     titulo: Código de barras
   - texto: |-
       Puede utilizar PAGO FÁCIL, RAPIPAGO, COBRO EXPRESS. 
       1. Indique al cajero que se desea abonar BANCO ROELA - SIRO.
       2. Dictar los 19 dígitos del código Link de pago.
       3. Luego seleccione la cuota que desea abonar.
-    imagen: /img/pagofacil.png
+    imagen: /img/01_pagofacil_v02.png
     titulo: Pago sin factura - Efectivo
 slide:
   - titulo: MATRICULA CICLO LECTIVO
