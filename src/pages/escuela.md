@@ -19,7 +19,7 @@ slide:
       invitamos a completar el siguiente formulario. Nos comunicaremos a la
       brevedad una vez que lo hayas enviado.
     imagenfondo: /img/imagen-novedades-laescuela.svg
-    link: https://docs.google.com/forms/d/e/1FAIpQLSca7NqJkFl5y2rPSoSxMrPSD--57uBjpjUODdP4rXmy3Z_pKQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7757
+    link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
 notas:
   - texto: >
       
