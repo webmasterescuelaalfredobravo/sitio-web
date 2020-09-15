@@ -11,7 +11,7 @@ slideppal:
   - texto: PRE MATRICULACIONES 2021. Si estás interesado en nuestra propuesta
       educativa, se encuentran abiertas las pre-matriculaciones del ciclo
       lectivo 2021.
-    imagenfondo: /img/img-laescuela-arbol.svg
+    imagenfondo: /img/imagen-novedades-admin.svg
     link: /escuela
     alineado: derecha
   - texto: UN NUEVO ESPACIO PARA HACER ESCUELA. En el contexto de la pandemia que
