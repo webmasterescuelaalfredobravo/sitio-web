@@ -10,7 +10,7 @@ slide:
       herramienta para facilitar la tarea pedagógica,  permitiendo nuevos
       espacios de encuentro para nuestra comunidad educativa, y de la comunidad
       toda con nuestro proyecto.
-    imagenfondo: /img/imagen-novedades-admin.svg
+    imagenfondo: /img/imagen-tambor-01.svg
     link: ""
   - titulo: PRE MATRICULACIÓN CICLO 2021.
     fecha: Setiembre 2020
