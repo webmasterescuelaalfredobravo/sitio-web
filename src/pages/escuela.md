@@ -3,13 +3,28 @@ templateKey: escuela-page
 path: /escuela
 title: La Escuela
 slide:
-  - titulo: UN NUEVO ESPACIO DE ENCUENTRO PARA ENSEÑAR Y APRENDER.
-    fecha: Setiembre 2020
-    texto: En el contexto de las particulares condiciones que el sistema educativo
-      atraviesa, desde "el bravo" lanzamos nuestro sitio web como una
-      herramienta para facilitar la tarea pedagógica,  permitiendo nuevos
-      espacios de encuentro para nuestra comunidad educativa, y de la comunidad
-      toda con nuestro proyecto.
+  - titulo: NUESTRO INSTITUTO EN LA VIRTUALIDAD
+    fecha: Aplicaciones digitales para la enseñanza y e aprendizaje
+    texto: El impacto de la pandemia del COVID-19 ha generado un desafío enorme
+      vinculado a la coordinación del aprendizaje de nuestros pibes de manera
+      remota. En otras palabras, la cuarenta primero y el distanciamiento social
+      después nos desafió a explorar las posibilidades de la enseñanza y del
+      aprendizaje en la virtualidad. Por ello a partir de la segunda parte del
+      2020 optamos por migrar todas nuestras actividades al paquete de G-Suite
+      for Education. Desde el 10 de junio los docentes empezamos a trabajar
+      progresivamente con las aplicaciones del Classroom, del Meet, del
+      Calendar. Ello exigió también que todos nosotros (directivos, secretaria,
+      administrativos, docentes, preceptores y estudiantes) abriéramos un mail
+      institucional con nuestro apellido y nombre a lo que se añadía la
+      extensión @escuelaalfredobravo.edu.ar. Todavía estamos en ese proceso de
+      incorporación de estas herramientas digitales para el trabajo pedagógico
+      por lo que no dejamos de insistir en dos cuestiones fundamentales. 1.	Cada
+      estudiante debe disponer de su mail institucional con el cual accede a
+      todas las aplicaciones de Google para educación. 2.	Cada estudiante tiene
+      que apuntarse en todas las aulas de Classroom correspondientes a los
+      espacios curriculares de su año. Ante problemas con el correo
+      institucional por favor dirigirse a su preceptor para resolver la
+      situación.
     imagenfondo: /img/imagen-tambor-01.svg
     link: ""
   - titulo: PRE MATRICULACIÓN CICLO 2021.
