@@ -5,15 +5,15 @@ title: La Escuela
 slide:
   - titulo: NUESTRO INSTITUTO EN LA VIRTUALIDAD
     fecha: Aplicaciones digitales para la enseñanza y el aprendizaje
-    texto: "El impacto de la pandemia del COVID-19 ha generado un desafío enorme
-      vinculado a la coordinación del aprendizaje de nuestros pibes de manera
+    texto: El impacto de la pandemia del COVID-19 ha generado un desafío enorme
+      vinculado a la coordinación de vincularnos y enseñar/aprender de manera
       remota. En otras palabras, la cuarenta primero y el distanciamiento social
       después nos desafió a explorar las posibilidades de la enseñanza y del
       aprendizaje en la virtualidad. Por ello a partir de la segunda parte del
       2020 optamos por migrar todas nuestras actividades al paquete de G-Suite
       for Education. Desde el 10 de junio los docentes empezamos a trabajar
       progresivamente con las aplicaciones del Classroom, del Meet, del
-      Calendar. "
+      Calendar, elaborando estrategias para estos nuevos espacios virtuales.
     imagenfondo: /img/imagen-tambor-01.svg
     link: https://drive.google.com/file/d/1IQPz_jnlpBDNQcYXqbEayvibZ_XL7M4f/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021.
