@@ -4,8 +4,8 @@ path: /escuela
 title: La Escuela
 slide:
   - titulo: NUESTRO INSTITUTO EN LA VIRTUALIDAD
-    fecha: Aplicaciones digitales para la enseñanza y e aprendizaje
-    texto: El impacto de la pandemia del COVID-19 ha generado un desafío enorme
+    fecha: Aplicaciones digitales para la enseñanza y el aprendizaje
+    texto: "El impacto de la pandemia del COVID-19 ha generado un desafío enorme
       vinculado a la coordinación del aprendizaje de nuestros pibes de manera
       remota. En otras palabras, la cuarenta primero y el distanciamiento social
       después nos desafió a explorar las posibilidades de la enseñanza y del
@@ -13,20 +13,9 @@ slide:
       2020 optamos por migrar todas nuestras actividades al paquete de G-Suite
       for Education. Desde el 10 de junio los docentes empezamos a trabajar
       progresivamente con las aplicaciones del Classroom, del Meet, del
-      Calendar. Ello exigió también que todos nosotros (directivos, secretaria,
-      administrativos, docentes, preceptores y estudiantes) abriéramos un mail
-      institucional con nuestro apellido y nombre a lo que se añadía la
-      extensión @escuelaalfredobravo.edu.ar. Todavía estamos en ese proceso de
-      incorporación de estas herramientas digitales para el trabajo pedagógico
-      por lo que no dejamos de insistir en dos cuestiones fundamentales. 1.	Cada
-      estudiante debe disponer de su mail institucional con el cual accede a
-      todas las aplicaciones de Google para educación. 2.	Cada estudiante tiene
-      que apuntarse en todas las aulas de Classroom correspondientes a los
-      espacios curriculares de su año. Ante problemas con el correo
-      institucional por favor dirigirse a su preceptor para resolver la
-      situación.
+      Calendar. "
     imagenfondo: /img/imagen-tambor-01.svg
-    link: ""
+    link: https://drive.google.com/file/d/1IQPz_jnlpBDNQcYXqbEayvibZ_XL7M4f/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021.
     fecha: Setiembre 2020
     texto: Se encuentran abiertas las pre matriculaciones para el ciclo lectivo
