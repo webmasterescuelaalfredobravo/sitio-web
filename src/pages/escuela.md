@@ -66,7 +66,7 @@ notas:
     imagen: /img/imagen-coop-01.svg
     link: https://drive.google.com/file/d/1IqwOq_Cyk9wqdEbdDwyry1oYEW-wx-kQ/view?usp=sharing
     fecha: Somos una cooperativa de trabajo
-  - titulo: "Maestro Mayor de Obras (MMO) "
+  - titulo: MAESTRO MAYOR DE OBRAS
     texto: >
       Las capacidades que el Maestro Mayor de Obras desarrolla en el marco de
       las funciones profesionales del campo de la construcción, le permiten
@@ -80,9 +80,9 @@ notas:
 
       Interpreta las necesidades del comitente, las definiciones surgidas de los estamentos técnicos y jerárquicos correspondientes, gestiona sus actividades específicas, controla la totalidad de las actividades requeridas hasta su efectiva concreción, teniendo en cuenta los criterios de seguridad, impacto ambiental, relaciones humanas, calidad, productividad y costos.
     imagen: /img/imagen-mmo-color-bravo-01.svg
-    alineado: izquierda
+    alineado: derecha
     fecha: El perfil profesional y la carga horaria
-    link: ""
+    link: https://drive.google.com/file/d/1GwLSUpcdc7pEa1SEJBG1HqQdhpMKbUXW/view?usp=sharing
   - titulo: TÉCNICO EN INDUSTRIAS DE PROCESO
     texto: >
       El Técnico en Industrias de Procesos tiene un amplio campo de
