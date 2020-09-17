@@ -38,20 +38,24 @@ notas:
   - texto: >
       El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004
       ofreciendo una propuesta formativa técnica para adolescentes de nuestra
-      ciudad que sólo contaba con dos secundarios en ese momento. Fue fruto de
-      la visión de los asociado y asociadas que a fines de 2003 conformaron
-      nuestra Cooperativa de Trabajo Maestro Alfredo Bravo Ltda. Los esfuerzos
-      de los y las cooperativistas y el acompañamiento y apoyo constante de la
-      nuestra comunidad educativa, convirtieron esa propuesta educativa que
-      comenzó hace dieciséis años en un edificio alquilado con dos cursos y un
-      puñado de docentes ad honorem, en una institución con edificio propio que
-      alberga en 14 cursos y dos especialidades técnicas, a 400 estudiantes y es
-      fuente de trabajo de 70 asociados cooperativistas.
+      ciudad de Río Ceballos que contaba entonces sólo con dos secundarios,
+      ninguno de ellos de modalidad técnica. Fue fruto de la visión de un grupo
+      de personas que a fines de 2003 conformaron nuestra Cooperativa de Trabajo
+      Maestro Alfredo Bravo Ltda. Desde entonces, los esfuerzos cooperativistas
+      y el acompañamiento y apoyo constante de la nuestra comunidad educativa,
+      convirtieron esa propuesta que comenzó hace dieciséis años en un edificio
+      alquilado con dos cursos y un puñado de docentes ad honorem, en una
+      institución con edificio propio que alberga en 14 cursos y dos
+      especialidades técnicas, a 400 estudiantes y es fuente de trabajo de 70
+      asociados cooperativistas. Y que continúa, como lo hizo desde sus inicios,
+      construyendo una propuesta alternativa, basada en la educación crítica y
+      cooperativa, comprometida con la reinvención del futuro y con dar lugar a
+      que otros mundos sean posibles.
     imagen: /img/bravo-img-011.jpg
     titulo: UN PROYECTO, 16 AÑOS
     alineado: derecha
-    link: ""
-    fecha: El Bravo, desde sus inicios al presente
+    link: https://drive.google.com/file/d/1whCNFbZmYV_9M8lpcAutY2l6SftdD_ev/view?usp=sharing
+    fecha: Una construcción por una educación crítica y cooperativa
   - titulo: ENSEÑANDO DESDE EL COOPERATIVISMO
     texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
       Maestro Alfredo Bravo. Las cooperativas somos asociaciones autónomas de
