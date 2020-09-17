@@ -17,7 +17,7 @@ slideppal:
   - texto: UN NUEVO ESPACIO PARA HACER ESCUELA. En el contexto de la pandemia que
       condiciona la re-invención de la tarea pedagógica, sumamos hoy esta nueva
       herramienta para el encuentro en el trabajo de enseñar y aprender.
-    imagenfondo: /img/ilustracion-home-03.svg
+    imagenfondo: /img/img-home-532x532-003_fondo.svg
     alineado: derecha
     link: /escuela
 notacorta:
