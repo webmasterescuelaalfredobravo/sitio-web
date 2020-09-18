@@ -92,7 +92,7 @@ notas:
     alineado: derecha
     fecha: El perfil profesional y la carga horaria
     link: https://drive.google.com/file/d/1GwLSUpcdc7pEa1SEJBG1HqQdhpMKbUXW/view?usp=sharing
-  - titulo: TÉCNICO EN INDUSTRIAS DE PROCESO
+  - titulo: TÉCNICO EN INDUSTRIAS DE PROCESOS
     texto: >
       El Técnico en Industrias de Procesos tiene un amplio campo de
       empleabilidad. Se desempeña en empresas de distinto tamaño, productoras de
