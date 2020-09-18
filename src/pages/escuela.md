@@ -15,7 +15,7 @@ slide:
       los docentes empezamos a trabajar progresivamente con las aplicaciones del
       Classroom, del Meet, del Calendar, elaborando estrategias para estos
       nuevos espacios virtuales."
-    imagenfondo: /img/imagen-tambor-01.svg
+    imagenfondo: /img/whatsapp-image-2020-09-01-at-21.28.11.jpeg
     link: https://drive.google.com/file/d/1IQPz_jnlpBDNQcYXqbEayvibZ_XL7M4f/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021.
     fecha: Setiembre 2020
@@ -23,7 +23,7 @@ slide:
       2021. Si estás interesado en sumarte a nuestra comunidad educativa, te
       invitamos a completar el siguiente formulario. Nos comunicaremos a la
       brevedad una vez que lo hayas enviado.
-    imagenfondo: /img/imagen-novedades-laescuela.svg
+    imagenfondo: /img/bravo.jpg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
 notas:
   - texto: >
