@@ -36,18 +36,29 @@ mediospago:
     imagen: /img/01_pagofacil_v02.png
     titulo: Pago sin factura - Efectivo
 slide:
+  - titulo: INFORMACIÓN ÁREA ADMINISTRACIÓN
+    texto: Para el pago de las cuotas escolares les recomendamos la utilización de
+      los medios de pago indicados, que se utilizan a partir del Código de Pago
+      (que es uno por estudiante para todo el ciclo lectivo) al que pueden
+      acceder siguiendo las indicaciones que arriba se establecen. Para
+      consultas relativas a lo administrativo lo invitamos realizarla desde la
+      página de contacto, seleccionando en la pestaña de contacto “Área
+      Administración”.
+    imagenfondo: /img/5prancheta-1.png
+    fecha: Contacto y formas de pago
   - titulo: MATRICULA CICLO LECTIVO
     texto: Atendiendo a la difícil situación actual, la Cooperativa ha decidido
       mantener el mismo valor que tuviera la matrícula 2020.  El valor de la
       matriculación de 1ero a 7mo año del ciclo 2021, será de $7750, siempre y
       cuando la misma se concrete hasta el 18 de diciembre de 2020. El año
-      próximo tendrá una variación que se establecerá oportunamente, y quedará,
-      como ya se dijo, sujeta a la disponibilidad de vacantes.	La matrícula para
-      los estudiantes que cursen de 2do a 7mo en 2021 se podrá abonar en cuatro
-      cuotas de $1937.50  (septiembre, octubre, noviembre y diciembre del
-      corriente) cada una de las tres primeras se abonará en concepto de reserva
-      de banco, y con la última se dará por cancelada la matrícula. Ó en un solo
-      pago de $7750.
-    imagenfondo: /img/5prancheta-1.png
-    fecha: Setiembre 2020
+      próximo tendrá una variación que se establecerá oportunamente. La
+      matrícula para los estudiantes que cursen de 2do a 7mo en 2021 se podrá
+      abonar en cuatro cuotas de $1937.50  (septiembre, octubre, noviembre y
+      diciembre del corriente) cada una de las tres primeras se abonará en
+      concepto de reserva de banco, y con la última se dará por cancelada la
+      matrícula. Para acceder a esta modalidad, la familia deberá estar al día
+      con las cuotas escolares. Para el caso de primer año, la modalidad de pago
+      se dará a conocer a quienes accedan a reservar banco para 2021.
+    fecha: Valor y modalidad de pago
+    imagenfondo: /img/imagen-manos-01.svg
 ---
