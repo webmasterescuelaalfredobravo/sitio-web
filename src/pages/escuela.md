@@ -127,29 +127,31 @@ notas:
     fecha: Vinculando nuestro instituto con los sectores socioproductivos
   - titulo: UN CAMINO EN NUESTRO NOMBRE
     fecha: Alfredo Bravo, luchador por la educación y los derechos humanos
-    texto: "Llevar a Alfredo Bravo en nuestro nombre es  a la vez un honor y una
+    texto: "Llevar a Alfredo Bravo en nuestro nombre es, a la vez, un honor y una
       responsabilidad. Maestro, director de escuela y referente de las luchas
-      por mejores condiciones para la educación, fue, en 1973, uno de los
+      por mejores condiciones para la educación, fue en 1973, uno de los
       fundadores la Central de Trabajadores de la Educación de la República
-      Argentina (CETERA) y participó también, en 1975, de la fundación de la
+      Argentina (CETERA). En 1975 participó también de la fundación de la
       Asamblea Permanente por los Derechos Humanos (APDH), uno de los primeros
       organismos de derechos humanos que se formó en nuestro país, ante la
       sistemática violación a los derechos humanos que con la anuencia y la
       utilización del poder del Estado, comenzaba a imponerse antes del golpe de
       1976. Posteriormente al Golpe de Estado, Bravo continuó en el marco de la
-      APDH denunciando las violaciones a los derechos humanos, el terrorismo de
-      Estado y las desapariciones. Ello le valió, en 1977, ser secuestrado y
-      torturado. Luego de estar desaparecido más de 10 meses, fue liberado en el
-      contexto de las crecientes presiones internacionales sobre las Juntas
-      Militares. Participó del primer gobierno democrático postdictatorial como
-      subsecretario de Educación, cargo al que renunció en el contexto de la
-      sanción de las leyes de Punto Final y Obediencia Debida. En 2001
-      testimonió en el juicio contra sus torturadores. Fue además militante
-      político, y por su partido, el socialista, fue electo diputado y candidato
-      a presidente.  Su figura nos inspira y nos señala el rumbo: el de la
-      integridad y la coherencia, el de la defensa de los derechos humanos, el
-      de la permanente apuesta al trabajo colectivo y el del convencimiento en
-      el sentido de la educación como camino para la transformación social."
+      APDH denunciando, haciendo visible el terrorismo de estado y las
+      desapariciones, en el contexto del generalizado silencio cómplice de la
+      clase política y de vastos sectores de la sociedad. Ello le valió, en
+      1977, ser secuestrado y torturado. Luego de estar desaparecido más de 10
+      meses, fue liberado en el ante las crecientes presiones internacionales
+      sobre las Juntas Militares. Participó del primer gobierno democrático
+      postdictatorial como subsecretario de Educación, cargo al que renunció por
+      su desacuerdo con la sanción de las leyes de Punto Final y Obediencia
+      Debida. En 2001 testimonió en el juicio contra sus torturadores. Fue
+      además militante político, y por su partido, el socialista, fue electo
+      diputado y candidato a presidente.  Su figura nos inspira y nos señala el
+      rumbo: el de la integridad y la coherencia, el de la defensa de los
+      derechos humanos, el de la permanente apuesta al trabajo colectivo y el
+      del convencimiento en el sentido de la educación como camino para la
+      transformación social."
     imagen: /img/foto-de-alfredo-bravo.jpg
     alineado: izquierda
 ---
