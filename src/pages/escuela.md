@@ -148,10 +148,12 @@ notas:
       Debida. En 2001 testimonió en el juicio contra sus torturadores. Fue
       además militante político, y por su partido, el socialista, fue electo
       diputado y candidato a presidente en 2003, año en el que falleció, un 26
-      de mayo. Su figura nos inspira y nos señala el rumbo: el de la integridad
-      y la coherencia, el de la defensa de los derechos humanos, el de la
-      permanente apuesta al trabajo colectivo y el del convencimiento en el
-      sentido de la educación como camino para la transformación social."
+      de mayo. El 10 de noviembre de ese mismo año, quienes fundaron nuestra
+      Cooperativa, eligieron su nombre. Su figura nos inspira y nos señala el
+      rumbo: el de la integridad y la coherencia, el de la defensa de los
+      derechos humanos, el de la permanente apuesta al trabajo colectivo y el
+      del convencimiento en el sentido de la educación como camino para la
+      transformación social."
     imagen: /img/foto-de-alfredo-bravo.jpg
     alineado: izquierda
 ---
