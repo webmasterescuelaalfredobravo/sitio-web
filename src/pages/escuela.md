@@ -127,23 +127,26 @@ notas:
     fecha: Vinculando nuestro instituto con los sectores socioproductivos
   - titulo: UN MAESTRO EN NUESTRO NOMBRE
     fecha: Alfredo Bravo, luchador por la educación y los derechos humanos
-    texto: Nuestro Instituto lleva el nombre de Alfredo Bravo. Director de escuela y
-      referente de las luchas por mejores condiciones para la educación y
-      militante por los derechos humanos.  En 1973 fue uno de los fundadores de
-      CETERA (la Central de Trabajadores de la Educación de la República
-      Argentina) y participó también, en 1975, de la fundación de uno de los
-      primeros organismos de derechos humanos que se formó en nuestro país, ante
-      la sistemática violación a los derechos humanos, que con la anuencia y la
-      utilización del poder del Estado, comenzaba a imponerse antes del golpe de
-      1976. Posteriormente al golpe de Estado, Bravo continuó en el marco de la
-      APDH denunciando las violaciones a los derechos humanos, el terrorismo de
-      Estado y las desapariciones. Ello le valió ser secuestrado, torturado.
-      Luego de estar desaparecido más de 10 meses, fue liberado y dio testimonio
-      en el Juicio a las Juntas.  También fue un militante político del partido
-      socialista, por el cual fue electo diputado y candidato a presidente.  Su
-      figura es una inspiración, por su integridad, su convencimiento en el
-      trabajo colectivo y en el sentido de la educación como camino para la
-      transformación social.
-    imagen: /img/alfredo-bravo-1.jpg
+    texto: Llevar a Alfredo Bravo en nuestro nombre es una responsabilidad porque
+      nos señala un rumbo. Maestro, director de escuela y referente de las
+      luchas por mejores condiciones para la educación en 1973 fue uno de los
+      fundadores de CETERA (la Central de Trabajadores de la Educación de la
+      República Argentina) y participó también, en 1975, de la fundación de uno
+      de los primeros organismos de derechos humanos que se formó en nuestro
+      país, ante la sistemática violación a los derechos humanos, que con la
+      anuencia y la utilización del poder del Estado, comenzaba a imponerse
+      antes del golpe de 1976. Posteriormente al golpe de Estado, Bravo continuó
+      en el marco de la APDH denunciando las violaciones a los derechos humanos,
+      el terrorismo de Estado y las desapariciones. Ello le valió ser
+      secuestrado, torturado. Luego de estar desaparecido más de 10 meses, fue
+      liberado. Participó del primer gobierno democrático postdictatorial como
+      subsecretario de educación cargo al que renunció en el contexto de la
+      sanción de las leyes de Punto Final y Obediencia debida. En 2001 dió
+      testimonio en el juicio contra sus torturadores. Fue además militante
+      político, y por su partido, el partido socialista, fue electo diputado y
+      candidato a presidente.  Su figura es nos inspira, por su integridad, su
+      convencimiento en el trabajo colectivo y en el sentido de la educación
+      como camino para la transformación social.
+    imagen: /img/foto-de-alfredo-bravo.jpg
     alineado: izquierda
 ---
