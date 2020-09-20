@@ -138,15 +138,16 @@ notas:
       antes del golpe de 1976. Posteriormente al golpe de Estado, Bravo continuó
       en el marco de la APDH denunciando las violaciones a los derechos humanos,
       el terrorismo de Estado y las desapariciones. Ello le valió ser
-      secuestrado, torturado. Luego de estar desaparecido más de 10 meses, fue
-      liberado. Participó del primer gobierno democrático postdictatorial como
-      subsecretario de Educación cargo al que renunció en el contexto de la
-      sanción de las leyes de Punto Final y Obediencia debida. En 2001
-      testimonió en el juicio contra sus torturadores. Fue además militante
-      político, y por su partido, el partido socialista, fue electo diputado y
-      candidato a presidente.  Su figura es nos inspira, por su integridad, su
-      convencimiento en el trabajo colectivo y en el sentido de la educación
-      como camino para la transformación social.
+      secuestrado y torturado. Luego de estar desaparecido más de 10 meses, fue
+      liberado en el contexto de las crecientes presiones internacionales ante
+      las violaciones a los derechos humanos. Participó del primer gobierno
+      democrático postdictatorial como subsecretario de Educación cargo al que
+      renunció en el contexto de la sanción de las leyes de Punto Final y
+      Obediencia debida. En 2001 testimonió en el juicio contra sus
+      torturadores. Fue además militante político, y por su partido, el partido
+      socialista, fue electo diputado y candidato a presidente.  Su figura es
+      nos inspira, por su integridad, su convencimiento en el trabajo colectivo
+      y en el sentido de la educación como camino para la transformación social.
     imagen: /img/foto-de-alfredo-bravo.jpg
     alineado: izquierda
 ---
