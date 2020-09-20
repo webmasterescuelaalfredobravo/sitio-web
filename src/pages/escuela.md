@@ -125,7 +125,7 @@ notas:
     imagen: /img/bravo-img-pp-009.jpg
     alineado: derecha
     fecha: Vinculando nuestro instituto con los sectores socioproductivos
-  - titulo: UN MAESTRO EN NUESTRO NOMBRE
+  - titulo: UN CAMINO EN NUESTRO NOMBRE
     fecha: Alfredo Bravo, luchador por la educación y los derechos humanos
     texto: Llevar a Alfredo Bravo en nuestro nombre es una responsabilidad porque
       nos señala un rumbo. Maestro, director de escuela y referente de las
@@ -140,9 +140,9 @@ notas:
       el terrorismo de Estado y las desapariciones. Ello le valió ser
       secuestrado, torturado. Luego de estar desaparecido más de 10 meses, fue
       liberado. Participó del primer gobierno democrático postdictatorial como
-      subsecretario de educación cargo al que renunció en el contexto de la
-      sanción de las leyes de Punto Final y Obediencia debida. En 2001 dió
-      testimonio en el juicio contra sus torturadores. Fue además militante
+      subsecretario de Educación cargo al que renunció en el contexto de la
+      sanción de las leyes de Punto Final y Obediencia debida. En 2001
+      testimonió en el juicio contra sus torturadores. Fue además militante
       político, y por su partido, el partido socialista, fue electo diputado y
       candidato a presidente.  Su figura es nos inspira, por su integridad, su
       convencimiento en el trabajo colectivo y en el sentido de la educación
