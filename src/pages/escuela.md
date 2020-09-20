@@ -125,25 +125,24 @@ notas:
     imagen: /img/bravo-img-pp-009.jpg
     alineado: derecha
     fecha: Vinculando nuestro instituto con los sectores socioproductivos
-  - titulo: Alfredo Bravo, maestro
-    fecha: Un luchador por la educación y los derechos humanos
+  - titulo: UN MAESTRO EN NUESTRO NOMBRE
+    fecha: Alfredo Bravo, luchador por la educación y los derechos humanos
     texto: Nuestro Instituto lleva el nombre de Alfredo Bravo. Director de escuela y
       referente de las luchas por mejores condiciones para la educación y
       militante por los derechos humanos.  En 1973 fue uno de los fundadores de
       CETERA (la Central de Trabajadores de la Educación de la República
-      Argentina) y participó, en 1975, también de la fundación de uno de los
+      Argentina) y participó también, en 1975, de la fundación de uno de los
       primeros organismos de derechos humanos que se formó en nuestro país, ante
-      la violencia política y la sistemática violación a los derechos humanos,
-      que con la anuencia y la utilización del poder del Estado, comenzaba a
-      imponer el terror en la sociedad, antes del golpe de 1976. Posteriormente
-      al golpe de Estado, Bravo continuó en el marco de la APDH denunciando las
-      violaciones a los derechos humanos, el terrorismo de Estado y las
-      desapariciones. Ello le valió ser secuestrado, torturado y desaparecido, y
-      luego, por la presión de organismos internacionales, liberado. Fue también
-      un militante político del partido socialista, por el cual fue electo
-      diputado y candidato a presidente.  Su figura es una inspiración para
-      nuestra Cooperativa, por su integridad, su convencimiento en el trabajo
-      colectivo y en el sentido de la educación como camino para la
+      la sistemática violación a los derechos humanos, que con la anuencia y la
+      utilización del poder del Estado, comenzaba a imponerse antes del golpe de
+      1976. Posteriormente al golpe de Estado, Bravo continuó en el marco de la
+      APDH denunciando las violaciones a los derechos humanos, el terrorismo de
+      Estado y las desapariciones. Ello le valió ser secuestrado, torturado.
+      Luego de estar desaparecido más de 10 meses, fue liberado y dio testimonio
+      en el Juicio a las Juntas.  También fue un militante político del partido
+      socialista, por el cual fue electo diputado y candidato a presidente.  Su
+      figura es una inspiración, por su integridad, su convencimiento en el
+      trabajo colectivo y en el sentido de la educación como camino para la
       transformación social.
     imagen: /img/alfredo-bravo-1.jpg
     alineado: izquierda
