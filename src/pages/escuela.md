@@ -93,7 +93,7 @@ notas:
     fecha: El perfil profesional y la carga horaria
     link: https://drive.google.com/file/d/1GwLSUpcdc7pEa1SEJBG1HqQdhpMKbUXW/view?usp=sharing
   - titulo: TÉCNICO EN INDUSTRIAS DE PROCESOS
-    texto: >
+    texto: >+
       El Técnico en Industrias de Procesos tiene un amplio campo de
       empleabilidad. Se desempeña en empresas de distinto tamaño, productoras de
       commodities y productos diferenciados, con tecnología de punta, intermedia
@@ -103,10 +103,9 @@ notas:
 
       Su formación le permite una gran movilidad interna (distintos sectores) y externa (distintos tipos de empresa); en el mercado de trabajo y lo prepara para trabajar interdisciplinariamente y en equipo para adaptarse y aprender nuevos roles y continuar su formación a lo largo de toda su vida profesional.
 
-      Los roles del técnico podrán ser, en distintas etapas de su carrera, desde fuertemente específicos, hasta marcadamente globales y gestionales; variando con el tamaño, contenido tecnológico y tipo de proceso y producto de la empresa en la que se desempeñe. En empresas de mayor tamaño, participa desde sus tareas específicas dentro del “equipo de producción” (trabajo en grupos, en células, etc.), incrementándose la participación en aspectos más estratégicos del negocio y en la toma de decisiones a medida que el tamaño de la empresa disminuye. Estos aspectos asumen una importancia central en la gestión de auto emprendimientos y en las empresas de servicios tercerizados. 
     imagen: /img/imagen-ip-color-bravo-01.svg
     alineado: derecha
-    link: https://drive.google.com/file/d/1TY8aT_8EP5PRfrpZJUiPXZOyJo3YLMxp/view?usp=sharing
+    link: https://drive.google.com/file/d/1rh5SVheMpLoJZS7xG35blgw1hirmbK7o/view?usp=sharing
     fecha: El perfil profesional y la carga horaria
   - titulo: PRÁCTICAS PROFESIONALIZANTES
     texto: >
