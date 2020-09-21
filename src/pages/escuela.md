@@ -108,7 +108,7 @@ notas:
     link: https://drive.google.com/file/d/1rh5SVheMpLoJZS7xG35blgw1hirmbK7o/view?usp=sharing
     fecha: El perfil profesional y la carga horaria
   - titulo: PRÁCTICAS PROFESIONALIZANTES
-    texto: >
+    texto: >+
       La Educación Técnico Profesional promueve en los estudiantes el desarrollo
       de capacidades, conocimientos, habilidades, destrezas, valores y actitudes
       relacionadas con desempeños y criterios de profesionalidad propios del
@@ -116,14 +116,12 @@ notas:
 
       Para los estudiantes, la complejidad socio-cultural y económica del mundo productivo sólo puede ser aprehendida a través de una participación vivencial en distintas actividades de los procesos de producción de bienes y servicios.
 
-      Para cumplir esta función, se diseñaron las prácticas profesionalizantes, que  buscan acercar las lógicas del mundo del trabajo y la producción a las del sistema educativo.
+      Para cumplir esta función, se diseñaron las prácticas profesionalizantes, que  buscan acercar las lógicas del mundo del trabajo y la producción a las del sistema educativo...
 
-      Las prácticas profesionalizantes constituyen una aproximación progresiva al campo ocupacional hacia el cual se orienta la formación técnico profesional de los estudiantes. Es un acercamiento a las formas de organización del trabajo, a las relaciones entre las personas que intervienen en él, a los procesos científico-tecnológicos, de gestión y socioculturales propios de las prácticas productivas y a las regulaciones particulares de cada actividad profesional.
-
-      En tanto propuesta formativa, este tipo de prácticas se orienta a producir una vinculación sustantiva entre la formación académica y los requerimientos de los sectores científico, tecnológico y socioproductivo. Pueden tomar distintas modalidades, desde proyectos productivos institucionales hasta prácticas profesionalizantes en ambiente de trabajo, y se pueden desarrollar en la institución escolar o fuera de ella, en empresas, organismos públicos u ONGs.
     imagen: /img/bravo-img-pp-009.jpg
     alineado: derecha
     fecha: Vinculando nuestro instituto con los sectores socioproductivos
+    link: https://drive.google.com/file/d/1h6Bv6ZTjl1dP_5IwIOE3FORrJRGgNFJx/view?usp=sharing
   - titulo: UN CAMINO EN NUESTRO NOMBRE
     fecha: Alfredo Bravo, luchador por la educación y los derechos humanos
     texto: "Llevar a Alfredo Bravo en nuestro nombre es, a la vez, un honor y una
