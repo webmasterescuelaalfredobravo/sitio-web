@@ -12,7 +12,7 @@ slide:
       ello a partir de la segunda parte del 2020 optamos por migrar todas
       nuestras actividades al paquete de G-Suite for Education, generando para
       ello un correo institucional para cada estudiante. "
-    imagenfondo: /img/bravo.jpg
+    imagenfondo: /img/bravo-img-011.jpg
     link: https://drive.google.com/file/d/1IQPz_jnlpBDNQcYXqbEayvibZ_XL7M4f/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021.
     fecha: Setiembre 2020
@@ -20,7 +20,7 @@ slide:
       2021. Si estás interesado en sumarte a nuestra comunidad educativa, te
       invitamos a completar el siguiente formulario. Nos comunicaremos a la
       brevedad una vez que lo hayas enviado.
-    imagenfondo: /img/whatsapp-image-2020-09-01-at-21.28.11.jpeg
+    imagenfondo: /img/imagen-coop-01.svg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
 notas:
   - texto: >
