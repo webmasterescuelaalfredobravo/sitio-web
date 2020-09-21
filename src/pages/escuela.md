@@ -11,10 +11,7 @@ slide:
       posibilidades de la enseñanza y del aprendizaje en la virtualidad. Por
       ello a partir de la segunda parte del 2020 optamos por migrar todas
       nuestras actividades al paquete de G-Suite for Education, generando para
-      ello un correo institucional para cada estudiante. Desde el 10 de junio
-      los docentes empezamos a trabajar progresivamente con las aplicaciones del
-      Classroom, del Meet, del Calendar, elaborando estrategias para estos
-      nuevos espacios virtuales."
+      ello un correo institucional para cada estudiante. "
     imagenfondo: /img/bravo.jpg
     link: https://drive.google.com/file/d/1IQPz_jnlpBDNQcYXqbEayvibZ_XL7M4f/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021.
