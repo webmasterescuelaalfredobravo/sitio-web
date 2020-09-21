@@ -76,18 +76,15 @@ notas:
     link: https://drive.google.com/file/d/1IqwOq_Cyk9wqdEbdDwyry1oYEW-wx-kQ/view?usp=sharing
     fecha: Somos una cooperativa de trabajo
   - titulo: MAESTRO MAYOR DE OBRAS
-    texto: >
+    texto: >+
       Las capacidades que el Maestro Mayor de Obras desarrolla en el marco de
       las funciones profesionales del campo de la construcción, le permiten
       desempeñarse en los ámbitos de producción: oficinas técnicas, obras de
       construcción edilicias, empresas de productos o servicios relacionados con
       el ámbito de la construcción actuando en forma independiente en las áreas
       ocupacionales de: proyecto, dirección, planificación, control, gestión,
-      administración y comercialización en la industria de la construcción.
+      administración y comercialización en la industria de la construcción...
 
-      Actúa interdisciplinariamente con expertos en otras áreas, eventualmente involucrados en su actividad (equipamiento e instalaciones electromecánicas, otras especialidades de construcciones, mecánica, producción agropecuaria, informática, etc.).
-
-      Interpreta las necesidades del comitente, las definiciones surgidas de los estamentos técnicos y jerárquicos correspondientes, gestiona sus actividades específicas, controla la totalidad de las actividades requeridas hasta su efectiva concreción, teniendo en cuenta los criterios de seguridad, impacto ambiental, relaciones humanas, calidad, productividad y costos.
     imagen: /img/imagen-mmo-color-bravo-01.svg
     alineado: derecha
     fecha: El perfil profesional y la carga horaria
