@@ -31,22 +31,23 @@ notas:
     fecha: Somos una escuela técnica
   - texto: >
       El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004
-      ofreciendo una propuesta formativa técnica para adolescentes de nuestra
-      ciudad de Río Ceballos que contaba entonces sólo con dos secundarios,
-      ninguno de ellos de modalidad técnica. Fue fruto de la visión de un grupo
-      de personas que a fines de 2003 conformaron nuestra Cooperativa de Trabajo
-      Maestro Alfredo Bravo Ltda. Desde entonces, los esfuerzos cooperativistas
-      y el acompañamiento y apoyo constante de la nuestra comunidad educativa,
-      convirtieron esa propuesta que comenzó hace dieciséis años en un edificio
-      alquilado con dos cursos y un puñado de docentes ad honorem, en una
-      institución con edificio propio que alberga en 14 cursos y dos
-      especialidades técnicas, a 400 estudiantes y es fuente de trabajo de 70
-      asociados cooperativistas. Y que continúa, como lo hizo desde sus inicios,
-      construyendo una propuesta alternativa, basada en la educación crítica y
-      cooperativa, comprometida con la reinvención del futuro y con dar lugar a
-      que otros mundos sean posibles.
+      ofreciendo un camino novedoso, basado en una pedagogía crítica y
+      cooperativa, en la mediación y en una propuesta formativa técnica para
+      adolescentes de nuestra ciudad de Río Ceballos que contaba entonces sólo
+      con dos secundarios, ninguno de ellos de modalidad técnica. Fue fruto de
+      la visión de un grupo de personas que a fines de 2003 conformaron nuestra
+      Cooperativa de Trabajo Maestro Alfredo Bravo Ltda. Desde entonces, los
+      esfuerzos cooperativistas y el acompañamiento y apoyo constante de la
+      nuestra comunidad educativa, convirtieron esa propuesta que comenzó hace
+      dieciséis años en un edificio alquilado con dos cursos y un puñado de
+      docentes ad honorem, en una institución con edificio propio que alberga en
+      14 cursos y dos especialidades técnicas, a 400 estudiantes y es fuente de
+      trabajo de 70 asociados cooperativistas. Y que continúa, como lo hizo
+      desde sus inicios, construyendo esa propuesta alternativa, basada en la
+      educación crítica y cooperativa, comprometida con la reinvención del
+      futuro, con dar lugar a otros mundos posibles.
     imagen: /img/bravo-img-011.jpg
-    titulo: UN PROYECTO, 16 AÑOS
+    titulo: DESDE 2004, UN PROYECTO DIFERENTE
     alineado: derecha
     link: https://drive.google.com/file/d/1whCNFbZmYV_9M8lpcAutY2l6SftdD_ev/view?usp=sharing
     fecha: Una construcción por una educación crítica y cooperativa
@@ -79,7 +80,7 @@ notas:
       ocupacionales de: proyecto, dirección, planificación, control, gestión,
       administración y comercialización en la industria de la construcción...
 
-    imagen: /img/imagen-mmo-color-bravo-01.svg
+    imagen: /img/bravo-img-mmo-008.jpg
     alineado: derecha
     fecha: El perfil profesional y la carga horaria
     link: https://drive.google.com/file/d/1GwLSUpcdc7pEa1SEJBG1HqQdhpMKbUXW/view?usp=sharing
@@ -94,8 +95,8 @@ notas:
 
       Su formación le permite una gran movilidad interna (distintos sectores) y externa (distintos tipos de empresa); en el mercado de trabajo y lo prepara para trabajar interdisciplinariamente y en equipo para adaptarse y aprender nuevos roles y continuar su formación a lo largo de toda su vida profesional.
 
-    imagen: /img/imagen-ip-color-bravo-01.svg
-    alineado: derecha
+    imagen: /img/bravo-img-ip-008.jpg
+    alineado: izquierda
     link: https://drive.google.com/file/d/171hqxY8FYya9BvrLg42sHvAlFsojHB0R/view?usp=sharing
     fecha: El perfil profesional y la carga horaria
   - titulo: PRÁCTICAS PROFESIONALIZANTES
@@ -142,6 +143,6 @@ notas:
       derechos humanos, el de la permanente apuesta al trabajo colectivo y el
       del convencimiento en el sentido de la educación como camino para la
       transformación social."
-    imagen: /img/foto-de-alfredo-bravo.jpg
+    imagen: /img/a-bravo-web.jpg
     alineado: izquierda
 ---
