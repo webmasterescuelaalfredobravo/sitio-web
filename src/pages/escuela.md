@@ -99,7 +99,7 @@ notas:
 
     imagen: /img/imagen-ip-color-bravo-01.svg
     alineado: derecha
-    link: https://drive.google.com/file/d/1rh5SVheMpLoJZS7xG35blgw1hirmbK7o/view?usp=sharing
+    link: https://drive.google.com/file/d/171hqxY8FYya9BvrLg42sHvAlFsojHB0R/view?usp=sharing
     fecha: El perfil profesional y la carga horaria
   - titulo: PRÁCTICAS PROFESIONALIZANTES
     texto: >+
