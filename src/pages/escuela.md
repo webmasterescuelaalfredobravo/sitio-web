@@ -31,13 +31,13 @@ notas:
     fecha: Somos una escuela técnica
   - texto: >
       El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004
-      ofreciendo un nuevo novedoso, basado en pedagogías críticas y
-      cooperativas, en la mediación y en una propuesta formativa técnica para
-      adolescentes de nuestra ciudad de Río Ceballos que contaba entonces sólo
-      con dos secundarios, ninguno de ellos de modalidad técnica. Fue fruto de
-      la visión de un grupo de personas que a fines de 2003 conformaron nuestra
-      Cooperativa de Trabajo Maestro Alfredo Bravo Ltda. Desde entonces, los
-      esfuerzos cooperativistas y el acompañamiento y apoyo constante de la
+      ofreciendo una enseñanza secundaria basada en pedagogías críticas y
+      cooperativas, en la mediación y brindando una propuesta formativa técnica
+      para adolescentes de nuestra ciudad de Río Ceballos que contaba entonces
+      sólo con dos secundarios, ninguno de ellos de modalidad técnica. Fue fruto
+      de la visión de un grupo de personas que a fines de 2003 conformaron
+      nuestra Cooperativa de Trabajo Maestro Alfredo Bravo Ltda. Desde entonces,
+      los esfuerzos cooperativistas y el acompañamiento y apoyo constante de la
       nuestra comunidad educativa, convirtieron esa propuesta que comenzó hace
       dieciséis años en un edificio alquilado con dos cursos y un puñado de
       docentes ad honorem, en una institución con edificio propio que alberga en
