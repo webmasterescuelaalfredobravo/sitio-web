@@ -5,10 +5,10 @@ title: La Escuela
 slide:
   - titulo: NUESTRO INSTITUTO EN LA VIRTUALIDAD
     fecha: Aplicaciones digitales para la enseñanza y el aprendizaje
-    texto: "El impacto de la pandemia un desafío: explorar las posibilidades de la
-      enseñanza y del aprendizaje en la virtualidad. Por ello a partir de la
-      segunda parte del 2020 optamos por migrar todas nuestras actividades al
-      paquete de G-Suite for Education..."
+    texto: El impacto de la pandemia significa el desafío de explorar las
+      posibilidades de la enseñanza y del aprendizaje en la virtualidad. Por
+      ello a partir de la segunda parte del 2020 optamos por migrar todas
+      nuestras actividades al paquete de G-Suite for Education...
     imagenfondo: /img/bravo-img-011.jpg
     link: https://drive.google.com/file/d/1IQPz_jnlpBDNQcYXqbEayvibZ_XL7M4f/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021.
@@ -31,7 +31,7 @@ notas:
     fecha: Somos una escuela técnica
   - texto: >
       El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004
-      ofreciendo un camino novedoso, basado en una pedagogía crítica y
+      ofreciendo un nuevo novedoso, basado en una pedagogía crítica y
       cooperativa, en la mediación y en una propuesta formativa técnica para
       adolescentes de nuestra ciudad de Río Ceballos que contaba entonces sólo
       con dos secundarios, ninguno de ellos de modalidad técnica. Fue fruto de
