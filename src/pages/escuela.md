@@ -31,8 +31,8 @@ notas:
     fecha: Somos una escuela técnica
   - texto: >
       El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004
-      ofreciendo un nuevo novedoso, basado en una pedagogía crítica y
-      cooperativa, en la mediación y en una propuesta formativa técnica para
+      ofreciendo un nuevo novedoso, basado en pedagogías críticas y
+      cooperativas, en la mediación y en una propuesta formativa técnica para
       adolescentes de nuestra ciudad de Río Ceballos que contaba entonces sólo
       con dos secundarios, ninguno de ellos de modalidad técnica. Fue fruto de
       la visión de un grupo de personas que a fines de 2003 conformaron nuestra
@@ -50,7 +50,7 @@ notas:
     titulo: UN PROYECTO COOPERATIVO DE ENSEÑANZA
     alineado: derecha
     link: https://drive.google.com/file/d/1whCNFbZmYV_9M8lpcAutY2l6SftdD_ev/view?usp=sharing
-    fecha: Construyendo escuela desde las pedagogías críticas
+    fecha: Construyendo y repensando los sentidos de la escuela
   - titulo: "EL BRAVO, UNA COOPERATIVA DE TRABAJO "
     texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
       Maestro Alfredo Bravo. Las cooperativas somos asociaciones autónomas de
