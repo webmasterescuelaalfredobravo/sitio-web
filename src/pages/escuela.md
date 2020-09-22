@@ -47,11 +47,11 @@ notas:
       educación crítica y cooperativa, comprometida con la reinvención del
       futuro, con dar lugar a otros mundos posibles.
     imagen: /img/bravo-img-011.jpg
-    titulo: DESDE 2004, UN PROYECTO DIFERENTE
+    titulo: UN PROYECTO COOPERATIVO DE ENSEÑANZA
     alineado: derecha
     link: https://drive.google.com/file/d/1whCNFbZmYV_9M8lpcAutY2l6SftdD_ev/view?usp=sharing
-    fecha: Una construcción por una educación crítica y cooperativa
-  - titulo: ENSEÑANDO DESDE EL COOPERATIVISMO
+    fecha: Construyendo escuela desde las pedagogías críticas
+  - titulo: "EL BRAVO, UNA COOPERATIVA DE TRABAJO "
     texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
       Maestro Alfredo Bravo. Las cooperativas somos asociaciones autónomas de
       personas que nos unimos voluntariamente para satisfacer nuestras
@@ -69,7 +69,7 @@ notas:
     alineado: izquierda
     imagen: /img/imagen-coop-01.svg
     link: https://drive.google.com/file/d/1IqwOq_Cyk9wqdEbdDwyry1oYEW-wx-kQ/view?usp=sharing
-    fecha: Somos una cooperativa de trabajo
+    fecha: Nuestra historia y nuestra identidad cooperativas
   - titulo: MAESTRO MAYOR DE OBRAS
     texto: >+
       Las capacidades que el Maestro Mayor de Obras desarrolla en el marco de
