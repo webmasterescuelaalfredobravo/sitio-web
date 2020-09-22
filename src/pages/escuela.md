@@ -11,7 +11,7 @@ slide:
       nuestras actividades al paquete de G-Suite for Education...
     imagenfondo: /img/bravo-img-011.jpg
     link: https://drive.google.com/file/d/1IQPz_jnlpBDNQcYXqbEayvibZ_XL7M4f/view?usp=sharing
-  - titulo: PRE MATRICULACIÓN CICLO 2021.
+  - titulo: PRE MATRICULACIÓN CICLO 2021
     fecha: Setiembre 2020
     texto: Se encuentran abiertas las pre matriculaciones para el ciclo lectivo
       2021. Si estás interesado en sumarte a nuestra comunidad educativa, te
