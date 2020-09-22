@@ -1,10 +1,9 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: BIENVENIDOS A NUESTRA COMUNIDAD. Sitio del Instituto Técnico Maestro
-      Alfredo Bravo, Instituto Educativo Secundario Adscripto a la Enseñanza
-      Oficial de la Provincia de Córdoba, propiedad de la Cooperativa de Trabajo
-      Maestro Alfredo Bravo Ltda..
+  - texto: BIENVENIDOS A NUESTRA COMUNIDAD. Sitio de nuestro Instituto Educativo
+      Secundario Adscripto a la Enseñanza Oficial de la Provincia de Córdoba,
+      propiedad de la Cooperativa de Trabajo Maestro Alfredo Bravo.
     imagenfondo: /img/img-home-532x532-001_fondo.svg
     link: /escuela
     alineado: izquierda
