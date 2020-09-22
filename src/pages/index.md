@@ -7,9 +7,9 @@ slideppal:
     imagenfondo: /img/img-home-532x532-001_fondo.svg
     link: /escuela
     alineado: izquierda
-  - texto: PRE MATRICULACIONES 2021. Si estás interesado en nuestra propuesta
-      educativa, se encuentran abiertas las pre-matriculaciones del ciclo
-      lectivo 2021.
+  - texto: PRE MATRICULACIONES 2021. Si tienes interés en sumarte a nuestra
+      propuesta educativa, se encuentran abiertas las pre-matriculaciones del
+      ciclo lectivo 2021.
     imagenfondo: /img/img-home-532x532-002_fondo.svg
     link: /escuela
     alineado: derecha
