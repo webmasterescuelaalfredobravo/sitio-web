@@ -57,15 +57,16 @@ notas:
       personas que nos unimos voluntariamente para satisfacer nuestras
       necesidades y aspiraciones por medio de una empresa de propiedad conjunta,
       democráticamente gestionada. En nuestro caso, como cooperativa de trabajo,
-      formamos la Cooperativa quienes trabajamos en "el Bravo". Las cooperativas
-      elegimos en la Asamblea de asociados, que es el órgano máximo de gobierno,
-      un consejo de administración que se ocupa de la gestión de la Cooperativa
-      y de las decisiones cotidianas que la llevan adelante. También elegimos a
-      quienes tienen la responsabilidad de ocupar el órgano de fiscalización: la
-      sindicatura. Las cooperativas estamos regidas por los valores que guían
-      nuestras acciones: ayuda mutua, igualdad, equidad, responsabilidad,
-      democracia y solidaridad. Fue a través de ellos que "el Bravo" logró en
-      estos dieciséis años convertir su sueño en realidad.'
+      formamos la Cooperativa quienes trabajamos en "el Bravo". Como todas las
+      cooperativas, elegimos en la Asamblea de asociados, que es el órgano
+      máximo de gobierno, un consejo de administración que se ocupa de la
+      gestión de la Cooperativa y de las decisiones cotidianas que la llevan
+      adelante. También elegimos a quienes tienen la responsabilidad de ocupar
+      el órgano de fiscalización: la sindicatura. Estamos regidos por los
+      valores cooperativos que guían nuestras acciones: ayuda mutua, igualdad,
+      equidad, responsabilidad, democracia y solidaridad. Fue a través de ellos
+      que "el Bravo" logró en estos dieciséis años convertir su sueño en
+      realidad.'
     alineado: izquierda
     imagen: /img/imagen-coop-01.svg
     link: https://drive.google.com/file/d/1IqwOq_Cyk9wqdEbdDwyry1oYEW-wx-kQ/view?usp=sharing
