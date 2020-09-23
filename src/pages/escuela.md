@@ -121,29 +121,27 @@ notas:
       responsabilidad. Maestro, director de escuela y referente de las luchas
       por mejores condiciones para la educación, fue en 1973, uno de los
       fundadores la Central de Trabajadores de la Educación de la República
-      Argentina (CETERA). En 1975 participó también de la fundación de la
-      Asamblea Permanente por los Derechos Humanos (APDH), uno de los primeros
-      organismos de derechos humanos que se formó en nuestro país, ante la
-      sistemática violación a los derechos humanos que con la anuencia y la
-      utilización del poder del Estado, comenzaba a imponerse antes del golpe de
-      1976. Posteriormente al Golpe de Estado, Bravo continuó en el marco de la
-      APDH denunciando, haciendo visible el terrorismo de estado y las
-      desapariciones, en el contexto del generalizado silencio cómplice de la
-      clase política y de vastos sectores de la sociedad. Ello le valió, en
-      1977, ser secuestrado y torturado. Luego de estar desaparecido más de 10
-      meses, fue liberado en 1978, ante las crecientes presiones internacionales
-      sobre las Juntas Militares. Participó del primer gobierno democrático
-      postdictatorial como subsecretario de Educación, cargo al que renunció por
-      su desacuerdo con la sanción de las leyes de Punto Final y Obediencia
-      Debida. En 2001 testimonió en el juicio contra sus torturadores. Fue
-      además militante político, y por su partido, el socialista, fue electo
-      diputado y candidato a presidente en 2003, año en el que falleció, un 26
-      de mayo. El 10 de noviembre de ese mismo año, quienes fundaron nuestra
-      Cooperativa, eligieron su nombre. Su figura nos inspira y nos señala el
-      rumbo: el de la integridad y la coherencia, el de la defensa de los
-      derechos humanos, el de la permanente apuesta al trabajo colectivo y el
-      del convencimiento en el sentido de la educación como camino para la
-      transformación social."
+      Argentina (CETERA). Participó también, dos años después, de la fundación
+      de uno de los primeros organismos de derechos humanos que se formó en
+      nuestro país ante la sistemática violación a los derechos humanos, que con
+      la anuencia y la utilización del poder del Estado, comenzaba a imponerse
+      antes del Golpe de Estado: la Asamblea Permanente por los Derechos Humanos
+      (APDH). Luego del Golpe, desde ella, Bravo continuó denunciando la
+      desaparición de personas, pese al silencio cómplice de la clase política y
+      de vastos sectores de la sociedad. En 1977 fue secuestrado y torturado.
+      Luego de estar desaparecido más de 10 meses, fue liberado en 1978, ante
+      las crecientes presiones internacionales sobre las Juntas Militares.
+      Participó del primer gobierno democrático postdictatorial como
+      subsecretario de Educación, cargo al que renunció por su desacuerdo con la
+      sanción de las leyes de Punto Final y Obediencia Debida. En 2001
+      testimonió en el juicio contra sus torturadores. Fue además un militante
+      político, y por su partido, el socialista, fue electo diputado y candidato
+      a presidente en 2003, año en el que falleció, un 26 de mayo. El 10 de
+      noviembre de ese mismo año, quienes fundaron nuestra Cooperativa,
+      eligieron su nombre. Su figura nos inspira y nos señala el rumbo: el de la
+      integridad y la coherencia, el de la defensa de los derechos humanos, el
+      de la permanente apuesta al trabajo colectivo y el del convencimiento en
+      el sentido de la educación como camino para la transformación social."
     imagen: /img/a-bravo-web.jpg
     alineado: izquierda
 ---
