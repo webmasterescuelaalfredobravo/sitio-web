@@ -116,7 +116,7 @@ notas:
     fecha: Vinculando nuestro instituto con los sectores socioproductivos
     link: https://drive.google.com/file/d/1h6Bv6ZTjl1dP_5IwIOE3FORrJRGgNFJx/view?usp=sharing
   - titulo: UN CAMINO EN NUESTRO NOMBRE
-    fecha: Alfredo Bravo, luchador por la educación y los derechos humanos
+    fecha: Alfredo Bravo, compromiso con los dd. hh. y la educación
     texto: "Llevar a Alfredo Bravo en nuestro nombre es, a la vez, un honor y una
       responsabilidad. Maestro, director de escuela y referente de las luchas
       por mejores condiciones para la educación, fue en 1973, uno de los
