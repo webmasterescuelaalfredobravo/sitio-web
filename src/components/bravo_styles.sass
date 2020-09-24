@@ -1,0 +1,88 @@
+$beigecito: #f1eee9
+$body-background-color: $beigecito
+@import '~bulma/sass/utilities/initial-variables'
+@import '~bulma/sass/utilities/derived-variables'
+@import '~bulma/sass/utilities/mixins'
+.slide-principal
+  position: relative
+  .carousel
+    width: 70%
+    margin: auto
+  .centrado
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%, -50%)
+  .texto
+    padding-bottom: 20px
+    font-weight: bold
+    font-size: 1rem
+    +tablet 
+      font-size: 0.7rem
+    +desktop
+      font-size: 1rem
+  .navegador-slides
+    text-decoration: none
+    z-index: 1001
+    opacity: 1
+
+    font-size: 2em
+    text-align: center
+    border-radius: 50%  
+    background-color: $body-background-color
+    border: 1px solid
+    +mobile
+      width: 45px
+      height: 45px
+    +tablet
+      width: 46px
+      height: 46px  
+    +desktop
+      width: 47px
+      height: 47px  
+
+  .slide-anterior
+    position: absolute 
+    top: calc(50% - 24px) 
+    left: 1% 
+
+    z-index: 500
+    background-color: transparent
+
+    background-size: 100% 100%
+    border: 0
+    +tablet
+      left: 60px  // coincide con el margin de la navbar
+  .slide-siguiente
+    position: absolute 
+    top: calc(50% - 24px) // busca posicionar en el centro del slide. 24px es la mitad del alto del boton
+    right: 1% 
+    z-index: 500
+    background-color: transparent
+
+    background-size: 100% 100%
+    border: 0
+    +tablet
+      right: 60px  // coincide con el margin de la navbar    
+  .puntos
+    text-align: center
+    button
+      border-radius: 50%  
+      width: 5px
+      height: 5px
+      padding: 5px
+      background-color: $body-background-color
+      margin: 2px
+      border: 1px solid black
+      .carousel__dot--selected
+        background-color: black
+  .caja-contenido
+    display: flex
+    justify-content: center
+    align-items: center   
+  .leer-mas
+    width: 8em 
+    margin-left: -0.7em       
+  .imagen
+    padding: 40px
+
