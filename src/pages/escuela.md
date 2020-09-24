@@ -152,7 +152,7 @@ notas:
       escuela?
 
       Por ello apostamos a una conversación sobre los modos en que construimos las normas que regulan la convivencia. Palabras como PAZ, CONFLICTO Y VIOLENCIA, son detonadoras de intensos estados afectivos. Es por ello que la MEDIACIÓN ESCOLAR ya no es una metodología más, sino un CAMINO, que nos animamos a conocer y andar, porque creemos fuertemente que nos puede llevar por la senda de la convivencia pacífica y de otro estilo para relacionarnos y resolver nuestros conflictos.
-    imagen: /img/bravo-img-011.jpg
+    imagen: /img/bravo-img-013.jpg
     alineado: derecha
     link: https://drive.google.com/file/d/1bHiJqbxjGHux5oDlR_-n0YD7blbY9OiM/view?usp=sharing
 ---
