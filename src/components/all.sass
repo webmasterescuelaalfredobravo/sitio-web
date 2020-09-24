@@ -225,6 +225,7 @@ $menu-label-color: $white-ter
     +tablet
       right: 60px  // coincide con el margin de la navbar    
   .puntos
+    text-align: center
     button
       border-radius: 50%  
       width: 5px
@@ -241,8 +242,10 @@ $menu-label-color: $white-ter
     align-items: center   
   .leer-mas
     width: 8em 
-    margin-left: -1em       
-  
+    margin-left: -0.7em       
+  .imagen
+    padding: 40px
+
 /* purgecss end ignore */
 /* purgecss ignore */
 .pagina-contacto .mapa-ubicacion .leaflet-container
@@ -427,12 +430,14 @@ button.carousel__dot--selected
     padding-left: 4%
     padding-right: 4%
     padding-top: 2rem  // separa el titulo de las flechas
-  +tablet
-    padding-left: 31px
-    padding-right: 31px
-  +desktop
-    padding-left: 10%
-    padding-right: 10%  
+.pag-administracion 
+  .slide-wrapper
+    +tablet
+      padding-left: 31px
+      padding-right: 31px
+    +desktop
+      padding-left: 10%
+      padding-right: 10%  
 
 
 footer.footer-bravo
@@ -630,7 +635,7 @@ footer
     width: 100%
     z-index: 500
     font-size: 2rem
-    padding-top: 5%
+    padding-top: 3%
     background-color: #f49725       
   .texto    
     background-color: #f49725
@@ -641,14 +646,14 @@ footer
   .nota-wrapper
     position: relative
   .texto-wrapper
-    padding: 5% 
+    padding: 3% 
     +desktop
       padding-left: 22%
       padding-right: 22% 
   .link-wrapper
     text-align: center
     +tablet
-      padding-bottom: 28px
+      padding-bottom: 24px
 /* purgecss end ignore */
 
 .medios-pago
@@ -905,7 +910,7 @@ footer
     text-align: center
     +mobile
       //top: 25%
-      top: -30vh
+      top: -32vh
       position: relative // en modo mobile el menú se abre arriba y no debe solaparse
 
     +tablet             // el calculo se basa en: https://www.w3schools.com/howto/howto_css_image_text.asp
@@ -970,6 +975,7 @@ footer
       +mobile
         position: absolute
 .navbar-burger 
+  color: #000
   &.is-active
     span:nth-child(1)
       transform: translateY(30px) rotate(45deg) scaleX(1.5)
@@ -978,7 +984,7 @@ footer
   span 
     height: 4px
     left: 0
-    width: 30px
+    width: 25px
   span:nth-child(1) 
     top: calc(50% - 12px) 
   span:nth-child(2) 

@@ -20,7 +20,7 @@ export const EscuelaPageTemplate = ({
             <img src={fondoTablet} alt="x" className={'fondo-tablet'} />
             <img src={fondoMobile} alt="x" className={'fondo-mobile'} />
             <img src={fondoDesktop} alt="x" className={'fondo-desktop'} />
-            <div className="tituloh2">La Escuela</div>
+            <div className="tituloh2">Escuela</div>
           </div>
         </div>
         <div name="novedades" id="novedades"  >

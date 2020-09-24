@@ -59,26 +59,13 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-end has-text-centered">
               <Link className="navbar-item" to="/escuela/" className={"navbar-item " } activeClassName={"activa"} partiallyActive={true}>
-              <span>La Escuela</span>
+              <span>Escuela</span>
               </Link>
-              <Link className="navbar-item" to="/escuela#novedades" className={"navbar-item nivel-2"}>
-                Novedades
-              </Link>
-              <Link className="navbar-item" to="/escuela#notas" className={"navbar-item nivel-2"}>
-                Nuestro Proyecto
-              </Link>
+             
               <Link className="navbar-item" to="/administracion/" className={"navbar-item "}  activeClassName={"activa"} partiallyActive={true}>
               <span>Administración</span>
               </Link>
-              <Link className="navbar-item" to="/administracion#codigo-de-pago" className={"navbar-item nivel-2"}>
-                Código de Pago
-              </Link>
-              <Link className="navbar-item" to="/administracion#medios-pago" className={"navbar-item nivel-2"}>
-                Medios de Pago
-              </Link>
-              <Link className="navbar-item" to="/administracion#novedades" className={"navbar-item nivel-2"}>
-                Novedades
-              </Link>
+
               <Link className="navbar-item" to="/contact/" className={"navbar-item "}  activeClassName={"activa"} partiallyActive={true}>
               <span>Contacto</span>
               </Link>

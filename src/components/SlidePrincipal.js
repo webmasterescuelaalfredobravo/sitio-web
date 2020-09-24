@@ -16,13 +16,13 @@ const SlidePrincipal = ({ slides }) => {
                             Leer más</a>}
                     </div>
                 </div>
-                <div className={"column imagen is-two-thirds"}>
+                <div className={"column imagen is-half"}>
                     <img src={unSlide.imagenfondo.publicURL} alt={unSlide.texto} />
                 </div>
             </div>}
         {unSlide.alineado === "derecha" &&
             <div className={"columns slide-wrapper " + unSlide.alineado + (unSlide.alineado === "izquierda" ? " is-reverse-mobile" : "")}>
-                <div className={"column imagen is-two-thirds"}>
+                <div className={"column imagen is-half"}>
                     <img src={unSlide.imagenfondo.publicURL} alt={unSlide.texto} />
                 </div>
                 <div className={"column caja-contenido "}>

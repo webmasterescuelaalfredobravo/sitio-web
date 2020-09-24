@@ -1,7 +1,7 @@
 ---
 templateKey: escuela-page
 path: /escuela
-title: La Escuela
+title: Escuela
 slide:
   - titulo: NUESTRO INSTITUTO EN LA VIRTUALIDAD
     fecha: Aplicaciones digitales para la enseñanza y el aprendizaje
