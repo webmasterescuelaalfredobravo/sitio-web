@@ -50,7 +50,7 @@ notas:
     titulo: UN PROYECTO COOPERATIVO DE ENSEÑANZA
     alineado: derecha
     link: https://drive.google.com/file/d/1whCNFbZmYV_9M8lpcAutY2l6SftdD_ev/view?usp=sharing
-    fecha: Construyendo y repensando los sentidos de la escuela
+    fecha: Construyendo los sentidos de otra  escuela
   - titulo: "EL BRAVO, UNA COOPERATIVA DE TRABAJO "
     texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
       Maestro Alfredo Bravo. Las cooperativas somos asociaciones autónomas de
@@ -116,7 +116,7 @@ notas:
     fecha: Vinculando nuestro instituto con los sectores socioproductivos
     link: https://drive.google.com/file/d/1h6Bv6ZTjl1dP_5IwIOE3FORrJRGgNFJx/view?usp=sharing
   - titulo: UN CAMINO EN NUESTRO NOMBRE
-    fecha: Alfredo Bravo, compromiso con los dd. hh. y la educación
+    fecha: Alfredo Bravo, derechos humanos y educación
     texto: "Llevar a Alfredo Bravo en nuestro nombre es, a la vez, un honor y una
       responsabilidad. Maestro, director de escuela y referente de las luchas
       por mejores condiciones para la educación, fue en 1973, uno de los
