@@ -5,29 +5,29 @@ title: Administración
 csvcodpago: /img/cod-2020-pago-web.csv
 mediospago:
   - texto: >-
-      1. Entrá desde tu navegador a www.onlinesiro.com.ar
+      1. Entrá desde tu navegador a www.onlinesiro.com.ar$r
 
 
-      2. Elegí la opción BOTÓN DE PAGO. 
+      2. Elegí la opción BOTÓN DE PAGO.$r 
 
 
-      3. Ingresá el código de pago electrónico (19 dígitos).
+      3. Ingresá el código de pago electrónico (19 dígitos).$r
 
 
-      4. Seleccioná la cuota que deseas abonar.
+      4. Seleccioná la cuota que deseas abonar.$r
 
 
       5. Elegí la opción de pago con la tarjeta de tu preferencia y completá con los datos.  
     imagen: /img/01_siro_v02.png
     titulo: Tarjeta de Débito y Crédito
   - texto: |-
-      1. Entrar en tu homebanking.
+      1. Entrar en tu homebanking.$r
 
-      2. Ir a la opción de PAGO DE SERVICIOS.
+      2. Ir a la opción de PAGO DE SERVICIOS.$r
 
-      3.  Buscar rubro ADMINISTRACIONES/ ADMINISTRACIONES Y CONSORCIOS.
+      3.  Buscar rubro ADMINISTRACIONES/ ADMINISTRACIONES Y CONSORCIOS.$r
 
-      4. Buscar la opción BANCO ROELA SIRO.
+      4. Buscar la opción BANCO ROELA SIRO.$r
 
       5. Ingresar el código Link de pago electrónico (de 19 dígitos).
     imagen: /img/01_pagos_link_v02.png
@@ -37,13 +37,13 @@ mediospago:
     imagen: /img/01_mercadopago-electronico_v02.png
     titulo: Código de barras
   - texto: |-
-      Puede utilizar PAGO FÁCIL, RAPIPAGO, COBRO EXPRESS. 
+      Puede utilizar PAGO FÁCIL, RAPIPAGO, COBRO EXPRESS. $r
 
-      1. Indique al cajero que se desea abonar BANCO ROELA - SIRO.
+      1. Indique al cajero que se desea abonar BANCO ROELA - SIRO.$r
 
-      2. Dictar los 19 dígitos del código Link de pago.
+      2. Dictar los 19 dígitos del código Link de pago.$r
 
-      3. Luego seleccione la cuota que desea abonar.
+      3. Luego seleccione la cuota que desea abonar.$r
     imagen: /img/01_pagofacil_v02.png
     titulo: Pago sin factura - Efectivo
 slide:
