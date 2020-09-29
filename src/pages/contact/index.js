@@ -120,6 +120,8 @@ export default class Index extends React.Component {
                                 <option value="">Seleccione Destinatario</option>
                                 <option value="RL">Representante Legal</option>
                                 <option value="AD">Administración</option>
+                                <option value="DI">Directora</option>
+                                <option value="PI">Pre-inscripciones</option>
                               </select>
                             </div>
                           </div>

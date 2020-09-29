@@ -34,7 +34,9 @@ exports.handler = async (event, context,callback) => {
         SENDGRID_SENDER_NAME,
         SENDGRID_SENDER_EMAIL,
         DESTINATARIO_AD,   /*ADMINISTRACION*/
-        DESTINATARIO_RL   /*REPRESENTANTE LEGAL*/
+        DESTINATARIO_RL,   /*REPRESENTANTE LEGAL*/
+        DESTINATARIO_DI,   /*DIRECTORA*/
+        DESTINATARIO_PI   /*PRE-INSCRIPCIONES*/
     } = process.env;
 
 
