@@ -27,7 +27,7 @@ notas:
       En ambas orientaciones se promueve gradualmente el estudio independiente que contribuye al trabajo autogestivo como también se favorecen las prácticas colaborativas, cooperativas y solidarias. Se pone especial énfasis en la correspondencia y articulación teórico-práctica en aras al desarrollo y adquisición de capacidades específicas para el futuro desempeño del técnico
     imagen: /img/img-laescuela-arbol.svg
     titulo: NUESTRA PROPUESTA EDUCATIVA
-    alineado: izquierda
+    alineado: derecha
     fecha: Somos una escuela técnica
   - texto: >
       El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004,
@@ -48,7 +48,7 @@ notas:
       con la reinvención del futuro, con dar lugar a otros mundos posibles.
     imagen: /img/bravo-img-011.jpg
     titulo: UN PROYECTO COOPERATIVO DE ENSEÑANZA
-    alineado: derecha
+    alineado: izquierda
     link: https://drive.google.com/file/d/1whCNFbZmYV_9M8lpcAutY2l6SftdD_ev/view?usp=sharing
     fecha: Construyendo los sentidos de otra  escuela
   - titulo: MAESTRO MAYOR DE OBRAS
@@ -102,7 +102,7 @@ notas:
       Para cumplir esta función, se diseñaron las prácticas profesionalizantes, que  buscan acercar las lógicas del mundo del trabajo y la producción a las del sistema educativo...
 
     imagen: /img/bravo-img-pp-009.jpg
-    alineado: derecha
+    alineado: izquierda
     fecha: Vinculando nuestro instituto con los sectores socioproductivos
     link: https://drive.google.com/file/d/1h6Bv6ZTjl1dP_5IwIOE3FORrJRGgNFJx/view?usp=sharing
   - titulo: UN CAMINO EN NUESTRO NOMBRE
@@ -133,7 +133,7 @@ notas:
       de la permanente apuesta al trabajo colectivo y el del convencimiento en
       el sentido de la educación como camino para la transformación social."
     imagen: /img/a-bravo-web.jpg
-    alineado: izquierda
+    alineado: derecha
   - titulo: "EL BRAVO, UNA COOPERATIVA DE TRABAJO "
     texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
       Maestro Alfredo Bravo. Las cooperativas somos asociaciones autónomas de
