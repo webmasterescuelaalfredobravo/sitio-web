@@ -626,6 +626,8 @@ footer
         font-size: 1.5rem  
         display: inherit
   .navbar-menu  
+    .img-bg-01, .img-bg-02 
+      display: none
     +mobile  
       background-color: #F49725
       height: 100vh
@@ -633,6 +635,15 @@ footer
   &.la-burger-is-active  
     +mobile
       background-color: #F49725
+      .img-bg-01, .img-bg-02 
+        display: block
+      .img-bg-01
+        padding-left: 20%
+        margin-top: 2em 
+      .img-bg-02 
+        padding-left: 60% 
+        position: relative
+        top: -2em
 
 .navbar-menu 
   a.navbar-item
