@@ -22,7 +22,7 @@ slide:
 notas:
   - texto: >
       
-      El Instituto Técnico Maestro Alfredo Bravo propone un trayecto educativo técnico de siete años de duración. Como unidad pedagógica y organizativa nuestra propuesta educativa está constituida por dos Ciclos, siendo el primero de ellos Básico (Primer Ciclo) de tres años de duración y el Segundo Ciclo, de cuatro años de duración, con dos orientaciones: Maestro Mayor de Obras (MMO) e Industria de Procesos (IP).$r
+      El Instituto Técnico Maestro Alfredo Bravo propone un trayecto educativo técnico de siete años de duración. Como unidad pedagógica y organizativa nuestra propuesta educativa está constituida por dos Ciclos, siendo el primero de ellos Básico (Primer Ciclo) de tres años de duración y el Segundo Ciclo, de cuatro años de duración, con dos orientaciones: Maestro Mayor de Obras (MMO) e Industria de Procesos (IP).
 
       En ambas orientaciones se promueve gradualmente el estudio independiente que contribuye al trabajo autogestivo como también se favorecen las prácticas colaborativas, cooperativas y solidarias. Se pone especial énfasis en la correspondencia y articulación teórico-práctica en aras al desarrollo y adquisición de capacidades específicas para el futuro desempeño del técnico
     imagen: /img/img-laescuela-arbol.svg
@@ -37,7 +37,7 @@ notas:
       técnica, para nuestra ciudad de Río Ceballos, que contaba entonces sólo
       con dos secundarios, ninguno de ellos de modalidad técnica. Fue fruto de
       la visión de un grupo de personas que a fines de 2003 conformaron nuestra
-      Cooperativa de Trabajo Maestro Alfredo Bravo Ltda.$r Desde entonces, los
+      Cooperativa de Trabajo Maestro Alfredo Bravo Ltda. Desde entonces, los
       esfuerzos cooperativistas y el acompañamiento y apoyo constante de la
       nuestra comunidad educativa, convirtieron esa propuesta que comenzó hace
       dieciséis años en un edificio alquilado con dos cursos y un puñado de
@@ -140,7 +140,7 @@ notas:
       personas que nos unimos voluntariamente para satisfacer nuestras
       necesidades y aspiraciones por medio de una empresa de propiedad conjunta,
       democráticamente gestionada. En nuestro caso, como cooperativa de trabajo,
-      formamos la Cooperativa quienes trabajamos en "el Bravo".$r Como todas las
+      formamos la Cooperativa quienes trabajamos en "el Bravo". Como todas las
       cooperativas, elegimos en la Asamblea de asociados, que es el órgano
       máximo de gobierno, un consejo de administración que se ocupa de la
       gestión de la Cooperativa y de las decisiones cotidianas que la llevan
