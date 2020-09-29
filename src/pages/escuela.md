@@ -51,26 +51,6 @@ notas:
     alineado: derecha
     link: https://drive.google.com/file/d/1whCNFbZmYV_9M8lpcAutY2l6SftdD_ev/view?usp=sharing
     fecha: Construyendo los sentidos de otra  escuela
-  - titulo: "EL BRAVO, UNA COOPERATIVA DE TRABAJO "
-    texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
-      Maestro Alfredo Bravo. Las cooperativas somos asociaciones autónomas de
-      personas que nos unimos voluntariamente para satisfacer nuestras
-      necesidades y aspiraciones por medio de una empresa de propiedad conjunta,
-      democráticamente gestionada. En nuestro caso, como cooperativa de trabajo,
-      formamos la Cooperativa quienes trabajamos en "el Bravo".$r Como todas las
-      cooperativas, elegimos en la Asamblea de asociados, que es el órgano
-      máximo de gobierno, un consejo de administración que se ocupa de la
-      gestión de la Cooperativa y de las decisiones cotidianas que la llevan
-      adelante. También elegimos a quienes tienen la responsabilidad de ocupar
-      el órgano de fiscalización: la sindicatura. Estamos regidos por los
-      valores cooperativos que guían nuestras acciones: ayuda mutua, igualdad,
-      equidad, responsabilidad, democracia y solidaridad. Fue a través de ellos
-      que "el Bravo" logró en estos dieciséis años convertir su sueño en
-      realidad.'
-    alineado: izquierda
-    imagen: /img/imagen-coop-01.svg
-    link: https://drive.google.com/file/d/1IqwOq_Cyk9wqdEbdDwyry1oYEW-wx-kQ/view?usp=sharing
-    fecha: Nuestra historia y nuestra identidad cooperativas
   - titulo: MAESTRO MAYOR DE OBRAS
     texto: >+
       Las capacidades que el Maestro Mayor de Obras desarrolla en el marco de
@@ -100,6 +80,16 @@ notas:
     alineado: izquierda
     link: https://drive.google.com/file/d/171hqxY8FYya9BvrLg42sHvAlFsojHB0R/view?usp=sharing
     fecha: El perfil profesional y la carga horaria
+  - titulo: LA MEDIACIÓN ESCOLAR
+    fecha: Nuestra herramienta para la convivencia
+    texto: >-
+      La mediación es nuestra modo particular de responder a la pregunta que
+      toda institución escolar se formula: ¿cómo estar juntos hoy en la escuela?
+
+      Por ello apostamos a una conversación sobre los modos en que construimos las normas que regulan la convivencia. Palabras como PAZ, CONFLICTO Y VIOLENCIA, son detonadoras de intensos estados afectivos. Es por ello que la MEDIACIÓN ESCOLAR ya no es una metodología más, sino un CAMINO, que nos animamos a conocer y andar, porque creemos fuertemente que nos puede llevar por la senda de la convivencia pacífica y de otro estilo para relacionarnos y resolver nuestros conflictos.
+    imagen: /img/bravo-img-m-014.jpg
+    alineado: derecha
+    link: https://drive.google.com/file/d/1bHiJqbxjGHux5oDlR_-n0YD7blbY9OiM/view?usp=sharing
   - titulo: PRÁCTICAS PROFESIONALIZANTES
     texto: >+
       La Educación Técnico Profesional promueve en los estudiantes el desarrollo
@@ -144,14 +134,24 @@ notas:
       el sentido de la educación como camino para la transformación social."
     imagen: /img/a-bravo-web.jpg
     alineado: izquierda
-  - titulo: LA MEDIACIÓN ESCOLAR
-    fecha: Nuestra herramienta para la convivencia
-    texto: >-
-      La mediación es nuestra modo particular de responder a la pregunta que
-      toda institución escolar se formula: ¿cómo estar juntos hoy en la escuela?
-
-      Por ello apostamos a una conversación sobre los modos en que construimos las normas que regulan la convivencia. Palabras como PAZ, CONFLICTO Y VIOLENCIA, son detonadoras de intensos estados afectivos. Es por ello que la MEDIACIÓN ESCOLAR ya no es una metodología más, sino un CAMINO, que nos animamos a conocer y andar, porque creemos fuertemente que nos puede llevar por la senda de la convivencia pacífica y de otro estilo para relacionarnos y resolver nuestros conflictos.
-    imagen: /img/bravo-img-m-014.jpg
-    alineado: derecha
-    link: https://drive.google.com/file/d/1bHiJqbxjGHux5oDlR_-n0YD7blbY9OiM/view?usp=sharing
+  - titulo: "EL BRAVO, UNA COOPERATIVA DE TRABAJO "
+    texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
+      Maestro Alfredo Bravo. Las cooperativas somos asociaciones autónomas de
+      personas que nos unimos voluntariamente para satisfacer nuestras
+      necesidades y aspiraciones por medio de una empresa de propiedad conjunta,
+      democráticamente gestionada. En nuestro caso, como cooperativa de trabajo,
+      formamos la Cooperativa quienes trabajamos en "el Bravo".$r Como todas las
+      cooperativas, elegimos en la Asamblea de asociados, que es el órgano
+      máximo de gobierno, un consejo de administración que se ocupa de la
+      gestión de la Cooperativa y de las decisiones cotidianas que la llevan
+      adelante. También elegimos a quienes tienen la responsabilidad de ocupar
+      el órgano de fiscalización: la sindicatura. Estamos regidos por los
+      valores cooperativos que guían nuestras acciones: ayuda mutua, igualdad,
+      equidad, responsabilidad, democracia y solidaridad. Fue a través de ellos
+      que "el Bravo" logró en estos dieciséis años convertir su sueño en
+      realidad.'
+    alineado: izquierda
+    imagen: /img/imagen-coop-01.svg
+    link: https://drive.google.com/file/d/1IqwOq_Cyk9wqdEbdDwyry1oYEW-wx-kQ/view?usp=sharing
+    fecha: Nuestra historia y nuestra identidad cooperativas
 ---
