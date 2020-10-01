@@ -60,9 +60,9 @@ notas:
   - titulo: TÉCNICO EN INDUSTRIAS DE PROCESOS
     texto: >+
       El Técnico en Industrias de Procesos tiene un amplio campo de
-      empleabilidad. Se desempeña en empresas de distinto tamaño, productoras de
-      commodities y productos diferenciados, con tecnología de punta, intermedia
-      o elemental.
+      empleabilidad. Se desempeña en empresas de distinto tamaño, que elaboran
+      productos básicos o diferenciados, con tecnología de punta, intermedia o
+      elemental.
 
       Se desenvuelve tanto en empresas industriales, en empresas contratistas que brindan servicios en el área industrial, como en emprendimientos generados por el técnico o por pequeños equipos de profesionales.
 
