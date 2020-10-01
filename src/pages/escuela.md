@@ -96,7 +96,7 @@ notas:
     imagen: /img/bravo-img-pp-009.jpg
     alineado: izquierda
     fecha: Vinculando nuestro instituto con los sectores socioproductivos
-    link: https://drive.google.com/file/d/1h6Bv6ZTjl1dP_5IwIOE3FORrJRGgNFJx/view?usp=sharing
+    link: https://drive.google.com/file/d/15Lvg4ZhgJunmmXGpzLMTS8hiJeego-Hq/view?usp=sharing
   - titulo: UN REFERENTE EN NUESTRO NOMBRE
     fecha: Alfredo Bravo, derechos humanos y educación
     texto: Llevar a Alfredo Bravo en nuestro nombre es, a la vez, un honor y una
