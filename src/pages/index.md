@@ -9,7 +9,7 @@ slideppal:
     alineado: izquierda
   - texto: "Se encuentran abiertas la pre-matriculaciones para el ciclo lectivo
       2021: si deseas sumarte a nuestro proyecto educativo..."
-    imagenfondo: /img/imagen-coop-02-blanco-01.svg
+    imagenfondo: /img/bravo-img-001.jpg
     link: /escuela
     alineado: derecha
   - texto: En el contexto de la pandemia que condiciona la re-invención de la tarea
