@@ -42,7 +42,7 @@ notas:
     titulo: NUESTRO CAMINO, UNA EDUCACIÓN CRÍTICA Y COOPERATIVA
     alineado: izquierda
     link: https://drive.google.com/file/d/15D2ZG3HU--mWzVstiVbKDDDUp0SDdkov/view?usp=sharing
-    fecha: Construyendo los sentidos de otra  escuela
+    fecha: Para que otros mundos sean posibles
   - titulo: MAESTRO MAYOR DE OBRAS
     texto: >+
       Las capacidades que el Maestro Mayor de Obras desarrolla en el marco de
