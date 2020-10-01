@@ -9,8 +9,8 @@ slide:
       posibilidades de la enseñanza y del aprendizaje en la virtualidad. Por
       ello a partir de la segunda parte del 2020 optamos por migrar todas
       nuestras actividades al paquete de G-Suite for Education...
-    imagenfondo: /img/bravo-img-011.jpg
-    link: https://drive.google.com/file/d/1IQPz_jnlpBDNQcYXqbEayvibZ_XL7M4f/view?usp=sharing
+    imagenfondo: /img/imagen-manos-01.svg
+    link: https://drive.google.com/file/d/1SM41fRHA8xw1zuNE1H0ftiYNtK8HVVR5/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021
     fecha: Sumate a nuestra comunidad
     texto: Se encuentran abiertas las pre matriculaciones para el ciclo lectivo
