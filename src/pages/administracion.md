@@ -55,7 +55,7 @@ slide:
       consultas relativas a lo administrativo lo invitamos realizarla desde la
       página de contacto, seleccionando en la pestaña de contacto “Área
       Administración”.
-    imagenfondo: /img/imagen-coop-02-celeste-01-01.svg
+    imagenfondo: /img/imagen-coop-02-blanco-01.svg
     fecha: Contacto y formas de pago
   - titulo: MATRICULA CICLO LECTIVO 2021
     texto: Atendiendo a la difícil situación actual, la Cooperativa ha decidido
