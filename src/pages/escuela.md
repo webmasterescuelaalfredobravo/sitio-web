@@ -53,7 +53,7 @@ notas:
       ocupacionales de: proyecto, dirección, planificación, control, gestión,
       administración y comercialización en la industria de la construcción...
 
-    imagen: /img/bravo-img-mmo-008.jpg
+    imagen: /img/imagen-mmo-color-bravo-01.svg
     alineado: derecha
     fecha: El perfil profesional y la carga horaria
     link: https://drive.google.com/file/d/1GwLSUpcdc7pEa1SEJBG1HqQdhpMKbUXW/view?usp=sharing
@@ -79,7 +79,7 @@ notas:
       toda institución escolar se formula: ¿cómo estar juntos hoy en la escuela?
 
       Por ello apostamos a una conversación sobre los modos en que construimos las normas que regulan la convivencia. Palabras como PAZ, CONFLICTO Y VIOLENCIA, son detonadoras de intensos estados afectivos. Es por ello que la MEDIACIÓN ESCOLAR ya no es una metodología más, sino un CAMINO, que nos animamos a conocer y andar, porque creemos fuertemente que nos puede llevar por la senda de la convivencia pacífica y de otro estilo para relacionarnos y resolver nuestros conflictos.
-    imagen: /img/bravo-img-m-014.jpg
+    imagen: /img/bravo-img-m-016.jpg
     alineado: derecha
     link: https://drive.google.com/file/d/1bHiJqbxjGHux5oDlR_-n0YD7blbY9OiM/view?usp=sharing
   - titulo: PRÁCTICAS PROFESIONALIZANTES
