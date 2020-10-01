@@ -71,5 +71,5 @@ slide:
       con las cuotas escolares. Para el caso de primer año, la modalidad de pago
       se dará a conocer a quienes accedan a reservar banco para 2021.
     fecha: Valor y modalidad de pago
-    imagenfondo: /img/img_home2-1100x840.png
+    imagenfondo: /img/imagen-novedades-laescuela.svg
 ---
