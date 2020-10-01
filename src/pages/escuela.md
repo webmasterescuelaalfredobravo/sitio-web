@@ -119,5 +119,5 @@ notas:
     alineado: izquierda
     imagen: /img/imagen-coop-01.svg
     link: https://drive.google.com/file/d/1xCjmUP0f5AgZ2tDUBaZdZeJEkskFuoyj/view?usp=sharing
-    fecha: Nuestra historia y nuestra identidad cooperativas
+    fecha: Un poco de (nuestra) historia
 ---
