@@ -10,7 +10,7 @@ slide:
       ello a partir de la segunda parte del 2020 optamos por migrar todas
       nuestras actividades al paquete de G-Suite for Education...
     imagenfondo: /img/imagen-manos-01.svg
-    link: https://drive.google.com/file/d/1SM41fRHA8xw1zuNE1H0ftiYNtK8HVVR5/view?usp=sharing
+    link: https://drive.google.com/file/d/1x9rUjhjDTBHrj2EKL1UZHruSZt2GSMD_/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021
     fecha: Sumate a nuestra comunidad
     texto: Se encuentran abiertas las pre matriculaciones para el ciclo lectivo
