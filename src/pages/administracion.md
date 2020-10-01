@@ -57,19 +57,14 @@ slide:
       Administración”.
     imagenfondo: /img/imagen-coop-02-celeste-01-01.svg
     fecha: Contacto y formas de pago
-  - titulo: MATRICULA CICLO LECTIVO
+  - titulo: MATRICULA CICLO LECTIVO 2021
     texto: Atendiendo a la difícil situación actual, la Cooperativa ha decidido
       mantener el mismo valor que tuviera la matrícula 2020.  El valor de la
       matriculación de 1ero a 7mo año del ciclo 2021, será de $7750, siempre y
       cuando la misma se concrete hasta el 18 de diciembre de 2020. El año
       próximo tendrá una variación que se establecerá oportunamente. La
-      matrícula para los estudiantes que cursen de 2do a 7mo en 2021 se podrá
-      abonar en cuatro cuotas de $1937.50  (septiembre, octubre, noviembre y
-      diciembre del corriente) cada una de las tres primeras se abonará en
-      concepto de reserva de banco, y con la última se dará por cancelada la
-      matrícula. Para acceder a esta modalidad, la familia deberá estar al día
-      con las cuotas escolares. Para el caso de primer año, la modalidad de pago
-      se dará a conocer a quienes accedan a reservar banco para 2021.
+      modalidad de pago se dará a conocer a quienes accedan a reservar banco
+      para 2021.
     fecha: Valor y modalidad de pago
     imagenfondo: /img/imagen-novedades-laescuela.svg
 ---
