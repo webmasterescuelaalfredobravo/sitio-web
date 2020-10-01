@@ -66,5 +66,5 @@ slide:
       modalidad de pago se dará a conocer a quienes accedan a reservar banco
       para 2021.
     fecha: Valor y modalidad de pago
-    imagenfondo: /img/imagen-novedades-laescuela.svg
+    imagenfondo: /img/imagen-para-la-nota-coop.svg
 ---
