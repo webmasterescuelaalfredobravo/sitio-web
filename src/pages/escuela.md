@@ -109,7 +109,7 @@ notas:
     imagen: /img/a-bravo-web.jpg
     alineado: derecha
     link: https://drive.google.com/file/d/1HtICSOucnEMWjgnumLUDTi_0uXW721v4/view?usp=sharing
-  - titulo: "EL BRAVO, UNA COOPERATIVA DE TRABAJO "
+  - titulo: NUESTRA IDENTIDAD COOPERATIVA
     texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
       Maestro Alfredo Bravo. Las cooperativas somos asociaciones autónomas de
       personas que nos unimos voluntariamente para satisfacer nuestras
@@ -127,6 +127,6 @@ notas:
       realidad.'
     alineado: izquierda
     imagen: /img/imagen-coop-01.svg
-    link: https://drive.google.com/file/d/1IqwOq_Cyk9wqdEbdDwyry1oYEW-wx-kQ/view?usp=sharing
+    link: https://drive.google.com/file/d/1xCjmUP0f5AgZ2tDUBaZdZeJEkskFuoyj/view?usp=sharing
     fecha: Nuestra historia y nuestra identidad cooperativas
 ---
