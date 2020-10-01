@@ -55,7 +55,7 @@ slide:
       consultas relativas a lo administrativo lo invitamos realizarla desde la
       página de contacto, seleccionando en la pestaña de contacto “Área
       Administración”.
-    imagenfondo: /img/5prancheta-1.png
+    imagenfondo: /img/imagen-coop-02-celeste-01-01.svg
     fecha: Contacto y formas de pago
   - titulo: MATRICULA CICLO LECTIVO
     texto: Atendiendo a la difícil situación actual, la Cooperativa ha decidido
@@ -71,5 +71,5 @@ slide:
       con las cuotas escolares. Para el caso de primer año, la modalidad de pago
       se dará a conocer a quienes accedan a reservar banco para 2021.
     fecha: Valor y modalidad de pago
-    imagenfondo: /img/imagen-manos-01.svg
+    imagenfondo: /img/img_home2-1100x840.png
 ---
