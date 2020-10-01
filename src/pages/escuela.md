@@ -14,8 +14,9 @@ slide:
   - titulo: PRE MATRICULACIÓN CICLO 2021
     fecha: Sumate a nuestra comunidad
     texto: Se encuentran abiertas las pre matriculaciones para el ciclo lectivo
-      2021. Si estás interesado en sumarte a nuestra comunidad educativa, te
-      invitamos a completar el siguiente formulario. Nos comunicaremos a la
+      2021. Si estás interesado en sumarte a nuestra comunidad educativa,
+      envíanos un mensaje a través de la página de contacto. Te invitamos,
+      además, a completar el siguiente formulario. Nos comunicaremos a la
       brevedad una vez que lo hayas enviado.
     imagenfondo: /img/imagen-coop-01.svg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
