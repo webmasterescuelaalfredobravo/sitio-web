@@ -30,27 +30,18 @@ notas:
     titulo: NUESTRA PROPUESTA EDUCATIVA
     alineado: derecha
     fecha: Somos una escuela técnica
-  - texto: >
-      El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004,
+  - texto: "El Instituto Técnico Maestro Alfredo Bravo comienza en el año 2004,
       ofreciendo una enseñanza secundaria basada en pedagogías críticas y
       cooperativas, en la mediación como mecanismo de resolución de los
       conflictos de la convivencia escolar y  en una propuesta formativa
       técnica, para nuestra ciudad de Río Ceballos, que contaba entonces sólo
       con dos secundarios, ninguno de ellos de modalidad técnica. Fue fruto de
       la visión de un grupo de personas que a fines de 2003 conformaron nuestra
-      Cooperativa de Trabajo Maestro Alfredo Bravo Ltda. Desde entonces, los
-      esfuerzos cooperativistas y el acompañamiento y apoyo constante de la
-      nuestra comunidad educativa, convirtieron esa propuesta que comenzó hace
-      dieciséis años en un edificio alquilado con dos cursos y un puñado de
-      docentes ad honorem, en una institución con edificio propio que alberga en
-      14 cursos y dos especialidades técnicas, a 400 estudiantes y es fuente de
-      trabajo de 70 asociados cooperativistas. Y que continúa, como lo hizo
-      desde sus inicios, construyendo esa propuesta alternativa, comprometida
-      con la reinvención del futuro, con dar lugar a otros mundos posibles.
-    imagen: /img/bravo-img-011.jpg
-    titulo: UN PROYECTO COOPERATIVO DE ENSEÑANZA
+      Cooperativa de Trabajo Maestro Alfredo Bravo Ltda. "
+    imagen: /img/bravo-img-013.jpg
+    titulo: NUESTRO CAMINO, UNA EDUCACIÓN CRÍTICA Y COOPERATIVA
     alineado: izquierda
-    link: https://drive.google.com/file/d/1whCNFbZmYV_9M8lpcAutY2l6SftdD_ev/view?usp=sharing
+    link: https://drive.google.com/file/d/15D2ZG3HU--mWzVstiVbKDDDUp0SDdkov/view?usp=sharing
     fecha: Construyendo los sentidos de otra  escuela
   - titulo: MAESTRO MAYOR DE OBRAS
     texto: >+
