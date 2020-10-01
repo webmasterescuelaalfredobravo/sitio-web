@@ -97,35 +97,18 @@ notas:
     alineado: izquierda
     fecha: Vinculando nuestro instituto con los sectores socioproductivos
     link: https://drive.google.com/file/d/1h6Bv6ZTjl1dP_5IwIOE3FORrJRGgNFJx/view?usp=sharing
-  - titulo: UN CAMINO EN NUESTRO NOMBRE
+  - titulo: UN REFERENTE EN NUESTRO NOMBRE
     fecha: Alfredo Bravo, derechos humanos y educación
-    texto: "Llevar a Alfredo Bravo en nuestro nombre es, a la vez, un honor y una
+    texto: Llevar a Alfredo Bravo en nuestro nombre es, a la vez, un honor y una
       responsabilidad. Maestro, director de escuela y referente de las luchas
       por mejores condiciones para la educación, fue en 1973, uno de los
       fundadores la Central de Trabajadores de la Educación de la República
       Argentina (CETERA). Participó también, dos años después, de la fundación
       de uno de los primeros organismos de derechos humanos que se formó en
-      nuestro país ante la sistemática violación a los derechos humanos, que con
-      la anuencia y la utilización del poder del Estado, comenzaba a imponerse
-      antes del Golpe de Estado: la Asamblea Permanente por los Derechos Humanos
-      (APDH). Luego del Golpe, desde ella, Bravo continuó denunciando la
-      desaparición de personas, pese al silencio cómplice de la clase política y
-      de vastos sectores de la sociedad. En 1977 fue secuestrado y torturado.
-      Luego de estar desaparecido más de 10 meses, fue liberado en 1978, ante
-      las crecientes presiones internacionales sobre las Juntas Militares.
-      Participó del primer gobierno democrático postdictatorial como
-      subsecretario de Educación, cargo al que renunció por su desacuerdo con la
-      sanción de las leyes de Punto Final y Obediencia Debida. En 2001
-      testimonió en el juicio contra sus torturadores.$r Fue además un militante
-      político, y por su partido, el socialista, fue electo diputado y candidato
-      a presidente en 2003, año en el que falleció, un 26 de mayo. El 10 de
-      noviembre de ese mismo año, quienes fundaron nuestra Cooperativa,
-      eligieron su nombre. Su figura nos inspira y nos señala el rumbo: el de la
-      integridad y la coherencia, el de la defensa de los derechos humanos, el
-      de la permanente apuesta al trabajo colectivo y el del convencimiento en
-      el sentido de la educación como camino para la transformación social."
+      nuestro país...
     imagen: /img/a-bravo-web.jpg
     alineado: derecha
+    link: https://drive.google.com/file/d/1HtICSOucnEMWjgnumLUDTi_0uXW721v4/view?usp=sharing
   - titulo: "EL BRAVO, UNA COOPERATIVA DE TRABAJO "
     texto: 'El 10 de noviembre de 2003 se constituye la Cooperativa de Trabajo
       Maestro Alfredo Bravo. Las cooperativas somos asociaciones autónomas de
