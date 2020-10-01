@@ -104,7 +104,7 @@ notas:
       por mejores condiciones para la educación, fue en 1973, uno de los
       fundadores la Central de Trabajadores de la Educación de la República
       Argentina (CETERA). Participó también, dos años después, de la fundación
-      de uno de los primeros organismos de derechos humanos que se formó en
+      de uno de los primeros organismos de derechos humanos que se conformó en
       nuestro país...
     imagen: /img/a-bravo-web.jpg
     alineado: derecha
