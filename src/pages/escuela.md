@@ -56,7 +56,7 @@ notas:
     imagen: /img/bravo-img-013.jpg
     alineado: derecha
     fecha: El perfil profesional y la carga horaria
-    link: https://drive.google.com/file/d/1GwLSUpcdc7pEa1SEJBG1HqQdhpMKbUXW/view?usp=sharing
+    link: https://drive.google.com/file/d/1_PpN7PcdCsbJRe1EM72_eqUm1BV_n3-U/view?usp=sharing
   - titulo: TÉCNICO EN INDUSTRIAS DE PROCESOS
     texto: >+
       El Técnico en Industrias de Procesos tiene un amplio campo de
@@ -70,7 +70,7 @@ notas:
 
     imagen: /img/bravo-img-ip-008.jpg
     alineado: izquierda
-    link: https://drive.google.com/file/d/171hqxY8FYya9BvrLg42sHvAlFsojHB0R/view?usp=sharing
+    link: https://drive.google.com/file/d/1uZe-Go9OLeQOF2KrOCqSW5n_SH1eNS02/view?usp=sharing
     fecha: El perfil profesional y la carga horaria
   - titulo: LA MEDIACIÓN ESCOLAR
     fecha: Nuestra herramienta para la convivencia
