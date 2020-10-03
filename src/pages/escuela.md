@@ -26,7 +26,7 @@ notas:
       El Instituto Técnico Maestro Alfredo Bravo propone un trayecto educativo técnico de siete años de duración. Como unidad pedagógica y organizativa nuestra propuesta educativa está constituida por dos Ciclos, siendo el primero de ellos Básico (Primer Ciclo) de tres años de duración y el Segundo Ciclo, de cuatro años de duración, con dos orientaciones: Maestro Mayor de Obras (MMO) e Industria de Procesos (IP).
 
       En ambas orientaciones se promueve gradualmente el estudio independiente que contribuye al trabajo autogestivo como también se favorecen las prácticas colaborativas, cooperativas y solidarias. Se pone especial énfasis en la correspondencia y articulación teórico-práctica en aras al desarrollo y adquisición de capacidades específicas para el futuro desempeño del técnico
-    imagen: /img/img-laescuela-arbol_prancheta-1-cópia-8.svg
+    imagen: /img/img-laescuela-arbol_prancheta-1-copia-8.svg
     titulo: NUESTRA PROPUESTA EDUCATIVA
     alineado: derecha
     fecha: Somos una escuela técnica
@@ -53,7 +53,7 @@ notas:
       ocupacionales de: proyecto, dirección, planificación, control, gestión,
       administración y comercialización en la industria de la construcción...
 
-    imagen: /img/imagen-mmo-color-bravo-01.svg
+    imagen: /img/bravo-img-013.jpg
     alineado: derecha
     fecha: El perfil profesional y la carga horaria
     link: https://drive.google.com/file/d/1GwLSUpcdc7pEa1SEJBG1HqQdhpMKbUXW/view?usp=sharing
