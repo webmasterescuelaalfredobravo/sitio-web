@@ -55,8 +55,8 @@ notas:
 
     imagen: /img/bravo-img-013.jpg
     alineado: derecha
-    fecha: El perfil profesional y la carga horaria
-    link: https://drive.google.com/file/d/1_PpN7PcdCsbJRe1EM72_eqUm1BV_n3-U/view?usp=sharing
+    fecha: El perfil profesional , las habilitaciones profesionales y la carga horaria
+    link: https://drive.google.com/file/d/1ROBz64_75Lqq9KxdiJ91gnldyS4mGm0V/view?usp=sharing
   - titulo: TÉCNICO EN INDUSTRIAS DE PROCESOS
     texto: >+
       El Técnico en Industrias de Procesos tiene un amplio campo de
