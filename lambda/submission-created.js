@@ -9,39 +9,36 @@
  */
 
 function sendEmail(subject, message, senderEmail, senderName, destinatarioEmail) {
-    return new Promise((fulfill, reject) => {
-        const mailjet = require('node-mailjet')
-            .connect(MAILJET_APIKEY_PUBLIC, MAILJET_APIKEY_PRIVATE);
-        const request = mailjet
-            .post("send", { 'version': 'v3.1' })
-            .request({
-                "Messages": [
-                    {
-                        "From": {
-                            "Email": senderEmail,
-                            "Name": senderName
-                        },
-                        "To": [
-                            {
-                                "Email": destinatarioEmail,
-                                "Name": destinatarioEmail
-                            }
-                        ],
-                        "Subject": subject,
-                        "TextPart": message,
-                        "CustomID": "NetlifySubmissionCreated"
-                    }
-                ]
-            });
-        request
-            .then((result) => {
-                fulfill(result.body);
-            })
-            .catch((err) => {
-                reject(err.statusCode);
-            });
+    const mailjet = require('node-mailjet')
+        .connect(process.env.MAILJET_APIKEY_PUBLIC, process.env.MAILJET_APIKEY_PRIVATE);
+        console.log(`mailjet está a punto de enviar:  desde ${senderEmail} para destino:  ${destinatarioEmail}. Texto:  ${message}. `);
+        
+    const request = mailjet
+        .post("send", { 'version': 'v3.1' })
+        .request({
+            "Messages": [
+                {
+                    "From": {
+                        "Email": senderEmail,
+                        "Name": senderName
+                    },
+                    "To": [
+                        {
+                            "Email": destinatarioEmail,
+                            "Name": destinatarioEmail
+                        }
+                    ],
+                    "Subject": subject,
+                    "TextPart": message,
+                    "CustomID": "NetlifySubmissionCreated"
+                }
+            ]
+        });
+        console.log(`mailjet 3.1 ya envió su mensaje. `);
 
-    });
+        return request;
+
+
 }
 
 exports.handler = async (event, context, callback) => {
