@@ -28,7 +28,7 @@ function sendEmail(client, message, senderEmail, senderName, destinatarioEmail) 
     });
 }
 
-exports.handler = async (event, context,callback) => { 
+exports.handler = async (event, context, callback) => {
     const {
         SENDGRID_API_KEY,
         SENDGRID_SENDER_NAME,
@@ -55,6 +55,12 @@ exports.handler = async (event, context,callback) => {
             case 'RL':
                 destinatario = DESTINATARIO_RL;
                 break;
+            case 'DI':
+                destinatario = DESTINATARIO_DI;
+                break;
+            case 'PI':
+                destinatario = DESTINATARIO_PI;
+                break;
             default:
                 break;
         }
@@ -72,11 +78,11 @@ exports.handler = async (event, context,callback) => {
             destinatario
         )
             .then(response => {
-                console.log("envio ok",response);
+                console.log("envio ok", response);
                 callback(null, { statusCode: response.statusCode });
             })
             .catch(err => {
-                console.log("envio con error",err);
+                console.log("envio con error", err);
                 callback(err, null);
             });
     }
