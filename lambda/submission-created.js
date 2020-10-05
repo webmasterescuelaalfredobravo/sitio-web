@@ -1,30 +1,46 @@
 /**
  * GESTIÓN DE ENVIOS DE FORMS. ESTE SCRIPT ES LLAMADO AUTOMATICAMENTE POR NETLIFY
  * CADA VEZ QUE SE ENVÍA UN FORM DE CONTACTO.
+ * 
+ * esta función utiliza los servicios de mailjet para el envío de mail
+ * 
  * @see https://docs.netlify.com/functions/trigger-on-events/#available-triggers
  * @see https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget/
- * @see https://rosso.codes/blog/send-email-using-netlify-functions-and-sendgrid-api/
  */
-const client = require("@sendgrid/mail");
 
-function sendEmail(client, message, senderEmail, senderName, destinatarioEmail) {
+function sendEmail(subject, message, senderEmail, senderName, destinatarioEmail) {
     return new Promise((fulfill, reject) => {
-        const data = {
-            from: {
-                email: senderEmail,
-                name: senderName
-            },
-            subject: 'Mensaje desde la página web',
-            to: destinatarioEmail,
-            html: `${message}`
-        };
-        console.log(data);
-        client
-            .send(data)
-            .then(([response, body]) => {
-                fulfill(response);
+        const mailjet = require('node-mailjet')
+            .connect(MAILJET_APIKEY_PUBLIC, MAILJET_APIKEY_PRIVATE);
+        const request = mailjet
+            .post("send", { 'version': 'v3.1' })
+            .request({
+                "Messages": [
+                    {
+                        "From": {
+                            "Email": senderEmail,
+                            "Name": senderName
+                        },
+                        "To": [
+                            {
+                                "Email": destinatarioEmail,
+                                "Name": destinatarioEmail
+                            }
+                        ],
+                        "Subject": subject,
+                        "TextPart": message,
+                        "CustomID": "NetlifySubmissionCreated"
+                    }
+                ]
+            });
+        request
+            .then((result) => {
+                fulfill(result.body);
             })
-            .catch(error => reject(error));
+            .catch((err) => {
+                reject(err.statusCode);
+            });
+
     });
 }
 
@@ -45,7 +61,7 @@ exports.handler = async (event, context, callback) => {
     const mensaje = JSON.parse(event.body).payload.data.message;
     let destinatario = "";
     console.log(event.body);
-    console.log(`Recieved a submission: ${email} para destino:  ${destinatario}. Texto:  ${mensaje}`);
+    console.log(`Mailjet service requerido: Recieved a submission: ${email} para destino:  ${destinatario}. Texto:  ${mensaje}. `);
     if (email && destinatarioPx && mensaje) {
         // el destinatario es un codigo
         switch (destinatarioPx) {
@@ -66,12 +82,12 @@ exports.handler = async (event, context, callback) => {
         }
 
         const mensajeAEnviar = `Se ha recibido un mensaje desde la página web (https://escuelaalfredobravo.edu.ar/contact). De: ${email} . Texto:  ${mensaje}`;
+        const subject = `Mensaje enviado desde la página de contacto del sitio web escuelaalfredobravo.edu.ar`;
 
 
-        client.setApiKey(SENDGRID_API_KEY);
 
         sendEmail(
-            client,
+            subject,
             mensajeAEnviar,
             SENDGRID_SENDER_EMAIL,
             SENDGRID_SENDER_NAME,
