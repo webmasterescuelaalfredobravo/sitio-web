@@ -58,7 +58,7 @@ exports.handler = async (event, context, callback) => {
     const mensaje = JSON.parse(event.body).payload.data.message;
     let destinatario = "";
 
-    const pubkey = JSON.parse(event.body).payload.data.destinatario;
+    const pubkey = JSON.parse(event.body).payload.data.pubkey;
     if (pubkey !== process.env.MAILJET_APIKEY_PUBLIC) {
         console.log("chau...no puedo hacer nada...");
         return {
