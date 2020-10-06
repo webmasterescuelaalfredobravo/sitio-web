@@ -8,12 +8,12 @@
  * @see https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget/
  */
 
-function sendEmail(subject, message, senderEmail, senderName, destinatarioEmail) {
+async function sendEmail(subject, message, senderEmail, senderName, destinatarioEmail) {
     const mailjet = require('node-mailjet')
         .connect(process.env.MAILJET_APIKEY_PUBLIC, process.env.MAILJET_APIKEY_PRIVATE);
-        console.log(`mailjet está a punto de enviar:  desde ${senderEmail} para destino:  ${destinatarioEmail}. Texto:  ${message}. `);
-        
-    const request = mailjet
+    console.log(`mailjet está a punto de enviar:  desde ${senderEmail} para destino:  ${destinatarioEmail}. Texto:  ${message}. `);
+
+    return mailjet
         .post("send", { 'version': 'v3.1' })
         .request({
             "Messages": [
@@ -34,9 +34,6 @@ function sendEmail(subject, message, senderEmail, senderName, destinatarioEmail)
                 }
             ]
         });
-        console.log(`mailjet 3.1 ya envió su mensaje. `);
-
-        return request;
 
 
 }
@@ -65,9 +62,9 @@ exports.handler = async (event, context, callback) => {
             // return null to show no errors
             statusCode: 200, // http status code
             body: JSON.stringify({
-              msg: "lo lamento chabon, pero no puedo hacer nada... " 
+                msg: "lo lamento chabon, pero no puedo hacer nada... "
             })
-          }
+        };
     }
 
     console.log(event.body);
@@ -96,21 +93,22 @@ exports.handler = async (event, context, callback) => {
 
 
 
-        sendEmail(
+        var response = await sendEmail(
             subject,
             mensajeAEnviar,
             SENDGRID_SENDER_EMAIL,
             SENDGRID_SENDER_NAME,
             destinatario
-        )
-            .then(response => {
-                console.log("envio ok", response);
-                callback(null, { statusCode: response.statusCode });
+        );
+
+        console.log("envio ok", response);
+        return {
+            // return null to show no errors
+            statusCode: 200, // http status code
+            body: JSON.stringify({
+                msg: "listo perro"
             })
-            .catch(err => {
-                console.log("envio con error", err);
-                callback(err, null);
-            });
+        };
     }
 
 };
