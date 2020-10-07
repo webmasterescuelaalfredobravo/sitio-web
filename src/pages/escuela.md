@@ -18,7 +18,7 @@ slide:
       envíanos un mensaje a través de la página de contacto. Te invitamos,
       además, a completar el siguiente formulario. Nos comunicaremos a la
       brevedad una vez que lo hayas enviado.
-    imagenfondo: /img/imagen-coop-01.svg
+    imagenfondo: /img/imagen-novedades-laescuela.svg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
 notas:
   - texto: >
@@ -53,7 +53,7 @@ notas:
       ocupacionales de: proyecto, dirección, planificación, control, gestión,
       administración y comercialización en la industria de la construcción...
 
-    imagen: /img/bravo-img-013.jpg
+    imagen: /img/14.svg
     alineado: derecha
     fecha: El perfil profesional , las habilitaciones profesionales y la carga horaria
     link: https://drive.google.com/file/d/1ROBz64_75Lqq9KxdiJ91gnldyS4mGm0V/view?usp=sharing
