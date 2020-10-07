@@ -10,7 +10,7 @@ slideppal:
   - texto: "Se encuentran abiertas la pre-matriculaciones para el ciclo lectivo
       2021: si deseas sumarte a nuestro proyecto educativo..."
     imagenfondo: /img/bravo-img-001.jpg
-    link: /escuela
+    link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
     alineado: derecha
   - texto: En el contexto de la pandemia que condiciona la re-invención de la tarea
       pedagógica, sumamos hoy esta nueva herramienta para el encuentro en el
