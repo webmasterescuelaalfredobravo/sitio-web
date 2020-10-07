@@ -4,7 +4,7 @@ path: /escuela
 title: Escuela
 slide:
   - titulo: NUESTRO INSTITUTO EN LA VIRTUALIDAD
-    fecha: Aplicaciones digitales para la enseñanza y el aprendizaje
+    fecha: Aplicaciones para la enseñanza y el aprendizaje
     texto: El impacto de la pandemia significa el desafío de explorar las
       posibilidades de la enseñanza y del aprendizaje en la virtualidad. Por
       ello a partir de la segunda parte del 2020 optamos por migrar todas
