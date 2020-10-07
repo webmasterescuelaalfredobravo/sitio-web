@@ -51,10 +51,9 @@ slide:
     texto: Para el pago de las cuotas escolares les recomendamos la utilización de
       los medios de pago indicados, que se utilizan a partir del Código de Pago
       (que es uno por estudiante para todo el ciclo lectivo) al que pueden
-      acceder siguiendo las indicaciones que arriba se establecen. Para
-      consultas relativas a lo administrativo lo invitamos realizarla desde la
-      página de contacto, seleccionando en la pestaña de contacto “Área
-      Administración”.
+      acceder siguiendo las indicaciones. Para consultas, invitamos a
+      realizarlas desde la página de contacto, seleccionando en la pestaña de
+      contacto “Área Administración”.
     imagenfondo: /img/imagen-coop-02-blanco-01.svg
     fecha: Contacto y formas de pago
   - titulo: MATRICULA CICLO LECTIVO 2021
