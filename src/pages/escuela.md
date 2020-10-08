@@ -54,7 +54,7 @@ notas:
     imagen: /img/b1.png
     titulo: NUESTRO CAMINO, UNA EDUCACIÓN CRÍTICA Y COOPERATIVA
     alineado: izquierda
-    link: https://drive.google.com/file/d/15D2ZG3HU--mWzVstiVbKDDDUp0SDdkov/view?usp=sharing
+    link: https://drive.google.com/file/d/1CF2R9_tRQ9BorXDMv0AC2ipdPirs2IVT/view?usp=sharing
     fecha: Para que otros mundos sean posibles
   - titulo: MAESTRO MAYOR DE OBRAS
     texto: >+
