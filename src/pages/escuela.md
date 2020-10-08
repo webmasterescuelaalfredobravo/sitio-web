@@ -20,11 +20,17 @@ slide:
       brevedad una vez que lo hayas enviado.
     imagenfondo: /img/imagen-novedades-laescuela.svg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
-  - titulo: Homenaje a Quino
+  - titulo: HOMENAJE A QUINO
     imagenfondo: /img/quino-coope-04.jpg
-    texto: Mafalda, Felipe, Manolito, Susanita, Guille, Libertad, trascendieron los
-      límites de la viñeta, para ser parte de la vida de varias generaciones...
-    fecha: Joaquín Salvador Lavado (julio 1932- setiembre 2020)
+    texto: Mafalda, Felipe, Guille, Manolito, Susanita, Miguelito, Libertad,
+      trascendieron los límites de las viñetas...
+    fecha: Joaquín Salvador Lavado Tejón (julio 1932- setiembre 2020)
+  - titulo: HOMENAJE A QUINO
+    fecha: Joaquín Salvador Lavado Tejón (julio 1932- setiembre 2020)
+    texto: "y son parte de nuestro mundo y nuestra vida: hemos aprendido a
+      reconocerlos en nosotros mismos y, por eso, nos han hecho mejores
+      personas."
+    imagenfondo: /img/quino-coope-04.jpg
 notas:
   - texto: >
       
