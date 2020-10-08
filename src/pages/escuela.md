@@ -21,7 +21,7 @@ slide:
     imagenfondo: /img/imagen-novedades-laescuela.svg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
   - titulo: HOMENAJE A QUINO (1)
-    imagenfondo: /img/quino-coope-04.jpg
+    imagenfondo: /img/c1.jpg
     texto: "Mafalda, Felipe, Guille, Manolito, Susanita, Miguelito, Libertad, los
       personajes de uno de los más grandes artistas de la historieta de nuestro
       país, no solamente trascendieron las fronteras: traspasaron también los
@@ -32,7 +32,7 @@ slide:
     texto: "y son parte de nuestra vida: hemos aprendido a reconocernos en cada uno
       de ellos y por eso mismo, nos han hecho mejores personas y han hecho del
       mundo un lugar mejor. Gracias Quino!"
-    imagenfondo: /img/quino-coope-04.jpg
+    imagenfondo: /img/c2.jpg
 notas:
   - texto: >
       
