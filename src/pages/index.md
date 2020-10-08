@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: Les damos la bienvenida a la página web de nuestro Instituto, adscripto a
-      la enseñanza oficial de la provincia de Córdoba, propiedad de la
-      Cooperativa de Trabajo Maestro Alfredo Bravo.
+  - texto: Les damos la bienvenida a nuestro Instituto Técnico Maestro Alfredo
+      Bravo, adscripto a la enseñanza oficial del medio de la provincia de
+      Córdoba, propiedad de la Cooperativa de Trabajo Maestro Alfredo Bravo.
     imagenfondo: /img/img-home-532x532-001_fondo.svg
     link: /escuela
     alineado: izquierda
