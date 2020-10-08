@@ -22,8 +22,10 @@ slide:
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
   - titulo: HOMENAJE A QUINO (1)
     imagenfondo: /img/quino-coope-04.jpg
-    texto: Mafalda, Felipe, Guille, Manolito, Susanita, Miguelito, Libertad,
-      trascendieron los límites de las viñetas...
+    texto: "Mafalda, Felipe, Guille, Manolito, Susanita, Miguelito, Libertad, los
+      personajes de uno de los más grandes artistas de la historieta de nuestro
+      país, no solamente trascendieron las fronteras: traspasaron también los
+      límites de las viñetas..."
     fecha: Joaquín Salvador Lavado Tejón (julio 1932- setiembre 2020)
   - titulo: HOMENAJE A QUINO (2)
     fecha: Joaquín Salvador Lavado Tejón (julio 1932- setiembre 2020)
