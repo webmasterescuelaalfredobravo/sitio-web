@@ -21,18 +21,26 @@ slide:
     imagenfondo: /img/imagen-novedades-laescuela.svg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
   - titulo: HOMENAJE A QUINO (1)
-    imagenfondo: /img/c3.jpg
-    texto: "Mafalda, Felipe, Guille, Manolito, Susanita, Miguelito, Libertad, los
-      personajes de uno de los más grandes artistas de la historieta de nuestro
-      país, no solamente trascendieron las fronteras: traspasaron también los
-      límites de las viñetas..."
-    fecha: Joaquín Salvador Lavado Tejón (julio 1932- setiembre 2020)
+    imagenfondo: /img/c4.jpg
+    texto: Cuando Joaquín Salvador Lavado Tejón, Quino, (julio 1932- setiembre
+      2020), uno de los más grandes humoristas gráficos de nuestro país, publicó
+      en el periódico Primera Plana por primera vez su historieta, un 29 de
+      septiembre de 1964, no sabía que sus personajes, Mafalda, Felipe, Guille,
+      Manolito, Susanita, Miguelito, Libertad,  trascenderían las fronteras de
+      nuestro país, para traducirse a muchísimos idiomas y transformarse en
+      íconos de la cultura contemporánea.
+    fecha: Un constructor de utopías
   - titulo: HOMENAJE A QUINO (2)
-    fecha: Joaquín Salvador Lavado Tejón (julio 1932- setiembre 2020)
-    texto: "y son parte de nuestra vida: hemos aprendido a reconocernos en cada uno
-      de ellos y por eso mismo, nos han hecho mejores personas y han hecho del
-      mundo un lugar mejor. Gracias Quino!"
-    imagenfondo: /img/c2.jpg
+    fecha: Un constructor de utopías
+    texto: "Pero ellos no solamente trascendieron fronteras geográficas y
+      culturales, también traspasaron los límites de la viñeta para ser parte de
+      nuestra vida: hemos tropezado con Mafaldas Manolitos, Miguelitos, Guilles,
+      Susanitas y Felipes en nuestra realidad, y a reconocerlos también, un
+      poco, en nosotros mismos. Y es por eso que Quino, parte esa generación, la
+      de los años '60, que se sostenía en el ideal de \"cambiar el mundo\", nos
+      convierte en mejores personas y hace del mundo un lugar mejor. Como el
+      cooperativismo. Gracias Quino!"
+    imagenfondo: /img/c3.jpg
 notas:
   - texto: >
       
