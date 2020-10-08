@@ -54,7 +54,7 @@ slide:
       acceder siguiendo las indicaciones. Para consultas, invitamos a
       realizarlas desde la página de contacto, seleccionando en la pestaña de
       contacto “Área Administración”.
-    imagenfondo: /img/imagen-coop-02-blanco-01.svg
+    imagenfondo: /img/a7.jpg
     fecha: Contacto y formas de pago
   - titulo: MATRICULA CICLO LECTIVO 2021
     texto: Atendiendo a la difícil situación actual, la Cooperativa ha decidido
