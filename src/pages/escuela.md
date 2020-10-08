@@ -21,7 +21,7 @@ slide:
     imagenfondo: /img/imagen-novedades-laescuela.svg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
   - titulo: HOMENAJE A QUINO (1)
-    imagenfondo: /img/c1.jpg
+    imagenfondo: /img/c3.jpg
     texto: "Mafalda, Felipe, Guille, Manolito, Susanita, Miguelito, Libertad, los
       personajes de uno de los más grandes artistas de la historieta de nuestro
       país, no solamente trascendieron las fronteras: traspasaron también los
