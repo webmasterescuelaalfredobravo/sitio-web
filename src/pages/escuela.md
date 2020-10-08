@@ -130,7 +130,7 @@ notas:
       democráticamente gestionada. En nuestro caso, como cooperativa de trabajo,
       formamos la Cooperativa quienes trabajamos en "el Bravo"....
     alineado: izquierda
-    imagen: /img/imagen-coop-01.svg
+    imagen: /img/1.svg
     link: https://drive.google.com/file/d/1xCjmUP0f5AgZ2tDUBaZdZeJEkskFuoyj/view?usp=sharing
     fecha: Un poco de (nuestra) historia
 ---
