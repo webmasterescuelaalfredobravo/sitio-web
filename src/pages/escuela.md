@@ -35,10 +35,10 @@ slide:
     texto: "Pero ellos no solamente trascendieron fronteras geográficas y
       culturales, también traspasaron los límites de la viñeta para ser parte de
       nuestra vida: hemos tropezado con Mafaldas Manolitos, Miguelitos, Guilles,
-      Susanitas y Felipes en nuestra realidad, y a reconocerlos también, un
-      poco, en nosotros mismos. Y es por eso que Quino, parte esa generación, la
-      de los años '60, que se sostenía en el ideal de \"cambiar el mundo\", nos
-      convierte en mejores personas y hace del mundo un lugar mejor. Como el
+      Susanitas y Felipes en nuestra realidad, y también los hemos reconocido,
+      un poco, en nosotros mismos. Y es por eso que Quino, parte esa generación,
+      la de los años '60, que se sostenía en el ideal de \"cambiar el mundo\",
+      nos convierte en mejores personas y hace del mundo un lugar mejor. Como el
       cooperativismo. Gracias Quino!"
     imagenfondo: /img/c3.jpg
 notas:
