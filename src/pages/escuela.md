@@ -27,9 +27,9 @@ slide:
     fecha: Joaquín Salvador Lavado Tejón (julio 1932- setiembre 2020)
   - titulo: HOMENAJE A QUINO (2)
     fecha: Joaquín Salvador Lavado Tejón (julio 1932- setiembre 2020)
-    texto: "y son parte de nuestro mundo y nuestra vida: hemos aprendido a
-      reconocerlos en nosotros mismos y, por eso, nos han hecho mejores
-      personas."
+    texto: "y son parte de nuestra vida: hemos aprendido a reconocernos en cada uno
+      de ellos y por eso mismo, nos han hecho mejores personas y han hecho del
+      mundo un lugar mejor. Gracias Quino!"
     imagenfondo: /img/quino-coope-04.jpg
 notas:
   - texto: >
