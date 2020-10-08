@@ -9,7 +9,7 @@ slide:
       posibilidades de la enseñanza y del aprendizaje en la virtualidad. Por
       ello a partir de la segunda parte del 2020 optamos por migrar todas
       nuestras actividades al paquete de G-Suite for Education...
-    imagenfondo: /img/b1.png
+    imagenfondo: /img/b2.jpg
     link: https://drive.google.com/file/d/1qcT02m1QVHklQ_vWhiSyskk9dlM2koyN/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021
     fecha: Sumate como estudiante a nuestra comunidad educativa
@@ -51,7 +51,7 @@ notas:
       con dos secundarios, ninguno de ellos de modalidad técnica. Fue fruto de
       la visión de un grupo de personas que a fines de 2003 conformaron nuestra
       Cooperativa de Trabajo Maestro Alfredo Bravo Ltda...
-    imagen: /img/bravo-img-013.jpg
+    imagen: /img/b1.png
     titulo: NUESTRO CAMINO, UNA EDUCACIÓN CRÍTICA Y COOPERATIVA
     alineado: izquierda
     link: https://drive.google.com/file/d/15D2ZG3HU--mWzVstiVbKDDDUp0SDdkov/view?usp=sharing
