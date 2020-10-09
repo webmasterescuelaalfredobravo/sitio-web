@@ -1,10 +1,9 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: "Les damos la bienvenida a nuestro Instituto Técnico Maestro Alfredo
-      Bravo, una propuesta de enseñanza basada en tres ejes
-      fundamentales:  educación cooperativa, mediación y articulación entre los
-      mundos de la escuela y el trabajo a través de la formación técnica."
+  - texto: Les damos la bienvenida a nuestro Instituto, una propuesta de enseñanza
+      basada en educación cooperativa, mediación y articulación entre los mundos
+      de la escuela y el trabajo a través de la formación técnica.
     imagenfondo: /img/img-home-532x532-001_fondo.svg
     link: /escuela
     alineado: izquierda
