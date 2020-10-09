@@ -32,7 +32,7 @@ slide:
     fecha: Un constructor de utopías
   - titulo: HOMENAJE A QUINO (2)
     fecha: Un constructor de utopías
-    texto: Menos podría haber imaginado que ello no sólo trascenderían límites
+    texto: Menos podría haber imaginado que ellos no sólo trascenderían límites
       geográficas y culturales, sino también el contorno de la viñeta. Son parte
       de nuestra vida, tropezamos a cada rato con Mafaldas, Manolitos,
       Miguelitos, Guilles, Libertades, Susanitas y Felipes, y otras tantas nos
