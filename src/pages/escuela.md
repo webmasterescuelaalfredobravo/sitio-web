@@ -28,18 +28,19 @@ slide:
       1964, no sabía que su historieta se traduciría a muchísimos idiomas  ni
       que sus personajes, Mafalda, Felipe, Guille, Manolito, Susanita,
       Miguelito, Libertad,  cruzarían las fronteras de nuestro país para
-      transformarse en íconos de la cultura contemporánea.
+      transformarse en íconos de la cultura contemporánea. Menos podría haber
+      imaginado que...
     fecha: Un constructor de utopías
   - titulo: HOMENAJE A QUINO (2)
     fecha: Un constructor de utopías
-    texto: Menos podría haber imaginado que ellos no sólo trascenderían límites
-      geográficas y culturales, sino también el contorno de la viñeta. Son parte
-      de nuestra vida, tropezamos a cada rato con Mafaldas, Manolitos,
-      Miguelitos, Guilles, Libertades, Susanitas y Felipes, y otras tantas nos
-      hemos reconocido en ellos, nosotros mismos. Y es por eso que Quino, parte
-      esa generación, la de los años '60, que se sostenía en el ideal de
-      "cambiar el mundo", nos ha convertido en mejores personas y ha hecho del
-      mundo un lugar mejor. Como el cooperativismo. ¡Gracias Quino!
+    texto: ...no sólo trascenderían límites geográficas y culturales, sino también
+      el contorno de la viñeta. Son parte de nuestra vida, tropezamos a cada
+      rato con Mafaldas, Manolitos, Miguelitos, Guilles, Libertades, Susanitas y
+      Felipes, y otras tantas nos hemos reconocido en ellos, nosotros mismos. Y
+      es por eso que Quino, parte esa generación, la de los años '60, que se
+      sostenía en el ideal de "cambiar el mundo", nos ha convertido en mejores
+      personas y ha hecho del mundo un lugar mejor. Como el cooperativismo.
+      ¡Gracias Quino!
     imagenfondo: /img/c3.jpg
 notas:
   - texto: >
