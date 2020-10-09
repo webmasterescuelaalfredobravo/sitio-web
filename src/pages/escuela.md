@@ -24,11 +24,11 @@ slide:
     imagenfondo: /img/c4.jpg
     texto: Cuando Joaquín Salvador Lavado Tejón, Quino, (julio 1932- setiembre
       2020), uno de los más grandes humoristas gráficos de nuestro país, publicó
-      en el periódico Primera Plana por primera vez su historieta, un 29 de
-      septiembre de 1964, no sabía que sus personajes, Mafalda, Felipe, Guille,
-      Manolito, Susanita, Miguelito, Libertad,  trascenderían las fronteras de
-      nuestro país, para traducirse a muchísimos idiomas y transformarse en
-      íconos de la cultura contemporánea.
+      su primera tira en el periódico Primera Plana, un 29 de septiembre de
+      1964, no sabía que su historieta se traduciría a muchísimos idiomas  ni
+      que sus personajes, Mafalda, Felipe, Guille, Manolito, Susanita,
+      Miguelito, Libertad,  trascenderían las fronteras de nuestro país para
+      transformarse en íconos de la cultura contemporánea.
     fecha: Un constructor de utopías
   - titulo: HOMENAJE A QUINO (2)
     fecha: Un constructor de utopías
