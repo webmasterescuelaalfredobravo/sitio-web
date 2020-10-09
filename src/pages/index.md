@@ -1,9 +1,10 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: Les damos la bienvenida a nuestro Instituto Técnico Maestro Alfredo
-      Bravo, adscripto a la enseñanza oficial de nivel medio de la provincia de
-      Córdoba, propiedad de la Cooperativa de Trabajo Maestro Alfredo Bravo.
+  - texto: "Les damos la bienvenida a nuestro Instituto Técnico Maestro Alfredo
+      Bravo, una propuesta de enseñanza basada en tres ejes
+      fundamentales:  educación cooperativa, mediación y articulación entre los
+      mundos de la escuela y el trabajo a través de la formación técnica."
     imagenfondo: /img/img-home-532x532-001_fondo.svg
     link: /escuela
     alineado: izquierda
@@ -21,9 +22,10 @@ slideppal:
     link: /escuela
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
-    texto: "Nuestra escuela secundaria propone una experiencia formativa a partir de
-      tres ejes fundamentales:  educación cooperativa, mediación y la
-      articulación entre los mundos de la escuela y el trabajo a través de  la
-      enseñanza técnica. Te invitamos a conocer nuestra propuesta educativa."
+    texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
+      encuentra adscripto a la Dirección General de Institutos Privados de
+      Enseñanza (DGIPE), del Ministerio de Educación de Córdoba. Es propiedad de
+      la Cooperativa de Trabajo Maestro Alfredo Bravo, Matrícula Nac. N° 26.534
+      - INAES - Res. Provincial N° 2.571
     link: /escuela
 ---
