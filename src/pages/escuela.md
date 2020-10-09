@@ -139,6 +139,6 @@ notas:
       formamos la Cooperativa quienes trabajamos en "el Bravo"....
     alineado: izquierda
     imagen: /img/1.svg
-    link: https://drive.google.com/file/d/1xCjmUP0f5AgZ2tDUBaZdZeJEkskFuoyj/view?usp=sharing
+    link: https://drive.google.com/file/d/1efe35UD3Nh3Wrt9vVuM71ptvDY1b-XH6/view?usp=sharing
     fecha: Un poco de (nuestra) historia
 ---
