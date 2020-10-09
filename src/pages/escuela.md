@@ -32,14 +32,14 @@ slide:
     fecha: Un constructor de utopías
   - titulo: HOMENAJE A QUINO (2)
     fecha: Un constructor de utopías
-    texto: "Pero ellos no solamente trascendieron fronteras geográficas y
-      culturales, también traspasaron los límites de la viñeta para ser parte de
-      nuestra vida: hemos tropezado con Mafaldas Manolitos, Miguelitos, Guilles,
-      Susanitas y Felipes en nuestra realidad, y también los hemos reconocido,
-      un poco, en nosotros mismos. Y es por eso que Quino, parte esa generación,
-      la de los años '60, que se sostenía en el ideal de \"cambiar el mundo\",
-      nos convierte en mejores personas y hace del mundo un lugar mejor. Como el
-      cooperativismo. Gracias Quino!"
+    texto: Menos podría haber imaginado que no solamente trascenderían fronteras
+      geográficas y culturales, sino también los límites de la viñeta. Son parte
+      de nuestra vida, tropezamos a cada rato con Mafaldas Manolitos,
+      Miguelitos, Guilles, Susanitas y Felipes, y además nos hemos reconocido en
+      ellos, otras tantas, nosotros mismos. Y es por eso que Quino, parte esa
+      generación, la de los años '60, que se sostenía en el ideal de "cambiar el
+      mundo", nos convierte en mejores personas y hace del mundo un lugar mejor.
+      Como el cooperativismo. Gracias Quino!
     imagenfondo: /img/c3.jpg
 notas:
   - texto: >
