@@ -1,11 +1,10 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: "Luego de un año tan difícil, queremos compartir la satisfacción de haber
-      logrado, en ese contexto, seguir construyendo, colectivamente, nuestro
-      hermoso proyecto educativo. Quienes integramos la Cooperativa de Trabajo
-      que da vida, junto a ustedes, a nuestro querido Bravo, les compartimos los
-      mejores deseos para el 2021. "
+  - texto: "Compartimos la satisfacción de haber logrado, en el difícil 2020, seguir
+      construyendo, colectivamente, nuestra hermosa escuela. Quienes integramos
+      la Cooperativa de Trabajo que da vida, junto a ustedes, a nuestro querido
+      Bravo, les compartimos los mejores deseos para el 2021. "
     imagenfondo: /img/img-home-532x532-001_fondo.svg
     link: /escuela
     alineado: izquierda
