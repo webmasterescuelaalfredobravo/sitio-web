@@ -13,9 +13,9 @@ slideppal:
     imagenfondo: /img/bravo-img-001.jpg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
     alineado: derecha
-  - texto: En el contexto de la pandemia que condiciona la re-invención de la tarea
-      pedagógica, sumamos hoy esta nueva herramienta para el encuentro en el
-      trabajo de enseñar y aprender.
+  - texto: En el contexto que condiciona la re-invención de la tarea pedagógica,
+      sumamos nuevas herramienta para el encuentro en el trabajo de enseñar y
+      aprender.
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
