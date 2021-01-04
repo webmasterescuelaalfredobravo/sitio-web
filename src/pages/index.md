@@ -8,8 +8,8 @@ slideppal:
     link: /escuela
     alineado: izquierda
   - texto: "Se encuentran abiertas la pre-matriculaciones para el ciclo lectivo
-      2021: si deseas sumarte a nuestro proyecto educativo le invitamos a
-      escribirnos a través de la pestaña Contacto y a completar..."
+      2021: te invitamos a escribirnos a través de la pestaña Contacto y a
+      completar..."
     imagenfondo: /img/bravo-img-001.jpg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
     alineado: derecha
