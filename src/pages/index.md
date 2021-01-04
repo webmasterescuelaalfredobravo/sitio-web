@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: "Orgullosos de seguir construyendo junto a ustedes, nuestra hermosa
+  - texto: "Con el orgullo de seguir construyendo junto a ustedes nuestra hermosa
       escuela, quienes integramos la Cooperativa les compartimos los mejores
       deseos para el 2021. "
     imagenfondo: /img/img-home-532x532-001_fondo.svg
