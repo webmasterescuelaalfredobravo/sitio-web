@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: Sobre el comienzo de la actividad escolar en esta última etapa del ciclo
+  - texto: Sobre el comienzo de la actividad escolar de la última etapa del ciclo
       escolar 2020 y el comienzo de las actividades del 2021 previstas para el 1
       de marzo
     imagenfondo: /img/img-home-532x532-001_fondo.svg
-    link: https://drive.google.com/file/d/1BwxEo2yIQ5MTKlj9YQzmh1RswPKwzfCR/view?usp=sharing
+    link: https://drive.google.com/file/d/12hjcE5KAwk4Vtt37UOqrTGVrNl7z-mfm/view?usp=sharing
     alineado: izquierda
   - texto: "Se encuentran abiertas la pre-matriculaciones para el ciclo lectivo
       2021: te invitamos a escribirnos a través de la pestaña Contacto y a
