@@ -3,14 +3,6 @@ templateKey: escuela-page
 path: /escuela
 title: Escuela
 slide:
-  - titulo: NUESTRO INSTITUTO EN LA VIRTUALIDAD
-    fecha: Aplicaciones para la enseñanza y el aprendizaje
-    texto: El impacto de la pandemia significa el desafío de explorar las
-      posibilidades de la enseñanza y del aprendizaje en la virtualidad. Por
-      ello a partir de la segunda parte del 2020 optamos por migrar todas
-      nuestras actividades al paquete de G-Suite for Education...
-    imagenfondo: /img/b2.jpg
-    link: https://drive.google.com/file/d/1bTE_ZentI3OyKWt9VLUtjB0LaWve3lrv/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021
     fecha: Sumate como estudiante a nuestra comunidad educativa
     texto: Se encuentran abiertas las pre matriculaciones para el ciclo lectivo
@@ -20,28 +12,14 @@ slide:
       brevedad una vez que lo hayas enviado.
     imagenfondo: /img/imagen-novedades-laescuela.svg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
-  - titulo: HOMENAJE A QUINO (1)
-    imagenfondo: /img/c4.jpg
-    texto: Cuando Joaquín Salvador Lavado Tejón, Quino, (julio 1932- setiembre
-      2020), uno de los más grandes humoristas gráficos de nuestro país, publicó
-      su primera tira en el periódico Primera Plana, un 29 de septiembre de
-      1964, no sabía que su historieta se traduciría a muchísimos idiomas  ni
-      que sus personajes, Mafalda, Felipe, Guille, Manolito, Susanita,
-      Miguelito, Libertad,  cruzarían las fronteras de nuestro país para
-      transformarse en íconos de la cultura contemporánea. Menos podría haber
-      imaginado que...
-    fecha: Un constructor de utopías
-  - titulo: HOMENAJE A QUINO (2)
-    fecha: Un constructor de utopías
-    texto: ...no sólo trascenderían límites geográficas y culturales, sino también
-      el contorno de la viñeta. Son parte de nuestra vida, tropezamos a cada
-      rato con Mafaldas, Manolitos, Miguelitos, Guilles, Libertades, Susanitas y
-      Felipes, y otras tantas nos hemos reconocido en ellos, nosotros mismos. Y
-      es por eso que Quino, parte esa generación, la de los años '60, que se
-      sostenía en el ideal de "cambiar el mundo", nos ha convertido en mejores
-      personas y ha hecho del mundo un lugar mejor. Como el cooperativismo.
-      ¡Gracias Quino!
-    imagenfondo: /img/c3.jpg
+  - titulo: NUEVAS HERRAMIENTAS PARA APRENDER Y ENSEÑAR
+    fecha: Aplicaciones para la enseñanza y el aprendizaje
+    texto: El impacto de la pandemia significa el desafío de explorar las
+      posibilidades de la enseñanza y del aprendizaje en la virtualidad. Por
+      ello a partir de la segunda parte del 2020 optamos por migrar todas
+      nuestras actividades al paquete de G-Suite for Education...
+    imagenfondo: /img/b2.jpg
+    link: https://drive.google.com/file/d/1bTE_ZentI3OyKWt9VLUtjB0LaWve3lrv/view?usp=sharing
 notas:
   - texto: >
       
