@@ -13,7 +13,7 @@ slide:
     imagenfondo: /img/imagen-novedades-laescuela.svg
     link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
   - titulo: NUEVAS HERRAMIENTAS PARA APRENDER Y ENSEÑAR
-    fecha: Aplicaciones para la enseñanza y el aprendizaje
+    fecha: Aplicaciones para un nuevo contexto
     texto: El impacto de la pandemia significa el desafío de explorar las
       posibilidades de la enseñanza y del aprendizaje en la virtualidad. Por
       ello a partir de la segunda parte del 2020 optamos por migrar todas
