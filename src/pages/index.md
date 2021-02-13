@@ -27,4 +27,8 @@ notacorta:
       la Cooperativa de Trabajo Maestro Alfredo Bravo, Matrícula Nac. N° 26.534
       - INAES - Res. Provincial N° 2.571
     link: /escuela
+  - titulo: Protocolo para el retorno a la presencialidad
+    texto: En el siguiente link el protocolo para un retorno seguro que será
+      paulatino, progresivo y rotativo
+    link: https://drive.google.com/file/d/1iyL8-VaXdv78YzagKOZKvZ9cG5nwePl8/view?usp=sharing
 ---
