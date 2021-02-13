@@ -2,8 +2,7 @@
 templateKey: index-page
 slideppal:
   - texto: Sobre el comienzo de la actividad escolar de la última etapa del ciclo
-      escolar 2020 y el comienzo de las actividades del 2021 previstas para el 1
-      de marzo
+      escolar 2020 y el comienzo de las actividades del 2021 desde el 1 de marzo
     imagenfondo: /img/img-home-532x532-001_fondo.svg
     link: https://drive.google.com/file/d/12hjcE5KAwk4Vtt37UOqrTGVrNl7z-mfm/view?usp=sharing
     alineado: izquierda
