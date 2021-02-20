@@ -2,7 +2,7 @@
 templateKey: index-page
 slideppal:
   - texto: "Los días 23, 24 y 25 de febrero, realizaremos reuniones con las familias
-      de nuestra comunidad educativa sobre el ciclo lectivo 2021 "
+      de nuestra comunidad educativa sobre la modalidad del ciclo lectivo 2021 "
     alineado: derecha
     imagenfondo: /img/7.svg
     link: /escuela
