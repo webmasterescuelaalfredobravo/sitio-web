@@ -9,7 +9,7 @@ slide:
       características del ciclo lectivo del presente año.
     imagenfondo: /img/a4.jpg
     fecha: Para las familias de ingresantes a primer año
-    link: https://drive.google.com/file/d/1tAsXM_tYpoLQqctHtIwExKmjl51XK_py/view?usp=sharing
+    link: https://drive.google.com/file/d/1CrlhdgG0msAwW--1hghNf4oswoLUBbdX/view?usp=sharing
   - titulo: Reunión informativa sobre el ciclo lectivo 2021
     texto: El día 24 de febrero a las 16 horas, de manera virtual se realizará un
       encuentro con la finalidad de informar a las familias sobre las
@@ -17,6 +17,13 @@ slide:
     fecha: Para familias de estudiantes de 2do y 3er año
     link: https://drive.google.com/file/d/17QgmWl83cWKSPOI4DGvIUGhM3o_OGkYX/view?usp=sharing
     imagenfondo: /img/a7.jpg
+  - titulo: Reunión informativa sobre el ciclo lectivo 2021
+    texto: El día 25 de febrero a las 16 horas, de manera virtual se realizará un
+      encuentro con la finalidad de informar a las familias sobre las
+      características del ciclo lectivo del presente año.
+    imagenfondo: /img/a5.jpg
+    fecha: Para familias de estudiantes de 4to a 7mo año.
+    link: https://drive.google.com/file/d/1K_LtGareWGYODxN8DQ2uVltyTHHJ3ARP/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021
     fecha: Sumate como estudiante a nuestra comunidad educativa
     texto: Se encuentran abiertas las pre matriculaciones para el ciclo lectivo
@@ -34,13 +41,6 @@ slide:
       nuestras actividades al paquete de G-Suite for Education...
     imagenfondo: /img/b2.jpg
     link: https://drive.google.com/file/d/1bTE_ZentI3OyKWt9VLUtjB0LaWve3lrv/view?usp=sharing
-  - titulo: Reunión informativa sobre el ciclo lectivo 2021
-    texto: El día 25 de febrero a las 16 horas, de manera virtual se realizará un
-      encuentro con la finalidad de informar a las familias sobre las
-      características del ciclo lectivo del presente año.
-    imagenfondo: /img/a5.jpg
-    fecha: Para familias de estudiantes de 4to a 7mo año.
-    link: https://drive.google.com/file/d/1K_LtGareWGYODxN8DQ2uVltyTHHJ3ARP/view?usp=sharing
 notas:
   - texto: >
       
