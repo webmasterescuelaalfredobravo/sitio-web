@@ -1,6 +1,11 @@
 ---
 templateKey: index-page
 slideppal:
+  - texto: "Los días 23, 24 y25 de febrero, realizaremos reuniones con las familias
+      sobre el ciclo lectivo 2021 "
+    alineado: derecha
+    imagenfondo: /img/12.svg
+    link: /escuela
   - texto: Sobre el comienzo de la actividad escolar de la última etapa del ciclo
       escolar 2020 y el comienzo de las actividades del 2021 desde el 1 de marzo
     imagenfondo: /img/img-home-532x532-001_fondo.svg
