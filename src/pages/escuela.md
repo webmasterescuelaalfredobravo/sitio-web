@@ -20,6 +20,11 @@ slide:
       nuestras actividades al paquete de G-Suite for Education...
     imagenfondo: /img/b2.jpg
     link: https://drive.google.com/file/d/1bTE_ZentI3OyKWt9VLUtjB0LaWve3lrv/view?usp=sharing
+  - titulo: Reunión informativa sobre el ciclo lectivo 2021
+    texto: El día 23 de febrero a as 16 horas, de manera virtual se realizará un
+      encuentro...
+    imagenfondo: /img/a4.jpg
+    fecha: Para las familias de ingresantes a primer año
 notas:
   - texto: >
       
