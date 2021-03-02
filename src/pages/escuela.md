@@ -3,13 +3,13 @@ templateKey: escuela-page
 path: /escuela
 title: Escuela
 slide:
-  - titulo: Reunión informativa sobre el ciclo lectivo 2021
-    texto: El día 23 de febrero a las 16 horas, de manera virtual, se realizará un
-      encuentro con la finalidad de informar a las familias sobre las
-      características del ciclo lectivo del presente año.
-    imagenfondo: /img/a4.jpg
-    fecha: Para las familias de ingresantes a primer año
-    link: https://drive.google.com/file/d/1CrlhdgG0msAwW--1hghNf4oswoLUBbdX/view?usp=sharing
+  - titulo: Algunas cuestiones importantes en el comienzo del ciclo lectivo 2021
+    texto: El 23, 24 y 25 de febrero se llevaron adelante reuniones con familias de
+      los distintos cursos de nuestra escuela. Resumimos los aspectos
+      fundamentales tratados en tales encuentros...
+    imagenfondo: /img/3.svg
+    fecha: 1 de marzo de 2021
+    link: https://drive.google.com/file/d/1BV2duJCEiHFm8kfbllF-xxL8vC7CljIh/view?usp=sharing
   - titulo: Reunión informativa sobre el ciclo lectivo 2021
     texto: El día 24 de febrero a las 16 horas, de manera virtual, se realizará un
       encuentro con la finalidad de informar a las familias sobre las
