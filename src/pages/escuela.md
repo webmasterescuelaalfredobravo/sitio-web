@@ -10,20 +10,6 @@ slide:
     imagenfondo: /img/3.svg
     fecha: 1 de marzo de 2021
     link: https://drive.google.com/file/d/1BV2duJCEiHFm8kfbllF-xxL8vC7CljIh/view?usp=sharing
-  - titulo: Reunión informativa sobre el ciclo lectivo 2021
-    texto: El día 24 de febrero a las 16 horas, de manera virtual, se realizará un
-      encuentro con la finalidad de informar a las familias sobre las
-      características del ciclo lectivo del presente año.
-    fecha: Para familias de estudiantes de 2do y 3er año
-    link: https://drive.google.com/file/d/17QgmWl83cWKSPOI4DGvIUGhM3o_OGkYX/view?usp=sharing
-    imagenfondo: /img/a7.jpg
-  - titulo: Reunión informativa sobre el ciclo lectivo 2021
-    texto: El día 25 de febrero a las 16 horas, de manera virtual, se realizará un
-      encuentro con la finalidad de informar a las familias sobre las
-      características del ciclo lectivo del presente año.
-    imagenfondo: /img/a5.jpg
-    fecha: Para familias de estudiantes de 4to a 7mo año.
-    link: https://drive.google.com/file/d/1K_LtGareWGYODxN8DQ2uVltyTHHJ3ARP/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021
     fecha: Sumate como estudiante a nuestra comunidad educativa
     texto: Se encuentran abiertas las pre matriculaciones para el ciclo lectivo
