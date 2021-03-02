@@ -1,16 +1,11 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: Hemos concluido con las reuniones de padres. Queremos comunicarles que
-      los listados de burbujas serán enviados por los correos institucionales de
-      los alumnos. Hoy sábado 27 de febrero enviamos las burbuja A y B de los
-      primeros años y la burbuja A de 7 MMO y 7 IP. Iremos agregando por esta
-      vía la fecha de los otros envíos. Cualquier consulta envíen al mail de
-      contacto de Dirección que figura en esta página. Adjuntamos el pdf
-      corregido de la reunión.
+  - texto: Sobre el ciclo lectivo 2021, su modalidad, y el comienzo del cursado
+      presencial para los diferentes cursos...
     alineado: derecha
     imagenfondo: /img/7.svg
-    link: https://drive.google.com/file/d/1BV2duJCEiHFm8kfbllF-xxL8vC7CljIh/view?usp=sharing
+    link: /escuela
   - texto: Sobre el comienzo de la actividad escolar de la última etapa del ciclo
       escolar 2020 y el comienzo de las actividades del 2021 desde el 1 de marzo
     imagenfondo: /img/11.svg
