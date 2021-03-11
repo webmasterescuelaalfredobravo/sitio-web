@@ -2,7 +2,7 @@
 templateKey: administracion-page
 path: /administracion
 title: Administración
-csvcodpago: /img/cod-2020-pago-web.csv
+csvcodpago: /img/códigos-de-pago-2021.csv
 mediospago:
   - texto: >-
       1. Entrá desde tu navegador a www.onlinesiro.com.ar$r
