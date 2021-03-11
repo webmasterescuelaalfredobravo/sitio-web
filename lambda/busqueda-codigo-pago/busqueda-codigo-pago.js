@@ -29,16 +29,30 @@ exports.handler = async (event, context) => {
       if (!documento && !url) {
         throw (`no 'url' or 'documento' property given`);
       }
-console.log("procesando....")
+      console.log("procesando 3....");
       // EL CSV ORIGINAL TRAE COMO CABECERA EL CAMPO D.N.I. que la libreria no resuelve bien, por eso se reemplazan los puntos por _
       const parser = new Parser();
-      var xxx = await parser.parseEvent({ url: url, options: { delimiter: { field: ';' , eol: '\r\n' }, keys: ['D_N_I_', 'CODIGO ELECTRONICO'] } });
-      const result = xxx.filter(unRegistro => {
-        console.log(unRegistro.D_N_I_);
+      var xxx = await parser.parseEvent({ url: url, options: { delimiter: { field: ';', eol: '\r\n' }, keys: ['D_N_I_', 'CODIGO ELECTRONICO'] } });
+      var hayRegistros = false;
+      var result = xxx.filter(unRegistro => {
+        //console.log(unRegistro.D_N_I_);
+        hayRegistros = true;
         return unRegistro.D_N_I_ && String(unRegistro.D_N_I_) === documento;
       });
+      console.log("fin primera busqueda. result:" + result);
+      // si no hay registros intentamos analizar con salto de linea distinto \n
+      if (!hayRegistros) {
+        console.log("no hay registros vamos a analizar con salto de página n");
+        xxx = await parser.parseEvent({ url: url, options: { delimiter: { field: ';', eol: '\n' }, keys: ['D_N_I_', 'CODIGO ELECTRONICO'] } });
+        var hayRegistros = false;
+        result = xxx.filter(unRegistro => {
+          hayRegistros = true;
+          return unRegistro.D_N_I_ && String(unRegistro.D_N_I_) === documento;
+        });
+      }
 
       if (result && result.length && result[0]['CODIGO ELECTRONICO']) {
+        console.log("codigo encontrado!!");
         return {
           statusCode: 200,
           headers,
