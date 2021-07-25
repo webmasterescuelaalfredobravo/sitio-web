@@ -21,14 +21,6 @@ slide:
     imagenfondo: /img/4.svg
     link: https://drive.google.com/file/d/1L1sJGUJxm12iO9oLvaBz6wlwEWRETbL5/view?usp=sharing
     fecha: 25 de julio de 2021
-  - titulo: NUEVAS HERRAMIENTAS PARA APRENDER Y ENSEÑAR
-    fecha: Aplicaciones para un nuevo contexto
-    texto: El impacto de la pandemia significa el desafío de explorar las
-      posibilidades de la enseñanza y del aprendizaje en la virtualidad. Por
-      ello a partir de la segunda parte del 2020 optamos por migrar todas
-      nuestras actividades al paquete de G-Suite for Education...
-    imagenfondo: /img/b2.jpg
-    link: https://drive.google.com/file/d/1bTE_ZentI3OyKWt9VLUtjB0LaWve3lrv/view?usp=sharing
 notas:
   - texto: >
       
