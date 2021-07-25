@@ -54,6 +54,6 @@ slide:
       acceder siguiendo las indicaciones. Para consultas, invitamos a
       realizarlas desde la página de contacto, seleccionando en la pestaña de
       contacto “Área Administración”.
-    imagenfondo: /img/a7.jpg
+    imagenfondo: /img/img-home-532x532-003_fondo.svg
     fecha: Contacto y formas de pago
 ---
