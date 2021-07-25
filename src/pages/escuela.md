@@ -5,12 +5,11 @@ title: Escuela
 slide:
   - titulo: Horarios presenciales al retorno del receso invernal
     texto: A partir del 26 de julio, el horario de cursado presencial suma una hora
-      cátedra. En el turno mañana, el primer grupo (5°MMO, 6°MMO, 6°IP, 7°MMO y
-      7°IP) ingresan a las 7:30 y se retiran 12:45). Y el segundo grupo (3° A y
-      B, 4°MMO, 4°IP y 5°IP) ingresan a las 7:40 y se retiran a las 12:55. En el
-      turno tarde, el primer grupo (1° A y B) ingresa a las 13:30 y se retira a
-      las 18:45 y el segundo grupo (2° A y B, ingresan a las 13:40 y se retiran
-      a las 18:55).
+      cátedra. En el turno mañana, 5°MMO, 6°MMO, 6°IP, 7°MMO y 7°IP ingresan a
+      las 7:30 y se retiran 12:45, mientras que 3° A y B, 4°MMO, 4°IP y 5°IP
+      entran las 7:40 y salen a las 12:55. En el turno tarde, 1° A y B ingresan
+      a las 13:30 y se retira a las 18:45 y 2° A y B, ingresan a las 13:40 y se
+      retiran a las 18:55.
     imagenfondo: /img/3.svg
     fecha: 24 de julio de 2021
     link: https://drive.google.com/file/d/1xWpPzeWHHDYKOQgwr2oW7rN8WpA_DuVR/view?usp=sharing
