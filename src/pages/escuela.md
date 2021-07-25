@@ -13,7 +13,7 @@ slide:
       a las 18:55).
     imagenfondo: /img/3.svg
     fecha: 24 de julio de 2021
-    link: https://drive.google.com/file/d/1BV2duJCEiHFm8kfbllF-xxL8vC7CljIh/view?usp=sharing
+    link: https://drive.google.com/file/d/1xWpPzeWHHDYKOQgwr2oW7rN8WpA_DuVR/view?usp=sharing
   - titulo: PRE MATRICULACIÓN CICLO 2021
     fecha: Sumate como estudiante a nuestra comunidad educativa
     texto: Se encuentran abiertas las pre matriculaciones para el ciclo lectivo
