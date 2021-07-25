@@ -30,6 +30,14 @@ slide:
       nuestras actividades al paquete de G-Suite for Education...
     imagenfondo: /img/b2.jpg
     link: https://drive.google.com/file/d/1bTE_ZentI3OyKWt9VLUtjB0LaWve3lrv/view?usp=sharing
+  - titulo: Horarios no presenciales al retorno del receso invernal
+    texto: A partir de la reestructuración de horarios presenciales que implicó la
+      extensión de la jornada que suma una hora cátedra más, los horarios no
+      presenciales de todos los cursos se reformularon. Pueden acceder a los
+      mismos haciendo click en leer más
+    imagenfondo: /img/4.svg
+    link: https://drive.google.com/file/d/1L1sJGUJxm12iO9oLvaBz6wlwEWRETbL5/view?usp=sharing
+    fecha: 25 de julio de 2021
 notas:
   - texto: >
       
