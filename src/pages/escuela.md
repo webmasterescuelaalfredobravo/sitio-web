@@ -9,7 +9,8 @@ slide:
       6°MMO, 6°IP, 7°MMO y 7°IP ingresan a las 7:30 y se retiran 12:45, mientras
       que 3° A y B, 4°MMO, 4°IP y 5°IP entran las 7:40 y salen a las 12:55. En
       el turno tarde, 1° A y B ingresan a las 13:30 y se retira a las 18:45 y 2°
-      A y B, entran a las 13:40 y salen a las 18:55.
+      A y B, entran a las 13:40 y salen a las 18:55. Puede accederse a los
+      horarios haciendo click en leer más
     imagenfondo: /img/img-laescuela-arbol.svg
     fecha: 24 de julio de 2021
     link: https://drive.google.com/file/d/1xWpPzeWHHDYKOQgwr2oW7rN8WpA_DuVR/view?usp=sharing
