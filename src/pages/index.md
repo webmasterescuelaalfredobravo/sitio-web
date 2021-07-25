@@ -1,17 +1,10 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: Sobre el ciclo lectivo 2021, su modalidad, y el comienzo del cursado
-      presencial para los diferentes cursos...
+  - texto: "Horarios presenciales y no presenciales luego del receso invernal "
     alineado: derecha
     imagenfondo: /img/7.svg
     link: /escuela
-  - texto: "Se encuentran abiertas la pre-matriculaciones para el ciclo lectivo
-      2021: te invitamos a escribirnos a través de la pestaña Contacto y a
-      completar..."
-    imagenfondo: /img/bravo-img-001.jpg
-    link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
-    alineado: derecha
   - texto: En el contexto que condiciona la re-invención de la tarea pedagógica,
       sumamos nuevas herramienta para el encuentro en el trabajo de enseñar y
       aprender.
