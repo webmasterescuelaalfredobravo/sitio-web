@@ -21,15 +21,6 @@ slide:
     imagenfondo: /img/4.svg
     link: https://drive.google.com/file/d/1L1sJGUJxm12iO9oLvaBz6wlwEWRETbL5/view?usp=sharing
     fecha: 25 de julio de 2021
-  - titulo: PRE MATRICULACIÓN CICLO 2021
-    fecha: Sumate como estudiante a nuestra comunidad educativa
-    texto: Se encuentran abiertas las pre matriculaciones para el ciclo lectivo
-      2021. Si estás interesado en sumarte a nuestra comunidad educativa,
-      envíanos un mensaje a través de la página de contacto. Te invitamos,
-      además, a completar el siguiente formulario. Nos comunicaremos a la
-      brevedad una vez que lo hayas enviado.
-    imagenfondo: /img/imagen-novedades-laescuela.svg
-    link: https://docs.google.com/forms/d/e/1FAIpQLScSqDDScgV81WpiX5AJc5hkqHLe2H-0SiaLyO_Xg-b8AmE2hA/viewform
   - titulo: NUEVAS HERRAMIENTAS PARA APRENDER Y ENSEÑAR
     fecha: Aplicaciones para un nuevo contexto
     texto: El impacto de la pandemia significa el desafío de explorar las
@@ -44,7 +35,7 @@ notas:
       El Instituto Técnico Maestro Alfredo Bravo propone un trayecto educativo técnico de siete años de duración. Como unidad pedagógica y organizativa nuestra propuesta educativa está constituida por dos Ciclos, siendo el primero de ellos Básico (Primer Ciclo) de tres años de duración y el Segundo Ciclo, de cuatro años de duración, con dos orientaciones: Maestro Mayor de Obras (MMO) e Industria de Procesos (IP).
 
       En ambas orientaciones se promueve gradualmente el estudio independiente que contribuye al trabajo autogestivo como también se favorecen las prácticas colaborativas, cooperativas y solidarias. Se pone especial énfasis en la correspondencia y articulación teórico-práctica en aras al desarrollo y adquisición de capacidades específicas para el futuro desempeño del técnico
-    imagen: /img/img-laescuela-arbol_prancheta-1-copia-8.svg
+    imagen: /img/a7.jpg
     titulo: NUESTRA PROPUESTA EDUCATIVA
     alineado: derecha
     fecha: Somos una escuela técnica
