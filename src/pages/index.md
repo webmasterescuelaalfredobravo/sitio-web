@@ -11,6 +11,10 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
+  - texto: PRE-INSCRIPCIONES 2022 - Aspirantes a ingresar a nuestro Instituto en el
+      ciclo lectivo 2022...
+    imagenfondo: /img/5prancheta-1.png
+    alineado: izquierda
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
