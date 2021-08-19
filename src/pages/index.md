@@ -6,9 +6,8 @@ slideppal:
     imagenfondo: /img/5prancheta-1.png
     alineado: izquierda
     link: https://docs.google.com/forms/d/e/1FAIpQLSeIZ8h_kkcUqe_88GeP0UbVSX4cjlnvqM2dxCbg7uM59f7KhA/viewform?usp=sf_link
-  - texto: En el contexto que condiciona la re-invención de la tarea pedagógica,
-      sumamos nuevas herramienta para el encuentro en el trabajo de enseñar y
-      aprender.
+  - texto: Te invitamos a conocer más sobre nuestro proyecto educativo, basado en la
+      educación técnica y el cooperativismo y la mediación
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
