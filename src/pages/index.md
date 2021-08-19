@@ -2,7 +2,8 @@
 templateKey: index-page
 slideppal:
   - texto: PRE-INSCRIPCIONES 2022 - Aspirantes a ingresar a nuestro Instituto en el
-      ciclo lectivo 2022...
+      ciclo lectivo 2022 pueden completar el siguiente formulario para la
+      solicitud de  reserva de banco...
     imagenfondo: /img/5prancheta-1.png
     alineado: izquierda
     link: https://docs.google.com/forms/d/e/1FAIpQLSeIZ8h_kkcUqe_88GeP0UbVSX4cjlnvqM2dxCbg7uM59f7KhA/viewform?usp=sf_link
