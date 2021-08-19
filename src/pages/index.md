@@ -1,10 +1,6 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: "Horarios presenciales y no presenciales luego del receso invernal "
-    alineado: derecha
-    imagenfondo: /img/7.svg
-    link: /escuela
   - texto: En el contexto que condiciona la re-invención de la tarea pedagógica,
       sumamos nuevas herramienta para el encuentro en el trabajo de enseñar y
       aprender.
