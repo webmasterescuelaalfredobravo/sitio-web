@@ -47,6 +47,12 @@ mediospago:
     imagen: /img/01_pagofacil_v02.png
     titulo: Pago sin factura - Efectivo
 slide:
+  - titulo: NUEVOS PLANES con Tarjeta de Crédito
+    texto: "Disponemos de los planes AHORA 3 y AHORA 6: para tarjetas de crédito
+      Visa, Mastercard y Cabal de bancos: se realiza el pago de modo online, con
+      un link de pago. Debe solicitarlo a nuestro whatsapp: 3543 624872"
+    imagenfondo: /img/whatsapp-image-2021-08-19-at-13.54.52.jpeg
+    fecha: "2021"
   - titulo: PAGO DE ARANCELES
     texto: Para el pago de las cuotas escolares les recomendamos la utilización de
       los medios de pago indicados, que se utilizan a partir del Código de Pago
@@ -56,10 +62,4 @@ slide:
     imagenfondo: /img/img-home-532x532-003_fondo.svg
     fecha: Contacto y formas de pago
     link: https://onlinesiro.com.ar/
-  - titulo: NUEVOS PLANES con Tarjeta de Crédito
-    texto: "Disponemos de los planes AHORA 3 y AHORA 6: para tarjetas de crédito
-      Visa, Mastercard y Cabal de bancos: se realiza el pago de modo online, con
-      un link de pago. Debe solicitarlo a nuestro whatsapp: 3543 624872"
-    imagenfondo: /img/whatsapp-image-2021-08-19-at-13.54.52.jpeg
-    fecha: "2021"
 ---
