@@ -22,6 +22,13 @@ slide:
     imagenfondo: /img/4.svg
     link: https://drive.google.com/file/d/1L1sJGUJxm12iO9oLvaBz6wlwEWRETbL5/view?usp=sharing
     fecha: 25 de julio de 2021
+  - titulo: Pre-inscripciones ciclo lectivo 2022
+    texto: "Si querés ingresar como estudiante de 1er año (o de cualquier otro año)
+      a nuestro Instituto, podés iniciar el trámite de solicitud completando el
+      siguiente formulario "
+    imagenfondo: /img/9.svg
+    link: https://docs.google.com/forms/d/e/1FAIpQLSeIZ8h_kkcUqe_88GeP0UbVSX4cjlnvqM2dxCbg7uM59f7KhA/viewform?usp=sf_link
+    fecha: Para aspirantes a ingresar a nuestro Instituto
 notas:
   - texto: >
       
