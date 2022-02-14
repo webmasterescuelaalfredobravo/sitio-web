@@ -2,8 +2,7 @@
 templateKey: index-page
 slideppal:
   - texto: INTENSIFICACIÓN DE APRENDIZAJES - Estudiantes con aprendizajes pendientes
-      del ciclo lectivo 2021 tendrán del 17 al 21 de febrero instancias para
-      acreditarlos. Haciendo click en leer más pueden acceder a las fechas...
+      del 2021 tendrán del 17 al 21 de febrero instancias para acreditarlos...
     imagenfondo: /img/11.svg
     link: https://drive.google.com/drive/folders/1XCJUEjerrTG_N0udm2zwMKxNM63UQBXt?usp=sharing
     alineado: izquierda
