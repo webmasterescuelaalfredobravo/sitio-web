@@ -18,6 +18,12 @@ slideppal:
     imagenfondo: /img/11.svg
     link: https://drive.google.com/drive/folders/1XCJUEjerrTG_N0udm2zwMKxNM63UQBXt?usp=sharing
     alineado: izquierda
+  - texto: FECHAS DE EXÁMENES FEBRERO 2022 - Haciendo click en leer más se accede a
+      las fechas de exámenes para regulares y previos libres para estudiantes
+      con materias pendientes cursadas en 2020 o años anteriores.
+    imagenfondo: /img/3.svg
+    link: https://drive.google.com/file/d/1Hve8lS8fitP9zkhv1HrFV-CTXT-xRSFw/view
+    alineado: derecha
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
