@@ -1,17 +1,6 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: PRE-INSCRIPCIONES 2022 - Aspirantes a ingresar a nuestro Instituto en el
-      ciclo lectivo 2022 pueden completar el siguiente formulario para la
-      solicitud de  reserva de banco...
-    imagenfondo: /img/5prancheta-1.png
-    alineado: izquierda
-    link: https://docs.google.com/forms/d/e/1FAIpQLSeIZ8h_kkcUqe_88GeP0UbVSX4cjlnvqM2dxCbg7uM59f7KhA/viewform?usp=sf_link
-  - texto: Te invitamos a conocer más sobre nuestro proyecto educativo, basado en la
-      educación técnica, el cooperativismo y la mediación
-    imagenfondo: /img/img-laescuela-arbol.svg
-    alineado: derecha
-    link: /escuela
   - texto: INTENSIFICACIÓN DE APRENDIZAJES - Estudiantes con aprendizajes pendientes
       del ciclo lectivo 2021 tendrán del 17 al 21 de febrero instancias para
       acreditarlos. Haciendo click en leer más pueden acceder a las fechas...
@@ -24,6 +13,17 @@ slideppal:
     imagenfondo: /img/3.svg
     link: https://drive.google.com/file/d/1Hve8lS8fitP9zkhv1HrFV-CTXT-xRSFw/view
     alineado: derecha
+  - texto: PRE-INSCRIPCIONES 2022 - Aspirantes a ingresar a nuestro Instituto en el
+      ciclo lectivo 2022 pueden completar el siguiente formulario para la
+      solicitud de  reserva de banco...
+    imagenfondo: /img/5prancheta-1.png
+    alineado: izquierda
+    link: https://docs.google.com/forms/d/e/1FAIpQLSeIZ8h_kkcUqe_88GeP0UbVSX4cjlnvqM2dxCbg7uM59f7KhA/viewform?usp=sf_link
+  - texto: Te invitamos a conocer más sobre nuestro proyecto educativo, basado en la
+      educación técnica, el cooperativismo y la mediación
+    imagenfondo: /img/img-laescuela-arbol.svg
+    alineado: derecha
+    link: /escuela
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
