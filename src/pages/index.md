@@ -12,6 +12,12 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
+  - texto: INTENSIFICACIÓN DE APRENDIZAJES - Estudiantes con aprendizajes pendientes
+      del ciclo lectivo 2021 tendrán del 17 al 21 de febrero instancias para
+      acreditarlos. Haciendo click en leer más pueden acceder a las fechas...
+    imagenfondo: /img/11.svg
+    link: https://drive.google.com/drive/folders/1XCJUEjerrTG_N0udm2zwMKxNM63UQBXt?usp=sharing
+    alineado: izquierda
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
