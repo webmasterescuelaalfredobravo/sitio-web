@@ -1,23 +1,12 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: INTENSIFICACIÓN DE APRENDIZAJES - Estudiantes con aprendizajes pendientes
-      del 2021 tendrán del 17 al 21 de febrero instancias para acreditarlos...
-    imagenfondo: /img/11.svg
-    link: https://drive.google.com/drive/folders/1XCJUEjerrTG_N0udm2zwMKxNM63UQBXt?usp=sharing
-    alineado: izquierda
-  - texto: FECHAS DE EXÁMENES FEBRERO 2022 - Haciendo click en leer más a las fechas
-      para regulares y previos libres de materias cursadas en 2020 o años
-      anteriores.
-    imagenfondo: /img/3.svg
-    link: https://drive.google.com/file/d/1Hve8lS8fitP9zkhv1HrFV-CTXT-xRSFw/view
-    alineado: derecha
-  - texto: PRE-INSCRIPCIONES 2022 - Aspirantes a ingresar a nuestro Instituto en el
-      ciclo lectivo 2022 pueden completar el siguiente formulario para la
-      solicitud de  reserva de banco...
+  - texto: PRE-INSCRIPCIONES 2023 - Aspirantes a ingresar a nuestro Instituto en el
+      ciclo lectivo 2023, el día 5 de Agosto de 2022 se abrirá el formulario de
+      solicitud de pre-inscripción.
     imagenfondo: /img/5prancheta-1.png
     alineado: izquierda
-    link: https://docs.google.com/forms/d/e/1FAIpQLSeIZ8h_kkcUqe_88GeP0UbVSX4cjlnvqM2dxCbg7uM59f7KhA/viewform?usp=sf_link
+    link: https://docs.google.com/forms/d/e/1FAIpQLSdY9B1uKduI66FqzpK-8PCHWpzb2j55-Xx4sg5EnWyvirup7Q/viewform?usp=sf_link
   - texto: Te invitamos a conocer más sobre nuestro proyecto educativo, basado en la
       educación técnica, el cooperativismo y la mediación
     imagenfondo: /img/img-laescuela-arbol.svg
