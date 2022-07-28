@@ -3,32 +3,13 @@ templateKey: escuela-page
 path: /escuela
 title: Escuela
 slide:
-  - titulo: Pre-inscripciones ciclo lectivo 2022
+  - titulo: Pre-inscripciones ciclo lectivo 2023
     texto: "Si querés ingresar como estudiante de 1er año (o de cualquier otro año)
       a nuestro Instituto, podés iniciar el trámite de solicitud completando el
       siguiente formulario "
     imagenfondo: /img/9.svg
-    link: https://docs.google.com/forms/d/e/1FAIpQLSeIZ8h_kkcUqe_88GeP0UbVSX4cjlnvqM2dxCbg7uM59f7KhA/viewform?usp=sf_link
+    link: https://docs.google.com/forms/d/e/1FAIpQLSdY9B1uKduI66FqzpK-8PCHWpzb2j55-Xx4sg5EnWyvirup7Q/viewform?usp=sf_link
     fecha: Para aspirantes a ingresar a nuestro Instituto
-  - titulo: Horarios presenciales al retorno del receso invernal
-    texto: A partir del 26 de julio, cuando retome el cursado la burbuja B, el
-      horario presencial suma una hora cátedra. En el turno mañana, 5°MMO,
-      6°MMO, 6°IP, 7°MMO y 7°IP ingresan a las 7:30 y se retiran 12:45, mientras
-      que 3° A y B, 4°MMO, 4°IP y 5°IP entran las 7:40 y salen a las 12:55. En
-      el turno tarde, 1° A y B ingresan a las 13:30 y se retira a las 18:45 y 2°
-      A y B, entran a las 13:40 y salen a las 18:55. Puede accederse a los
-      horarios haciendo click en leer más
-    imagenfondo: /img/img-laescuela-arbol.svg
-    fecha: 24 de julio de 2021
-    link: https://drive.google.com/file/d/1xWpPzeWHHDYKOQgwr2oW7rN8WpA_DuVR/view?usp=sharing
-  - titulo: Horarios no presenciales al retorno del receso invernal
-    texto: A partir de la reestructuración de horarios presenciales que implicó la
-      extensión de la jornada que suma una hora cátedra más, los horarios no
-      presenciales de todos los cursos se reformularon. Pueden acceder a los
-      mismos haciendo click en leer más
-    imagenfondo: /img/4.svg
-    link: https://drive.google.com/file/d/1L1sJGUJxm12iO9oLvaBz6wlwEWRETbL5/view?usp=sharing
-    fecha: 25 de julio de 2021
 notas:
   - texto: >
       
