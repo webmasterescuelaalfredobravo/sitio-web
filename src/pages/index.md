@@ -2,8 +2,8 @@
 templateKey: index-page
 slideppal:
   - texto: PRE-INSCRIPCIONES 2023 - Aspirantes a ingresar a nuestro Instituto en el
-      ciclo lectivo 2023, el día 5 de Agosto de 2022 se abrirá el formulario de
-      solicitud de pre-inscripción.
+      ciclo lectivo 2023, el día 2 de Septiembre de 2022 volverá a estar
+      disponible el formulario de solicitud de pre-inscripción.
     imagenfondo: /img/5prancheta-1.png
     alineado: izquierda
     link: https://docs.google.com/forms/d/e/1FAIpQLSdY9B1uKduI66FqzpK-8PCHWpzb2j55-Xx4sg5EnWyvirup7Q/viewform?usp=sf_link
