@@ -14,7 +14,7 @@ slideppal:
     link: /escuela
   - texto: Expotécnica 2022 Muestra de proyectos técnicos de estudiantes del
       Instituto. Miércoles 14/12.
-    imagenfondo: /img/expo.jpg
+    imagenfondo: /img/whatsapp-image-2022-11-17-at-1.54.03-pm.jpeg
     alineado: izquierda
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
