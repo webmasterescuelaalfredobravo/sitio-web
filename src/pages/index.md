@@ -1,6 +1,10 @@
 ---
 templateKey: index-page
 slideppal:
+  - texto: Expotécnica 2022 Muestra de proyectos técnicos de estudiantes del
+      Instituto. Miércoles 14/12.
+    imagenfondo: /img/whatsapp-image-2022-11-17-at-1.54.03-pm.jpeg
+    alineado: izquierda
   - texto: PRE-INSCRIPCIONES 2023 - Aspirantes a ingresar a nuestro Instituto en el
       ciclo lectivo 2023, el día 2 de Septiembre de 2022 volverá a estar
       disponible el formulario de solicitud de pre-inscripción.
@@ -12,10 +16,6 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
-  - texto: Expotécnica 2022 Muestra de proyectos técnicos de estudiantes del
-      Instituto. Miércoles 14/12.
-    imagenfondo: /img/whatsapp-image-2022-11-17-at-1.54.03-pm.jpeg
-    alineado: izquierda
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
