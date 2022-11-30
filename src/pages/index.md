@@ -12,6 +12,10 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
+  - texto: Expotécnica 2022 Muestra de proyectos técnicos de estudiantes del
+      Instituto. Miércoles 14/12.
+    imagenfondo: /img/expo.jpg
+    alineado: izquierda
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
@@ -20,8 +24,4 @@ notacorta:
       la Cooperativa de Trabajo Maestro Alfredo Bravo, Matrícula Nac. N° 26.534
       - INAES - Res. Provincial N° 2.571
     link: /escuela
-  - titulo: Protocolo para el retorno a la presencialidad
-    texto: En el siguiente link el protocolo para un retorno seguro que será
-      paulatino, progresivo y rotativo
-    link: https://drive.google.com/file/d/1iyL8-VaXdv78YzagKOZKvZ9cG5nwePl8/view?usp=sharing
 ---
