@@ -441,12 +441,6 @@ footer
       height: $bravo-footer-height 
   .ir-arriba-wrapper
     position: relative
-    .redes
-      +mobile 
-        margin: auto
-      +tablet
-        position: absolute
-        right: 0.75rem  // coincide con el padding de column
     a
       width: 40px
       height: 40px
@@ -455,6 +449,14 @@ footer
       +mobile
         margin: auto
        
+  .redes
+    img
+      width: 40px
+      height: 40px
+      background-color: transparent
+      margin: .5em 
+      +mobile
+        margin: auto
 
   .institucional
     +tablet 
@@ -863,4 +865,6 @@ footer
 body.tiene-menu-fijo-arriba
   +tablet
     padding-top: 3.25rem
+.width-100
+  width: 100%    
 /* purgecss end ignore */
