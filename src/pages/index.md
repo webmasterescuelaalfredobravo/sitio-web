@@ -1,10 +1,6 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: Expotécnica 2022 Muestra de proyectos técnicos de estudiantes del
-      Instituto. Miércoles 14/12.
-    imagenfondo: /img/whatsapp-image-2022-11-17-at-1.54.03-pm.jpeg
-    alineado: izquierda
   - texto: "PRE-INSCRIPCIONES 2023 - Aspirantes a ingresar a nuestro Instituto en el
       ciclo lectivo 2023, completar el siguiente formulario de solicitud:"
     imagenfondo: /img/5prancheta-1.png
