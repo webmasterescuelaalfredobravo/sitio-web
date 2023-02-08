@@ -10,6 +10,15 @@ slide:
     imagenfondo: /img/9.svg
     link: https://docs.google.com/forms/d/e/1FAIpQLSdY9B1uKduI66FqzpK-8PCHWpzb2j55-Xx4sg5EnWyvirup7Q/viewform?usp=sf_link
     fecha: Para aspirantes a ingresar a nuestro Instituto
+  - titulo: Expotécnica 2022
+    texto: El 14/12/2022 se llevó a cabo la expoténica 2022. Como todos los años,
+      estudiantes de primero a séptimo, dan a conocer los trabajos y proyectos
+      que realizaron durante el ciclo lectivo en una feria de exposición. Además
+      recibimos a padres y madres de la comunidad educativa para compartir la
+      jornada. Te invitamos a ver el registro de esta jornada.
+    imagenfondo: /img/whatsapp-image-2023-02-08-at-10.28.37-am.jpeg
+    link: https://www.youtube.com/watch?v=lQUXkHVXjAc
+    fecha: 14/02/2022
 notas:
   - texto: >
       
