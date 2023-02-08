@@ -1,16 +1,6 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: "PRE-INSCRIPCIONES 2023 - Aspirantes a ingresar a nuestro Instituto en el
-      ciclo lectivo 2023, completar el siguiente formulario de solicitud:"
-    imagenfondo: /img/5prancheta-1.png
-    alineado: izquierda
-    link: https://docs.google.com/forms/d/e/1FAIpQLSdY9B1uKduI66FqzpK-8PCHWpzb2j55-Xx4sg5EnWyvirup7Q/viewform?usp=sf_link
-  - texto: Te invitamos a conocer más sobre nuestro proyecto educativo, basado en la
-      educación técnica, el cooperativismo y la mediación
-    imagenfondo: /img/img-laescuela-arbol.svg
-    alineado: derecha
-    link: /escuela
   - imagenfondo: /img/329123732_1628099837660408_8758947756153981360_n.jpg
     texto: HASTA SIEMPRE HORACIO BIANCIOTTO ⏩Recordamos a un importante y valioso
       integrante de la Cooperativa de Trabajo Maestro Alfredo Bravo, quien con
@@ -24,6 +14,16 @@ slideppal:
       afectos en este triste momento 💕
     link: https://www.facebook.com/InstitutoAlfredoBravo/posts/pfbid02SYXobYJFVUMENX5Y9yraeuVqmkqvaNWtkDjgEdRdRb1JP38GnPZ7Q6EmDk1MeNXQl
     alineado: derecha
+  - texto: "PRE-INSCRIPCIONES 2023 - Aspirantes a ingresar a nuestro Instituto en el
+      ciclo lectivo 2023, completar el siguiente formulario de solicitud:"
+    imagenfondo: /img/5prancheta-1.png
+    alineado: izquierda
+    link: https://docs.google.com/forms/d/e/1FAIpQLSdY9B1uKduI66FqzpK-8PCHWpzb2j55-Xx4sg5EnWyvirup7Q/viewform?usp=sf_link
+  - texto: Te invitamos a conocer más sobre nuestro proyecto educativo, basado en la
+      educación técnica, el cooperativismo y la mediación
+    imagenfondo: /img/img-laescuela-arbol.svg
+    alineado: derecha
+    link: /escuela
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
