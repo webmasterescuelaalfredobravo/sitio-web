@@ -5,9 +5,8 @@ slideppal:
       Instituto. Miércoles 14/12.
     imagenfondo: /img/whatsapp-image-2022-11-17-at-1.54.03-pm.jpeg
     alineado: izquierda
-  - texto: PRE-INSCRIPCIONES 2023 - Aspirantes a ingresar a nuestro Instituto en el
-      ciclo lectivo 2023, el día 2 de Septiembre de 2022 volverá a estar
-      disponible el formulario de solicitud de pre-inscripción.
+  - texto: "PRE-INSCRIPCIONES 2023 - Aspirantes a ingresar a nuestro Instituto en el
+      ciclo lectivo 2023, completar el siguiente formulario de solicitud:"
     imagenfondo: /img/5prancheta-1.png
     alineado: izquierda
     link: https://docs.google.com/forms/d/e/1FAIpQLSdY9B1uKduI66FqzpK-8PCHWpzb2j55-Xx4sg5EnWyvirup7Q/viewform?usp=sf_link
