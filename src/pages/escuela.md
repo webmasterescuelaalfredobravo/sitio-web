@@ -19,6 +19,20 @@ slide:
     imagenfondo: /img/whatsapp-image-2023-02-08-at-10.28.37-am.jpeg
     link: https://www.youtube.com/watch?v=lQUXkHVXjAc
     fecha: 14/02/2022
+  - link: https://www.youtube.com/watch?v=LZaPHVrpA8c
+    titulo: Foro de Jóvenes 2022 🌈🌟
+    texto: "El miércoles 07/12, como todos los años, se llevó a cabo el foro de
+      jóvenes. Esta jornada fue planificada y coordinada por estudiantes de 4to
+      año de Maestro Mayor de Obras e Industria de Procesos, donde se trataron
+      temas de interés propuestos por ellos/as.  ⤵️Algunos de los temas fueron:
+      alimentación, salud mental, ESI con orientación en diversidad sexual y de
+      género, videojuegos y redes, deportes, vocaciones, acoso.  ➡️El objetivo
+      de este proyecto, es generar espacios de encuentro y debate entre
+      estudiantes de todos los cursos, en donde puedan ser protagonistas:
+      coordinando los talleres, brindando información a sus compañeros/as,
+      dialogando y debatiendo en conjunto. "
+    fecha: 07/12/2022
+    imagenfondo: /img/whatsapp-image-2023-02-08-at-10.40.55-am.jpeg
 notas:
   - texto: >
       
