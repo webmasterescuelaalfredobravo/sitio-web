@@ -1,6 +1,14 @@
 ---
 templateKey: index-page
 slideppal:
+  - texto: EXÁMENES PREVIOS REGULARES, LIBRES Y EQUIVALENCIAS – FEBRERO 2023. Podrás
+      verlos en el siguiente enlace
+    imagenfondo: /img/1.png
+    link: https://drive.google.com/file/d/13QTHPe9Nw5sv8iqEzCzpmQsicOJZFBu_/view?usp=sharing
+    alineado: derecha
+  - texto: Calendario académico - Febrero 2023
+    imagenfondo: /img/espacios-curriculares-1-.png
+    alineado: derecha
   - imagenfondo: /img/329123732_1628099837660408_8758947756153981360_n.jpg
     texto: HASTA SIEMPRE HORACIO BIANCIOTTO ⏩Recordamos a un importante y valioso
       integrante de la Cooperativa de Trabajo Maestro Alfredo Bravo, quien con
@@ -14,11 +22,6 @@ slideppal:
       afectos en este triste momento 💕
     link: https://www.facebook.com/InstitutoAlfredoBravo/posts/pfbid02SYXobYJFVUMENX5Y9yraeuVqmkqvaNWtkDjgEdRdRb1JP38GnPZ7Q6EmDk1MeNXQl
     alineado: derecha
-  - texto: EXÁMENES PREVIOS REGULARES, LIBRES Y EQUIVALENCIAS – FEBRERO 2023. Podrás
-      verlos en el siguiente enlace
-    imagenfondo: /img/1.png
-    link: https://drive.google.com/file/d/13QTHPe9Nw5sv8iqEzCzpmQsicOJZFBu_/view?usp=sharing
-    alineado: derecha
   - texto: "PRE-INSCRIPCIONES 2023 - Aspirantes a ingresar a nuestro Instituto en el
       ciclo lectivo 2023, completar el siguiente formulario de solicitud:"
     imagenfondo: /img/5prancheta-1.png
@@ -29,9 +32,6 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
-  - texto: Calendario académico - Febrero 2023
-    imagenfondo: /img/espacios-curriculares-1-.png
-    alineado: derecha
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
