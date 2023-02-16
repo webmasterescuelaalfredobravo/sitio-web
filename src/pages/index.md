@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: Calendario académico - Febrero 2023. Para más información podes acceder
-      al siguiente enlacce
+  - texto: Calendario académico - Febrero 2023. Accediendo al siguiente enlace,
+      podrás conocer en detalle los horarios de cada actividad
     imagenfondo: /img/espacios-curriculares-1-.png
     alineado: derecha
     link: https://drive.google.com/file/d/1t06faXnfZBPj8_dIQ7R9GbVwE0wolDab/view?usp=sharing
