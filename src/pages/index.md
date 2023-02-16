@@ -29,6 +29,9 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
+  - texto: Calendario académico - Febrero 2023
+    imagenfondo: /img/espacios-curriculares-1-.png
+    alineado: derecha
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
