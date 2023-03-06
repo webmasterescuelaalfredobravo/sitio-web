@@ -1,16 +1,6 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: Calendario académico - Febrero 2023. Accediendo al siguiente enlace,
-      podrás conocer en detalle los horarios de cada actividad
-    imagenfondo: /img/espacios-curriculares-1-.png
-    alineado: derecha
-    link: https://drive.google.com/file/d/1t06faXnfZBPj8_dIQ7R9GbVwE0wolDab/view?usp=sharing
-  - texto: EXÁMENES PREVIOS REGULARES, LIBRES Y EQUIVALENCIAS – FEBRERO 2023. Podrás
-      verlos en el siguiente enlace
-    imagenfondo: /img/1.png
-    link: https://drive.google.com/file/d/1NGBix77likrnimfVl8d2uqb0FkJ_Ww8P/view?usp=sharing
-    alineado: derecha
   - imagenfondo: /img/329123732_1628099837660408_8758947756153981360_n.jpg
     texto: HASTA SIEMPRE HORACIO BIANCIOTTO ⏩Recordamos a un importante y valioso
       integrante de la Cooperativa de Trabajo Maestro Alfredo Bravo, quien con
