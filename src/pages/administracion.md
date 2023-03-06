@@ -25,9 +25,9 @@ mediospago:
 
       2. Ir a la opción de PAGO DE SERVICIOS.$r
 
-      3.  Buscar rubro ADMINISTRACIONES/ ADMINISTRACIONES Y CONSORCIOS.$r
+      3. Buscar la opción INSTITUCIONES EDUCATIVAS .$r
 
-      4. Buscar la opción BANCO ROELA SIRO.$r
+      4. Buscar en Entes: INSTITUTO TÉCNICO MAESTRO ALFREDO BRAVO.$r
 
       5. Ingresar el código Link de pago electrónico (de 19 dígitos).
     imagen: /img/01_pagos_link_v02.png
