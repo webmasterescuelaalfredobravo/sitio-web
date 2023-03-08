@@ -2,7 +2,7 @@
 templateKey: administracion-page
 path: /administracion
 title: Administración
-csvcodpago: /img/alumnos-2023.csv
+csvcodpago: /img/alumnos-23.csv
 mediospago:
   - texto: >-
       1. Entrá desde tu navegador a www.onlinesiro.com.ar$r
