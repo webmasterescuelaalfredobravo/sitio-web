@@ -16,19 +16,6 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
-  - imagenfondo: /img/329123732_1628099837660408_8758947756153981360_n.jpg
-    texto: HASTA SIEMPRE HORACIO BIANCIOTTO ⏩Recordamos a un importante y valioso
-      integrante de la Cooperativa de Trabajo Maestro Alfredo Bravo, quien con
-      su experiencia en cooperativismo y educación,  fue pieza fundamental en
-      los inicios de nuestra escuela. Un querido compañero y docente de Música,
-      para quien la educación y la ética fueron baluartes irrenunciables.
-      Nuestro primer presidente del Consejo de la Cooperativa en cuyo desempeño
-      primó la honestidad y la convicción de una escuela inclusiva, autogestiva
-      y democrática.✨ Dejaste esa huella que signa nuestro proyecto ✨  Por eso
-      querido Horacio siempre serás recordado. Acompañamos a su familia y
-      afectos en este triste momento 💕
-    link: https://www.facebook.com/InstitutoAlfredoBravo/posts/pfbid02SYXobYJFVUMENX5Y9yraeuVqmkqvaNWtkDjgEdRdRb1JP38GnPZ7Q6EmDk1MeNXQl
-    alineado: derecha
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
