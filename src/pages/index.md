@@ -14,11 +14,6 @@ slideppal:
     imagenfondo: /img/maestro-alfredo-bravo.png
     link: https://www.instagram.com/p/CrqKgaTOifk/
     alineado: derecha
-  - texto: "PRE-INSCRIPCIONES 2023 - Aspirantes a ingresar a nuestro Instituto en el
-      ciclo lectivo 2023, completar el siguiente formulario de solicitud:"
-    imagenfondo: /img/5prancheta-1.png
-    alineado: izquierda
-    link: https://docs.google.com/forms/d/e/1FAIpQLSdY9B1uKduI66FqzpK-8PCHWpzb2j55-Xx4sg5EnWyvirup7Q/viewform?usp=sf_link
   - texto: Te invitamos a conocer más sobre nuestro proyecto educativo, basado en la
       educación técnica, el cooperativismo y la mediación
     imagenfondo: /img/img-laescuela-arbol.svg
