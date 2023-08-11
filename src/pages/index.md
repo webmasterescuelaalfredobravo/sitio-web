@@ -19,6 +19,12 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
+  - texto: "Preinscripciones: aspirantes al ingreso ciclo lectivo 2024. Para
+      comenzar el trámite de preinscripción debes completar el siguiente
+      formulario"
+    link: https://forms.gle/g87fK15if8U4TGE16
+    imagenfondo: /img/convocatorias-inst-1-.png
+    alineado: derecha
 notacorta:
   - titulo: Instituto Técnico Maestro Alfredo Bravo
     texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
