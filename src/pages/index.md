@@ -11,10 +11,6 @@ slideppal:
       Internacional de las Cooperativas.  Por más cooperativismo transformador!
     imagenfondo: /img/publicaciones-feed-13-.png
     alineado: derecha
-  - texto: "📚EXÁMENES LUNES 03 Y MARTES 04 DE JULIO 2023  ⏩Para rendir, consultar
-      horarios y materias comunicarse con: direccion@escuelaalfredobravo.edu.ar"
-    imagenfondo: /img/353837236_743580200897167_3455865973078269046_n.jpg
-    alineado: derecha
   - texto: El 30 de abril, celebramos el natalicio de Alfredo Bravo✨ ⏭️Su lucha como
       legado
     imagenfondo: /img/maestro-alfredo-bravo.png
