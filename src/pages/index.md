@@ -21,12 +21,10 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
-notacorta:
-  - titulo: Instituto Técnico Maestro Alfredo Bravo
-    texto: Nuestro Instituto Técnico imparte enseñanza oficial de nivel medio y se
-      encuentra adscripto a la Dirección General de Institutos Privados de
-      Enseñanza (DGIPE), del Ministerio de Educación de Córdoba. Es propiedad de
-      la Cooperativa de Trabajo Maestro Alfredo Bravo, Matrícula Nac. N° 26.534
-      - INAES - Res. Provincial N° 2.571
-    link: /escuela
+  - imagenfondo: /img/whatsapp-image-2023-08-16-at-10.43.43-am.jpeg
+    texto: "Mesas especiales de exámenes en SEPTIEMBRE  ➡️Martes 26 y miércoles
+      27  ‼️Solo para egresados/as y estudiantes de séptimo año.  ➡️Para
+      inscribirse enviar email a: vicedireccion@escuelaalfredobravo.edu.ar"
+    alineado: derecha
+notacorta: []
 ---
