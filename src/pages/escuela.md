@@ -3,13 +3,6 @@ templateKey: escuela-page
 path: /escuela
 title: Escuela
 slide:
-  - titulo: Pre-inscripciones ciclo lectivo 2023
-    texto: "Si querés ingresar como estudiante de 1er año (o de cualquier otro año)
-      a nuestro Instituto, podés iniciar el trámite de solicitud completando el
-      siguiente formulario "
-    imagenfondo: /img/9.svg
-    link: https://docs.google.com/forms/d/e/1FAIpQLSdY9B1uKduI66FqzpK-8PCHWpzb2j55-Xx4sg5EnWyvirup7Q/viewform?usp=sf_link
-    fecha: Para aspirantes a ingresar a nuestro Instituto
   - titulo: Expotécnica 2022
     texto: El 14/12/2022 se llevó a cabo la expoténica 2022. Como todos los años,
       estudiantes de primero a séptimo, dan a conocer los trabajos y proyectos
