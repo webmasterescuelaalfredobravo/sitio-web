@@ -1,10 +1,10 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: '*Presentación del libro ¿Qué pasado para nuestro presente?*  ➡️ Debates
+  - texto: 'Presentación del libro ¿Qué pasado para nuestro presente?  ➡️ Debates
       públicos sobre memorias, negacionismo y apologismo.  Con la presencia de
-      autores y compiladores: ✓Emiliano Fessia ✓Ana Carol Solís ✓Victoria
-      Chabrando ✓Leandro Inchauspe  Actividad conmemorativa por los 40 años de
+      autores y compiladores: Emiliano Fessia, Ana Carol Solís, Victoria
+      Chabrando, Leandro Inchauspe. Actividad conmemorativa por los 40 años de
       la restauración democrática, por el Día Internacional de los Derechos
       Humanos y por los 20 años de la Cooperativa de Trabajo Maestro Alfredo
       Bravo.  ➡️También estará presente la exposición de la muestra de afiches
