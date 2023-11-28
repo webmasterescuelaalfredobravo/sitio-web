@@ -26,11 +26,6 @@ slideppal:
       Internacional de las Cooperativas.  Por más cooperativismo transformador!
     imagenfondo: /img/publicaciones-feed-13-.png
     alineado: derecha
-  - texto: El 30 de abril, celebramos el natalicio de Alfredo Bravo✨ ⏭️Su lucha como
-      legado
-    imagenfondo: /img/maestro-alfredo-bravo.png
-    link: https://www.instagram.com/p/CrqKgaTOifk/
-    alineado: derecha
   - texto: Te invitamos a conocer más sobre nuestro proyecto educativo, basado en la
       educación técnica, el cooperativismo y la mediación
     imagenfondo: /img/img-laescuela-arbol.svg
