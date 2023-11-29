@@ -27,7 +27,7 @@ slideppal:
     imagenfondo: /img/publicaciones-feed-13-.png
     alineado: derecha
   - texto: Te invitamos a conocer más sobre nuestro proyecto educativo,  basado en
-      la educación técnica, el cooperativismo y la mediación
+      la educación técnica, el cooperativismo y la mediación.
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
