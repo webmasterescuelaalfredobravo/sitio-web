@@ -3,6 +3,19 @@ templateKey: escuela-page
 path: /escuela
 title: Escuela
 slide:
+  - titulo: "Día de la familia y de la tradición "
+    texto: '"La naturaleza es nuestra casa, la familia nuestro hogar, la educación
+      nuestro refugio" 🍃 ➡️Te compartimos el registro de la celebración del día
+      de la familia y de la tradición. Junto a toda la comunidad educativa,
+      compartimos una hermosa jornada de juegos, teatro, muraleada, plantación
+      de árboles, música y danza🌈  ✨Agradecemos a las familias que vinieron a
+      compartir y disfrutar de la propuesta.  A la @cooprioceballos por donarnos
+      árboles nativos de su vivero.  Gracias también a el @duocoplanacu el dúo
+      @aromitoserrano y a los/as estudiantes por musicalizar la jornada con sus
+      hermosas canciones.'
+    imagenfondo: /img/404327290_832063615382158_5839043470442935064_n.jpg
+    link: https://www.instagram.com/p/CzgwkPCuLdU/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==
+    fecha: 10/11/23
   - titulo: Expotécnica 2022
     texto: El 14/12/2022 se llevó a cabo la expoténica 2022. Como todos los años,
       estudiantes de primero a séptimo, dan a conocer los trabajos y proyectos
@@ -26,19 +39,6 @@ slide:
       dialogando y debatiendo en conjunto. "
     fecha: 07/12/2022
     imagenfondo: /img/whatsapp-image-2023-02-08-at-10.40.55-am.jpeg
-  - titulo: "Día de la familia y de la tradición "
-    texto: '"La naturaleza es nuestra casa, la familia nuestro hogar, la educación
-      nuestro refugio" 🍃 ➡️Te compartimos el registro de la celebración del día
-      de la familia y de la tradición. Junto a toda la comunidad educativa,
-      compartimos una hermosa jornada de juegos, teatro, muraleada, plantación
-      de árboles, música y danza🌈  ✨Agradecemos a las familias que vinieron a
-      compartir y disfrutar de la propuesta.  A la @cooprioceballos por donarnos
-      árboles nativos de su vivero.  Gracias también a el @duocoplanacu el dúo
-      @aromitoserrano y a los/as estudiantes por musicalizar la jornada con sus
-      hermosas canciones.'
-    imagenfondo: /img/404327290_832063615382158_5839043470442935064_n.jpg
-    link: https://www.instagram.com/p/CzgwkPCuLdU/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==
-    fecha: 10/11/23
 notas:
   - texto: >
       
