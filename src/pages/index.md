@@ -5,11 +5,6 @@ slideppal:
     link: https://www.instagram.com/p/C3IeM5uub7_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
     imagenfondo: /img/publicaciones-feed.png
     alineado: derecha
-  - imagenfondo: /img/publicaciones-feed-1-.png
-    texto: "Exámenes regulares previos, libres y equivalentes. Accede a los
-      horarios: "
-    link: https://drive.google.com/file/d/1oxikPdiC4WNxFi5Yp6kjYyxeTaIT_MSq/view?usp=sharing
-    alineado: derecha
   - imagenfondo: /img/publicaciones-feed-2-.png
     texto: "Inscripciones "
     alineado: derecha
