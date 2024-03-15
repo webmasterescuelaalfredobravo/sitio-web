@@ -121,7 +121,7 @@ export default class Index extends React.Component {
                                 <option value="PI">Pre-inscripciones</option>
                                 <option value="DI">Directora - Ana Echenique</option>
                                 <option value="AD">Administración - Cecilia Sorianello</option>
-                                <option value="RL">Representante Legal - Mario Cabrera</option>
+                                <option value="RL">Secretaría</option>
                               </select>
                             </div>
                           </div>
