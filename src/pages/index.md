@@ -1,6 +1,9 @@
 ---
 templateKey: index-page
 slideppal:
+  - texto: Exámenes de Abril (sólo para estudiantes de 7° y egresados/as)
+    imagenfondo: /img/publicaciones-feed-14-.png
+    alineado: derecha
   - texto: Te invitamos a conocer más sobre nuestro proyecto educativo,  basado en
       la educación técnica, el cooperativismo y la mediación.
     imagenfondo: /img/img-laescuela-arbol.svg
