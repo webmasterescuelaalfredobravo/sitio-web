@@ -1,6 +1,13 @@
 ---
 templateKey: index-page
 slideppal:
+  - texto: SUMATE AL CANAL DE DIFUSIÓN DEL BRAVO! Toda la información oficial del
+      Bravo en tu celular ✅  Aquí compartiremos información de utilidad para la
+      comunidad educativa del Instituto Técnico Maestro Alfredo Bravo
+      📝  Novedades, efemérides, convocatorias y otras noticias de utilidad 🙌
+    link: " https://whatsapp.com/channel/0029VaVMBeO6rsQsJcn3QA2F"
+    imagenfondo: /img/whatsapp-image-2024-04-08-at-12.35.01-pm.jpeg
+    alineado: izquierda
   - texto: Exámenes de Abril (sólo para estudiantes de 7° y egresados/as)
     imagenfondo: /img/publicaciones-feed-14-.png
     alineado: derecha
