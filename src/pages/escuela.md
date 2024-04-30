@@ -62,6 +62,17 @@ notas:
     alineado: izquierda
     link: https://drive.google.com/file/d/1CF2R9_tRQ9BorXDMv0AC2ipdPirs2IVT/view?usp=sharing
     fecha: Para que otros mundos sean posibles
+  - titulo: CONSEJO ESCOLAR DE CONVIVENCIA
+    texto: >-
+      El Consejo Escolar de Convivencia (CEC) es un dispositivo para construir
+      una  convivencia democrática en la escuela. Asume un carácter: resolutivo,
+      informativo, consultivo y propositivo.
+
+      El CEC está integrado por representantes de los siguientes claustros:  estudiantes, familias, personal docente y no docente del Instituto Técnico Maestro Alfredo Bravo (ITMAB). 
+    alineado: izquierda
+    imagen: /img/publicaciones-feed-26-.png
+    link: https://drive.google.com/file/d/1vHL4BydXz1UY_Kf5rV3rHn1qEFVbTKjp/view?usp=sharing
+    fecha: 29/04/2024
   - titulo: MAESTRO MAYOR DE OBRAS
     texto: >+
       Las capacidades que el Maestro Mayor de Obras desarrolla en el marco de
@@ -139,15 +150,4 @@ notas:
     imagen: /img/1.svg
     link: https://drive.google.com/file/d/1HxeONbWHw0mX1gpcugLNFzVZosxOJXb8/view?usp=sharing
     fecha: Un poco de (nuestra) historia
-  - titulo: CONSEJO ESCOLAR DE CONVIVENCIA
-    texto: >-
-      El Consejo Escolar de Convivencia (CEC) es un dispositivo para construir
-      una  convivencia democrática en la escuela. Asume un carácter: resolutivo,
-      informativo, consultivo y propositivo.
-
-      El CEC está integrado por representantes de los siguientes claustros:  estudiantes, familias, personal docente y no docente del Instituto Técnico Maestro Alfredo Bravo (ITMAB). 
-    alineado: izquierda
-    imagen: /img/publicaciones-feed-26-.png
-    link: https://drive.google.com/file/d/1vHL4BydXz1UY_Kf5rV3rHn1qEFVbTKjp/view?usp=sharing
-    fecha: 29/04/2024
 ---
