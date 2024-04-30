@@ -72,7 +72,7 @@ notas:
     alineado: izquierda
     imagen: /img/publicaciones-feed-26-.png
     link: https://drive.google.com/file/d/1vHL4BydXz1UY_Kf5rV3rHn1qEFVbTKjp/view?usp=sharing
-    fecha: 29/04/2024
+    fecha: Apostamos a seguir construyendo de manera colectiva.
   - titulo: MAESTRO MAYOR DE OBRAS
     texto: >+
       Las capacidades que el Maestro Mayor de Obras desarrolla en el marco de
