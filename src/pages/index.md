@@ -1,6 +1,12 @@
 ---
 templateKey: index-page
 slideppal:
+  - texto: "Preinscripciones: aspirantes al ingreso ciclo lectivo 2025. Para
+      comenzar el trámite de preinscripción debes completar el siguiente
+      formulario"
+    link: https://docs.google.com/forms/d/e/1FAIpQLSeRAZySDNlIK8p-wVrZ-G0ivCKKuBpRCTvsO-iflBjMtQh7Qg/viewform?usp=sf_link
+    imagenfondo: /img/whatsapp-image-2024-08-06-at-10.25.10-am.jpeg
+    alineado: derecha
   - texto: SUMATE AL CANAL DE DIFUSIÓN DEL BRAVO! Toda la información oficial del
       Bravo en tu celular ✅  Aquí compartiremos información de utilidad para la
       comunidad educativa del Instituto Técnico Maestro Alfredo Bravo
@@ -25,12 +31,6 @@ slideppal:
   - texto: En 1992, la Asamblea General de las Naciones Unidas en proclama Día
       Internacional de las Cooperativas.  Por más cooperativismo transformador!
     imagenfondo: /img/publicaciones-feed-13-.png
-    alineado: derecha
-  - texto: "Preinscripciones: aspirantes al ingreso ciclo lectivo 2025. Para
-      comenzar el trámite de preinscripción debes completar el siguiente
-      formulario"
-    link: https://docs.google.com/forms/d/e/1FAIpQLSeRAZySDNlIK8p-wVrZ-G0ivCKKuBpRCTvsO-iflBjMtQh7Qg/viewform?usp=sf_link
-    imagenfondo: /img/whatsapp-image-2024-08-06-at-10.25.10-am.jpeg
     alineado: derecha
 notacorta: []
 ---
