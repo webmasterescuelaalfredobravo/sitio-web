@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: "Preinscripciones: aspirantes al ingreso ciclo lectivo 2025. Para
+  - texto: "Preinscripciones: aspirantes a ingreso del ciclo lectivo 2025. Para
       comenzar el trámite de preinscripción debes completar el siguiente
       formulario"
     link: https://docs.google.com/forms/d/e/1FAIpQLSeRAZySDNlIK8p-wVrZ-G0ivCKKuBpRCTvsO-iflBjMtQh7Qg/viewform?usp=sf_link
