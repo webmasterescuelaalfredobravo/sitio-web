@@ -26,11 +26,11 @@ slideppal:
       Internacional de las Cooperativas.  Por más cooperativismo transformador!
     imagenfondo: /img/publicaciones-feed-13-.png
     alineado: derecha
-  - texto: "Preinscripciones: aspirantes al ingreso ciclo lectivo 2024. Para
+  - texto: "Preinscripciones: aspirantes al ingreso ciclo lectivo 2025. Para
       comenzar el trámite de preinscripción debes completar el siguiente
       formulario"
-    link: https://forms.gle/g87fK15if8U4TGE16
-    imagenfondo: /img/convocatorias-inst-1-.png
+    link: https://docs.google.com/forms/d/e/1FAIpQLSeRAZySDNlIK8p-wVrZ-G0ivCKKuBpRCTvsO-iflBjMtQh7Qg/viewform?usp=sf_link
+    imagenfondo: /img/whatsapp-image-2024-08-06-at-10.25.10-am.jpeg
     alineado: derecha
 notacorta: []
 ---
