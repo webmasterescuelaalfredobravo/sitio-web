@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 slideppal:
-  - texto: Calendario febrero 2025. Comienzo del ciclo lectivo 2025, inscripciones,
+  - texto: Calendario febrero 2025. Comienzo del ciclo lectivo, inscripciones,
       ambientación para estudiantes de primer año y mesa de exámenes (En el
       enlace podrán acceder a los horarios de mesas de exámenes)
     imagenfondo: /img/publicaciones-bravo-1-.png
