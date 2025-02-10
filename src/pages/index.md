@@ -29,9 +29,5 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
-  - texto: En 1992, la Asamblea General de las Naciones Unidas en proclama Día
-      Internacional de las Cooperativas.  Por más cooperativismo transformador!
-    imagenfondo: /img/publicaciones-feed-13-.png
-    alineado: derecha
 notacorta: []
 ---
