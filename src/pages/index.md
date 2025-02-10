@@ -1,6 +1,12 @@
 ---
 templateKey: index-page
 slideppal:
+  - texto: Calendario febrero 2025. Comienzo del ciclo lectivo 2025, inscripciones,
+      ambientación para estudiantes de primer año y mesa de exámenes (En el
+      enlace podrán acceder a los horarios de mesas de exámenes)
+    imagenfondo: /img/publicaciones-bravo-1-.png
+    link: https://drive.google.com/file/d/1Xx98B8P6MUT8Cue80fdaeKYGF182_XeQ/view?usp=sharing
+    alineado: izquierda
   - texto: "Preinscripciones: aspirantes a ingreso del ciclo lectivo 2025. Para
       comenzar el trámite de preinscripción debes completar el siguiente
       formulario"
@@ -27,11 +33,5 @@ slideppal:
       Internacional de las Cooperativas.  Por más cooperativismo transformador!
     imagenfondo: /img/publicaciones-feed-13-.png
     alineado: derecha
-  - texto: Calendario febrero 2025. Comienzo del ciclo lectivo 2025, inscripciones,
-      ambientación para estudiantes de primer año y mesa de exámenes (En el
-      enlace podrán acceder a los horarios de mesas de exámenes)
-    imagenfondo: /img/publicaciones-bravo-1-.png
-    link: https://drive.google.com/file/d/1Xx98B8P6MUT8Cue80fdaeKYGF182_XeQ/view?usp=sharing
-    alineado: izquierda
 notacorta: []
 ---
