@@ -1,5 +1,6 @@
 const converter = require('json-2-csv');
-const request = require('request-promise');
+//const requestPromise = require('request-promise');
+
 
 class Parser {
 
@@ -14,7 +15,7 @@ class Parser {
     if (event.url) {
       type = this.getFileType(event.url);
       try {
-        data = await request(event.url);
+        data =  await readFile(event.target.files[0]);//await requestPromise(event.url);
         if (type == 'json') {
           data = JSON.parse(data);
         }
