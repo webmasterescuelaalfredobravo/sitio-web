@@ -15,6 +15,15 @@ slideppal:
       autorización en preceptoría "
     imagenfondo: /img/whatsapp-image-2025-03-11-at-1.16.00-pm.jpeg
     alineado: derecha
+  - texto: "BRAVO A LA UNIVERSIDAD 2025  ▶️Prepara física y matemática  para el
+      ingreso universitario (carreras como Ingeniería, Biología, Geología,
+      Medicina, Ciencias Exactas, Ciencias Químicas, entre otras). 📕📖  ✔️
+      Actividad gratuita y opcional, solo para estudiantes del Instituto  ✔️
+      VIERNES de 15.00 a 17.00hs  ✔️En nuestra escuela  ✔️Proyecto a cargo de la
+      docente Andrea Guevara. ✔️Para estudiantes de 6tos y 7mos   Inicia el
+      21/03/25 🗓️  ▶️Para inscribirse: solicitar autorización en preceptoría "
+    imagenfondo: /img/whatsapp-image-2025-03-17-at-11.34.04-am.jpeg
+    alineado: derecha
   - texto: SUMATE AL CANAL DE DIFUSIÓN DEL BRAVO! Toda la información oficial del
       Bravo en tu celular!
     link: " https://whatsapp.com/channel/0029VaVMBeO6rsQsJcn3QA2F"
@@ -25,14 +34,15 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
-  - texto: "BRAVO A LA UNIVERSIDAD 2025  ▶️Prepara física y matemática  para el
-      ingreso universitario (carreras como Ingeniería, Biología, Geología,
-      Medicina, Ciencias Exactas, Ciencias Químicas, entre otras). 📕📖  ✔️
-      Actividad gratuita y opcional, solo para estudiantes del Instituto  ✔️
-      VIERNES de 15.00 a 17.00hs  ✔️En nuestra escuela  ✔️Proyecto a cargo de la
-      docente Andrea Guevara. ✔️Para estudiantes de 6tos y 7mos   Inicia el
-      21/03/25 🗓️  ▶️Para inscribirse: solicitar autorización en preceptoría "
-    imagenfondo: /img/whatsapp-image-2025-03-17-at-11.34.04-am.jpeg
+  - imagenfondo: /img/whatsapp-image-2025-03-11-at-10.43.20-am.jpeg
+    texto: "BRAVO A LA UNIVERSIDAD 2025  ▶️Prepara química para el ingreso
+      universitario (carreras como medicina, odontología, farmacia, bioquímica,
+      nutrición, agronomía, lic. en química, química industrial, entre otras).
+      📕📖  ✔️ Actividad gratuita y opcional, solo para estudiantes del
+      Instituto  ✔️ JUEVES de 16.00 a 18.00hs  ✔️En nuestra escuela  ✔️Proyecto
+      a cargo del docente Sebastián Fissolo.  ✔️Para estudiantes de 6tos y
+      7mos   Inicia el 13/03/25 🗓️  ▶️Para inscribirse: solicitar autorización
+      en preceptoría "
     alineado: derecha
 notacorta: []
 ---
