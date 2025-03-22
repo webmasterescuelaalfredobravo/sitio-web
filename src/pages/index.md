@@ -18,16 +18,18 @@ slideppal:
     link: " https://whatsapp.com/channel/0029VaVMBeO6rsQsJcn3QA2F"
     imagenfondo: /img/whatsapp-image-2024-04-08-at-12.35.01-pm.jpeg
     alineado: izquierda
-  - imagenfondo: /img/publicaciones-feed-19-.png
-    link: https://www.instagram.com/reel/C5qZuBVuPxK/?igsh=MWZndDZqdmNjYXlpeQ==
-    alineado: derecha
-    texto: Proyecto institucional  El Bravo a la Universidad - ⏩Para estudiante de
-      6° y 7° año inscribite y prepararte para el ingreso a la universidad
-      (UNC-UTN) 📒
   - texto: Te invitamos a conocer más sobre nuestro proyecto educativo,  basado en
       la educación técnica, el cooperativismo y la mediación.
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
+  - texto: "LABORATORIO MUSICAL DEL BRAVO 2025 🎸  ▶️Espacio de encuentro para
+      músicos y músicas del Cole 🎶🎼  ✔️ Actividad gratuita y opcional, solo
+      para estudiantes del Instituto  ✔️ 2 sábados al mes de 09.00 a
+      13.00hs  ✔️En nuestra escuela  ✔️Proyecto a cargo del docente Tomás
+      Cerrada   Inicia el 22/03/25 🗓️  ▶️Para inscribirse: solicitar
+      autorización en preceptoría "
+    imagenfondo: /img/whatsapp-image-2025-03-11-at-1.16.00-pm.jpeg
+    alineado: derecha
 notacorta: []
 ---
