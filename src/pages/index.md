@@ -25,5 +25,14 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
+  - texto: "BRAVO A LA UNIVERSIDAD 2025  ▶️Prepara física y matemática  para el
+      ingreso universitario (carreras como Ingeniería, Biología, Geología,
+      Medicina, Ciencias Exactas, Ciencias Químicas, entre otras). 📕📖  ✔️
+      Actividad gratuita y opcional, solo para estudiantes del Instituto  ✔️
+      VIERNES de 15.00 a 17.00hs  ✔️En nuestra escuela  ✔️Proyecto a cargo de la
+      docente Andrea Guevara. ✔️Para estudiantes de 6tos y 7mos   Inicia el
+      21/03/25 🗓️  ▶️Para inscribirse: solicitar autorización en preceptoría "
+    imagenfondo: /img/whatsapp-image-2025-03-17-at-11.34.04-am.jpeg
+    alineado: derecha
 notacorta: []
 ---
