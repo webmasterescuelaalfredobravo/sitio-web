@@ -24,16 +24,6 @@ slideppal:
       21/03/25 🗓️  ▶️Para inscribirse: solicitar autorización en preceptoría "
     imagenfondo: /img/whatsapp-image-2025-03-17-at-11.34.04-am.jpeg
     alineado: derecha
-  - texto: SUMATE AL CANAL DE DIFUSIÓN DEL BRAVO! Toda la información oficial del
-      Bravo en tu celular!
-    link: " https://whatsapp.com/channel/0029VaVMBeO6rsQsJcn3QA2F"
-    imagenfondo: /img/whatsapp-image-2024-04-08-at-12.35.01-pm.jpeg
-    alineado: izquierda
-  - texto: Te invitamos a conocer más sobre nuestro proyecto educativo,  basado en
-      la educación técnica, el cooperativismo y la mediación.
-    imagenfondo: /img/img-laescuela-arbol.svg
-    alineado: derecha
-    link: /escuela
   - imagenfondo: /img/whatsapp-image-2025-03-11-at-10.43.20-am.jpeg
     texto: "BRAVO A LA UNIVERSIDAD 2025  ▶️Prepara química para el ingreso
       universitario (carreras como medicina, odontología, farmacia, bioquímica,
@@ -44,5 +34,15 @@ slideppal:
       7mos   Inicia el 13/03/25 🗓️  ▶️Para inscribirse: solicitar autorización
       en preceptoría "
     alineado: derecha
+  - texto: SUMATE AL CANAL DE DIFUSIÓN DEL BRAVO! Toda la información oficial del
+      Bravo en tu celular!
+    link: " https://whatsapp.com/channel/0029VaVMBeO6rsQsJcn3QA2F"
+    imagenfondo: /img/whatsapp-image-2024-04-08-at-12.35.01-pm.jpeg
+    alineado: izquierda
+  - texto: Te invitamos a conocer más sobre nuestro proyecto educativo,  basado en
+      la educación técnica, el cooperativismo y la mediación.
+    imagenfondo: /img/img-laescuela-arbol.svg
+    alineado: derecha
+    link: /escuela
 notacorta: []
 ---
