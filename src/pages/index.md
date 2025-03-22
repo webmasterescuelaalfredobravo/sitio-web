@@ -9,12 +9,10 @@ slideppal:
     alineado: izquierda
   - texto: "LABORATORIO MUSICAL DEL BRAVO 2025 🎸  ▶️Espacio de encuentro para
       músicos y músicas del Cole 🎶🎼  ✔️ Actividad gratuita y opcional, solo
-      para estudiantes del Instituto  ✔️ 2 sábados al mes de 09.00 a
-      13.00hs  ✔️En nuestra escuela  ✔️Proyecto a cargo del docente Tomás
-      Cerrada   Inicia el 22/03/25 🗓️  ▶️Para inscribirse: solicitar
-      autorización en preceptoría "
+      para estudiantes del Instituto  "
     imagenfondo: /img/whatsapp-image-2025-03-11-at-1.16.00-pm.jpeg
     alineado: derecha
+    link: https://whatsapp.com/channel/0029VaVMBeO6rsQsJcn3QA2F/144
   - texto: "BRAVO A LA UNIVERSIDAD 2025  ▶️Prepara física y matemática  para el
       ingreso universitario (carreras como Ingeniería, Biología, Geología,
       Medicina, Ciencias Exactas, Ciencias Químicas, entre otras). 📕📖  ✔️
