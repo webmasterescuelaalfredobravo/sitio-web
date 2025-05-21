@@ -29,5 +29,12 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
+  - texto: "Una Biblio para el Bravo📕📖  ▶️ Sumate a organizar y rearmar la
+      biblioteca del cole. Este es un espacio donde se organizan actividades
+      literarias y se comparten conversaciones sobre libros.  ✔️Actividad
+      gratuita solo para estudiantes de 4 a 7 años del instituto ✔️Sabados de 9
+      a 13 (cada 15 días) en el Cole "
+    imagenfondo: /img/489598664_1168656875056162_7774620891275065367_n.jpg
+    alineado: derecha
 notacorta: []
 ---
