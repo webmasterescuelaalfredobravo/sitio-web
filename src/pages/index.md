@@ -36,5 +36,10 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
+  - texto: cronograma de mesas de exámenes de JULIO 2025. estudiantes de 2do a 7mo
+      año y egresados/as que tengan materias previas.
+    imagenfondo: /img/whatsapp-image-2025-06-13-at-5.32.37-pm.jpeg
+    link: https://drive.google.com/file/d/1vfXen2FywjvknlP7rX2n9mKSr-7lC7ng/view?usp=sharing
+    alineado: izquierda
 notacorta: []
 ---
