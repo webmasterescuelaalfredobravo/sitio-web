@@ -41,5 +41,11 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
+  - imagenfondo: /img/whatsapp-image-2025-08-11-at-9.45.58-am.jpeg
+    texto: Ya están abiertas las pre inscripciones para aspirantes a ingresar al
+      Instituto Técnico Maestro Alfredo Bravo en el ciclo lectivo 2026   Para
+      iniciar el trámite completa el siguiente formulario de pre inscripción 👉
+    alineado: derecha
+    link: "https://forms.gle/QnTxEqnbLcw2u56bA "
 notacorta: []
 ---
