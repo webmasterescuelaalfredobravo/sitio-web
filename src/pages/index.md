@@ -1,6 +1,12 @@
 ---
 templateKey: index-page
 slideppal:
+  - imagenfondo: /img/whatsapp-image-2025-08-11-at-9.45.58-am.jpeg
+    texto: Ya están abiertas las pre inscripciones para aspirantes a ingresar al
+      Instituto Técnico Maestro Alfredo Bravo en el ciclo lectivo 2026   Para
+      iniciar el trámite completa el siguiente formulario de pre inscripción 👉
+    alineado: derecha
+    link: "https://forms.gle/QnTxEqnbLcw2u56bA "
   - texto: cronograma de mesas de exámenes de JULIO 2025. estudiantes de 2do a 7mo
       año y egresados/as que tengan materias previas.
     imagenfondo: /img/whatsapp-image-2025-06-13-at-5.32.37-pm.jpeg
@@ -41,11 +47,5 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
-  - imagenfondo: /img/whatsapp-image-2025-08-11-at-9.45.58-am.jpeg
-    texto: Ya están abiertas las pre inscripciones para aspirantes a ingresar al
-      Instituto Técnico Maestro Alfredo Bravo en el ciclo lectivo 2026   Para
-      iniciar el trámite completa el siguiente formulario de pre inscripción 👉
-    alineado: derecha
-    link: "https://forms.gle/QnTxEqnbLcw2u56bA "
 notacorta: []
 ---
