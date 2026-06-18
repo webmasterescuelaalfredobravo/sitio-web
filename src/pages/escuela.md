@@ -39,6 +39,16 @@ slide:
       dialogando y debatiendo en conjunto. "
     fecha: 07/12/2022
     imagenfondo: /img/whatsapp-image-2023-02-08-at-10.40.55-am.jpeg
+  - texto: Junio en el Bravo comenzó con las elecciones del Centro de Estudiantes
+      2026 🗳️  ➡️ Jóvenes de todos los cursos ejercieron su derecho a la
+      participación política y a la organización colectiva.   🙌Celebramos estas
+      instancias porque garantizan el derecho de las juventudes a ser
+      protagonistas, a decidir sobre su presente y a construir la escuela que
+      quieren habitar!   🙌Felicitaciones a todos/as los/as estudiantes por el
+      desarrollo de la jornada y al nuevo centro de estudiantes!
+    titulo: Elecciones centro de estudiantes 2026
+    imagenfondo: /img/whatsapp-image-2026-06-18-at-10.12.42.jpeg
+    fecha: 18/06/2026
 notas:
   - texto: >
       
