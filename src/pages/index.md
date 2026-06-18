@@ -6,11 +6,6 @@ slideppal:
     link: " https://whatsapp.com/channel/0029VaVMBeO6rsQsJcn3QA2F"
     imagenfondo: /img/whatsapp-image-2024-04-08-at-12.35.01-pm.jpeg
     alineado: izquierda
-  - texto: Te invitamos a conocer más sobre nuestro proyecto educativo,  basado en
-      la educación técnica, el cooperativismo y la mediación.
-    imagenfondo: /img/img-laescuela-arbol.svg
-    alineado: derecha
-    link: /escuela
   - imagenfondo: /img/whatsapp-image-2026-06-18-at-09.28.54-3-.jpeg
     texto: "BRAVO A LA UNIVERSIDAD Prepara materias para el ingreso
       universitario!   ➡️QUÍMICA: todos los jueves de 16.00 a
@@ -49,5 +44,10 @@ slideppal:
       en el marco de la jornada escolar.  Inscribiré ahora ♟️ consulta con el/a
       delegado/a de tu curso!
     alineado: derecha
+  - texto: Te invitamos a conocer más sobre nuestro proyecto educativo,  basado en
+      la educación técnica, el cooperativismo y la mediación.
+    imagenfondo: /img/img-laescuela-arbol.svg
+    alineado: derecha
+    link: /escuela
 notacorta: []
 ---
