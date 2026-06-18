@@ -11,5 +11,14 @@ slideppal:
     imagenfondo: /img/img-laescuela-arbol.svg
     alineado: derecha
     link: /escuela
+  - imagenfondo: /img/whatsapp-image-2026-06-18-at-09.28.54-3-.jpeg
+    texto: "BRAVO A LA UNIVERSIDAD Prepara materias para el ingreso
+      universitario!   ➡️QUÍMICA: todos los jueves de 16.00 a
+      18.00hs  ➡️MATEMÁTICA Y FÍSICA: todos los viernes de 15.45 a
+      17.45hs   📍En la escuela   Actividad optativa para estudiantes de 6 y 7
+      año .  -solo para estudiantes del ITMAB  📚Para inscribirte solo tenes que
+      solicitar autorización en preceptoria!  Inicia en abril!  Actividad a
+      cargo de los docentes: Andrea Guevara y Sebastián Fissolo"
+    alineado: derecha
 notacorta: []
 ---
