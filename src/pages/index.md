@@ -36,5 +36,18 @@ slideppal:
       (todos los cursos).  🎸Para inscribirte solo tenes que solicitar
       autorización en preceptoría!  -Actividad a cargo del docente Tomas Cerrada
     alineado: derecha
+  - imagenfondo: /img/whatsapp-image-2026-06-18-at-09.28.54.jpeg
+    texto: En abril vuelve el Club Estudiantil de Ajedrez 2026 ♟️  ➡️Este espacio
+      comenzó a funcionar en el 2025 a partir de un proyecto llevado adelante
+      por estudiantes de 2do A en el marco de la materia Lengua y
+      Literatura!   🔃Este año ya se anotaron en el club 220 estudiantes de
+      todos los cursos de nuestra escuela.   🙌Te invitamos a ser parte de una
+      experiencia de protagonismo estudiantil con el objetivo de la difusión del
+      juego y la creación, organización y gestión de espacios para aprender y
+      jugar ajedrez, promoviendo otras formas de socialización y otros modos de
+      estar juntos!   ➡️Los encuentros del club se realizan durante 40 minutos
+      en el marco de la jornada escolar.  Inscribiré ahora ♟️ consulta con el/a
+      delegado/a de tu curso!
+    alineado: derecha
 notacorta: []
 ---
