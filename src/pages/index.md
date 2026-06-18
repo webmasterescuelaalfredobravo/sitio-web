@@ -29,5 +29,12 @@ slideppal:
       autorización en preceptoría!  -Actividad a cargo de la docente Lucía
       Sandiano
     alineado: derecha
+  - imagenfondo: /img/whatsapp-image-2026-06-18-at-09.28.54-1-.jpeg
+    texto: LABORATORIO MUSICAL🎼🎤  Espacio de encuentro para músicos/as   ➡️Los
+      sábados, cada quince días. De 09.00 a 12.30hs  ➡️Inicia el 18/04  📍En la
+      escuela   Actividad optativa, gratuita solo para estudiantes del ITMAB
+      (todos los cursos).  🎸Para inscribirte solo tenes que solicitar
+      autorización en preceptoría!  -Actividad a cargo del docente Tomas Cerrada
+    alineado: derecha
 notacorta: []
 ---
