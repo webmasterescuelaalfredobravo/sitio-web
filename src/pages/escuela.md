@@ -3,6 +3,16 @@ templateKey: escuela-page
 path: /escuela
 title: Escuela
 slide:
+  - texto: Junio en el Bravo comenzó con las elecciones del Centro de Estudiantes
+      2026 🗳️  ➡️ Jóvenes de todos los cursos ejercieron su derecho a la
+      participación política y a la organización colectiva.   🙌Celebramos estas
+      instancias porque garantizan el derecho de las juventudes a ser
+      protagonistas, a decidir sobre su presente y a construir la escuela que
+      quieren habitar!   🙌Felicitaciones a todos/as los/as estudiantes por el
+      desarrollo de la jornada y al nuevo centro de estudiantes!
+    titulo: Elecciones centro de estudiantes 2026
+    imagenfondo: /img/whatsapp-image-2026-06-18-at-10.12.42.jpeg
+    fecha: 18/06/2026
   - titulo: "Día de la familia y de la tradición "
     texto: '"La naturaleza es nuestra casa, la familia nuestro hogar, la educación
       nuestro refugio" 🍃 ➡️Te compartimos el registro de la celebración del día
@@ -39,15 +49,23 @@ slide:
       dialogando y debatiendo en conjunto. "
     fecha: 07/12/2022
     imagenfondo: /img/whatsapp-image-2023-02-08-at-10.40.55-am.jpeg
-  - texto: Junio en el Bravo comenzó con las elecciones del Centro de Estudiantes
-      2026 🗳️  ➡️ Jóvenes de todos los cursos ejercieron su derecho a la
-      participación política y a la organización colectiva.   🙌Celebramos estas
-      instancias porque garantizan el derecho de las juventudes a ser
-      protagonistas, a decidir sobre su presente y a construir la escuela que
-      quieren habitar!   🙌Felicitaciones a todos/as los/as estudiantes por el
-      desarrollo de la jornada y al nuevo centro de estudiantes!
-    titulo: Elecciones centro de estudiantes 2026
-    imagenfondo: /img/whatsapp-image-2026-06-18-at-10.12.42.jpeg
+  - titulo: "Salida educativa al Espacio para la Memoria y la Promoción de Derechos
+      Humanos “La Perla” - Ex Centro Clandestino de Detención Tortura y
+      exterminio. "
+    texto: "➡️En el marco del proyecto interdisciplinario “Testimonio, memoria e
+      historia reciente: experiencias de la juventud en los 60 y 70 en Sierras
+      Chicas, del terrorismo de Estado y la desaparición de personas”, que
+      articula los espacios curriculares de Historia, Música, Geografía, Lengua
+      y Literatura, el pasado viernes 15 de mayo se llevó a cabo la salida
+      educativa.   ☘️Esta visita significó para las/los estudiantes una
+      experiencia fundamental para la indagación de nuestra traumática historia
+      reciente.  🌹Además la visita fue significativa dado que se realizó dos
+      días después que la justicia confirmara el hallazgo de 17 nuevas
+      identidades de desaparecidos en el predio.  Estamos convencidos de la
+      importancia de estas acciones, que se vinculan íntimamente con la
+      identidad institucional del Alfredo Bravo y la propuesta ligada a Derechos
+      Humanos que forma parte de la currícula de nuestra institución. 🌹"
+    imagenfondo: /img/whatsapp-image-2026-06-18-at-10.13.13.jpeg
     fecha: 18/06/2026
 notas:
   - texto: >
