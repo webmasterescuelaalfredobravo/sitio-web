@@ -20,5 +20,14 @@ slideppal:
       solicitar autorización en preceptoria!  Inicia en abril!  Actividad a
       cargo de los docentes: Andrea Guevara y Sebastián Fissolo"
     alineado: derecha
+  - imagenfondo: /img/whatsapp-image-2026-06-18-at-09.28.54-2-.jpeg
+    texto: UNA BIBLIO PARA EL BRAVO 📚  Sumate a organizar, rearmar la biblioteca
+      del cole y compartir actividades literarias   ➡️Los sábados, cada quince
+      días. De 09.00 a 12.30  ➡️Inicia el 18/04  📍En la escuela   Actividad
+      optativa, gratuita para estudiantes de 4 a 7 año .  📖solo para
+      estudiantes del ITMAB  📚Para inscribirte solo tenes que solicitar
+      autorización en preceptoría!  -Actividad a cargo de la docente Lucía
+      Sandiano
+    alineado: derecha
 notacorta: []
 ---
