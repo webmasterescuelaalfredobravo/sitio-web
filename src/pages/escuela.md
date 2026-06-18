@@ -13,6 +13,38 @@ slide:
     titulo: Elecciones centro de estudiantes 2026
     imagenfondo: /img/whatsapp-image-2026-06-18-at-10.12.42.jpeg
     fecha: 18/06/2026
+  - titulo: Renovamos el domo de nuestra escuela, reemplazando la estructura de
+      madera por una metálica
+    texto: ➡️Esta actividad comenzó durante el ciclo lectivo 2025 en donde
+      estudiantes de 6 y 7 año confeccionaron las partes.   ➡️El pasado viernes
+      en colaboración con los demás cursos montaron la estructura y la
+      instalaron.   🍂Fue una hermosa jornada de trabajo colectivo de toda la
+      comunidad educativa.   ⚛️La esencia de un domo geodésico va más allá de su
+      forma. Su estructura basada en triángulos crea un espacio abierto, sin
+      columnas ni esquinas, donde circula el encuentro, la palabra y la
+      mirada.   Su forma envolvente invita a la conexión, al diálogo y al
+      trabajo en comunidad.  Un domo no es solo una estructura es un espacio que
+      une, contiene y transforma la manera en que nos encontramos 🌍
+    imagenfondo: /img/whatsapp-image-2026-06-18-at-10.13.56.jpeg
+    fecha: 18/06/2026
+  - titulo: "Salida educativa al Espacio para la Memoria y la Promoción de Derechos
+      Humanos “La Perla” - Ex Centro Clandestino de Detención Tortura y
+      exterminio. "
+    texto: "➡️En el marco del proyecto interdisciplinario “Testimonio, memoria e
+      historia reciente: experiencias de la juventud en los 60 y 70 en Sierras
+      Chicas, del terrorismo de Estado y la desaparición de personas”, que
+      articula los espacios curriculares de Historia, Música, Geografía, Lengua
+      y Literatura, el pasado viernes 15 de mayo se llevó a cabo la salida
+      educativa.   ☘️Esta visita significó para las/los estudiantes una
+      experiencia fundamental para la indagación de nuestra traumática historia
+      reciente.  🌹Además la visita fue significativa dado que se realizó dos
+      días después que la justicia confirmara el hallazgo de 17 nuevas
+      identidades de desaparecidos en el predio.  Estamos convencidos de la
+      importancia de estas acciones, que se vinculan íntimamente con la
+      identidad institucional del Alfredo Bravo y la propuesta ligada a Derechos
+      Humanos que forma parte de la currícula de nuestra institución. 🌹"
+    imagenfondo: /img/whatsapp-image-2026-06-18-at-10.13.13.jpeg
+    fecha: 18/06/2026
   - titulo: "Día de la familia y de la tradición "
     texto: '"La naturaleza es nuestra casa, la familia nuestro hogar, la educación
       nuestro refugio" 🍃 ➡️Te compartimos el registro de la celebración del día
@@ -49,24 +81,6 @@ slide:
       dialogando y debatiendo en conjunto. "
     fecha: 07/12/2022
     imagenfondo: /img/whatsapp-image-2023-02-08-at-10.40.55-am.jpeg
-  - titulo: "Salida educativa al Espacio para la Memoria y la Promoción de Derechos
-      Humanos “La Perla” - Ex Centro Clandestino de Detención Tortura y
-      exterminio. "
-    texto: "➡️En el marco del proyecto interdisciplinario “Testimonio, memoria e
-      historia reciente: experiencias de la juventud en los 60 y 70 en Sierras
-      Chicas, del terrorismo de Estado y la desaparición de personas”, que
-      articula los espacios curriculares de Historia, Música, Geografía, Lengua
-      y Literatura, el pasado viernes 15 de mayo se llevó a cabo la salida
-      educativa.   ☘️Esta visita significó para las/los estudiantes una
-      experiencia fundamental para la indagación de nuestra traumática historia
-      reciente.  🌹Además la visita fue significativa dado que se realizó dos
-      días después que la justicia confirmara el hallazgo de 17 nuevas
-      identidades de desaparecidos en el predio.  Estamos convencidos de la
-      importancia de estas acciones, que se vinculan íntimamente con la
-      identidad institucional del Alfredo Bravo y la propuesta ligada a Derechos
-      Humanos que forma parte de la currícula de nuestra institución. 🌹"
-    imagenfondo: /img/whatsapp-image-2026-06-18-at-10.13.13.jpeg
-    fecha: 18/06/2026
 notas:
   - texto: >
       
