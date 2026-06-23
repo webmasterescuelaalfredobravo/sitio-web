@@ -3,16 +3,6 @@ templateKey: escuela-page
 path: /escuela
 title: Escuela
 slide:
-  - texto: Junio en el Bravo comenzó con las elecciones del Centro de Estudiantes
-      2026 🗳️  ➡️ Jóvenes de todos los cursos ejercieron su derecho a la
-      participación política y a la organización colectiva.   🙌Celebramos estas
-      instancias porque garantizan el derecho de las juventudes a ser
-      protagonistas, a decidir sobre su presente y a construir la escuela que
-      quieren habitar!   🙌Felicitaciones a todos/as los/as estudiantes por el
-      desarrollo de la jornada y al nuevo centro de estudiantes!
-    titulo: Elecciones centro de estudiantes 2026
-    imagenfondo: /img/whatsapp-image-2026-06-18-at-10.12.42.jpeg
-    fecha: 18/06/2026
   - titulo: Renovamos el domo de nuestra escuela, reemplazando la estructura de
       madera por una metálica
     texto: ➡️Esta actividad comenzó durante el ciclo lectivo 2025 en donde
@@ -26,6 +16,16 @@ slide:
       trabajo en comunidad.  Un domo no es solo una estructura es un espacio que
       une, contiene y transforma la manera en que nos encontramos 🌍
     imagenfondo: /img/whatsapp-image-2026-06-18-at-10.13.56.jpeg
+    fecha: 18/06/2026
+  - texto: Junio en el Bravo comenzó con las elecciones del Centro de Estudiantes
+      2026 🗳️  ➡️ Jóvenes de todos los cursos ejercieron su derecho a la
+      participación política y a la organización colectiva.   🙌Celebramos estas
+      instancias porque garantizan el derecho de las juventudes a ser
+      protagonistas, a decidir sobre su presente y a construir la escuela que
+      quieren habitar!   🙌Felicitaciones a todos/as los/as estudiantes por el
+      desarrollo de la jornada y al nuevo centro de estudiantes!
+    titulo: Elecciones centro de estudiantes 2026
+    imagenfondo: /img/whatsapp-image-2026-06-18-at-10.12.42.jpeg
     fecha: 18/06/2026
   - titulo: "Salida educativa al Espacio para la Memoria y la Promoción de Derechos
       Humanos “La Perla” - Ex Centro Clandestino de Detención Tortura y
